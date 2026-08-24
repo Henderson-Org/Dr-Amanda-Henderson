@@ -17,7 +17,7 @@ import path from "node:path";
 const ROOT = process.cwd();
 // SEO_APP_DIR override exists for testing the checker against fixtures.
 const APP_DIR = process.env.SEO_APP_DIR || path.join(ROOT, ".next", "server", "app");
-const ORIGIN = "https://dramandahenderson.com";
+const ORIGIN = "https://dramandahenderson.com.au";
 
 const errors = [];
 const err = (page, msg) => errors.push(`${page}: ${msg}`);

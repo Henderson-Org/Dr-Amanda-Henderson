@@ -10,7 +10,9 @@ export const site = {
   shortName: "Dr Amanda Henderson",
   role: "Family GP",
   // Preferred canonical origin. Keep in sync with the deployed domain.
-  url: "https://dramandahenderson.com",
+  // Primary domain is the Australian .com.au; the .com is kept only as a
+  // permanent redirect to the matching .com.au path (configured in Vercel).
+  url: "https://dramandahenderson.com.au",
   locale: "en_AU",
   tagline: "Thoughtful, thorough GP care for every stage of life.",
   description:

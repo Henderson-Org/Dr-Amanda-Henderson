@@ -34,17 +34,25 @@ defaults to `main`. Choose one:
 
 Every branch/PR also gets its own **preview deployment** automatically.
 
-## Custom domain (at launch — see MIGRATION-QA.md)
+## Custom domain
 
-1. **Vercel → Project → Settings → Domains** → add `dramandahenderson.com`
-   (and `www.dramandahenderson.com`).
-2. Set the **apex** (`dramandahenderson.com`) as primary; Vercel will 308/301
-   `www` → apex (keeps a single canonical host — matches `site.url`).
-3. Update DNS at the registrar to Vercel's records (A/ALIAS for apex, CNAME for
-   `www`). HTTPS is issued automatically.
-4. Only point DNS **after** the pre-launch QA in `MIGRATION-QA.md` passes and
-   the blocking assets (§H — real photography, images, analytics IDs, opening
-   hours) are in.
+The **canonical production domain is the Australian apex `dramandahenderson.com.au`**
+(matches `site.url`). The `.com` is kept registered but exists only as a
+permanent redirect to the matching `.com.au` path. See
+`docs/DOMAIN-MIGRATION.md` for the full migration runbook and the exact Vercel
+domain settings.
+
+In **Vercel → Project → Settings → Domains** the intended state is:
+
+1. `dramandahenderson.com.au` — **primary** (Vercel serves it directly, 200).
+2. `www.dramandahenderson.com.au` — **redirect → `dramandahenderson.com.au`**.
+3. `dramandahenderson.com` — **redirect → `dramandahenderson.com.au`**
+   (path-preserving; `.com/womens-health` → `.com.au/womens-health`).
+4. `www.dramandahenderson.com` — **redirect → `dramandahenderson.com.au`**.
+
+Vercel's "Redirect to" on each non-primary domain issues a single-hop 308
+(permanent, path-preserving) and provisions HTTPS automatically. Keep the
+`.com` redirects in place indefinitely.
 
 ## Notes
 

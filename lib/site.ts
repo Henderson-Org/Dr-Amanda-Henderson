@@ -609,7 +609,7 @@ export const practiceStatus: {
   acceptingNewPatients: boolean | null;
   note: string;
 } = {
-  acceptingNewPatients: null,
+  acceptingNewPatients: true,
   note: "",
 };
 

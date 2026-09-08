@@ -127,25 +127,6 @@ export default function TeenageHealthPage() {
             </div>
           ))}
         </div>
-        <p className="mt-6 max-w-3xl leading-8 text-muted">
-          Some of this overlaps with other parts of the practice: periods and
-          contraception sit within{" "}
-          <Link
-            href="/womens-health"
-            className="font-medium text-sage-700 hover:underline"
-          >
-            women&rsquo;s health
-          </Link>
-          , and low mood, anxiety and sleep within{" "}
-          <Link
-            href="/general-gp-care"
-            className="font-medium text-sage-700 hover:underline"
-          >
-            general GP care
-          </Link>
-          . A teenager doesn&rsquo;t need to know which box a problem belongs in -
-          that&rsquo;s my job.
-        </p>
       </section>
 
       {/* When to see + what a first visit is like */}

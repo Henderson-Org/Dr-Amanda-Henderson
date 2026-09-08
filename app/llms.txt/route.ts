@@ -1,4 +1,12 @@
-import { site, practice, fullAddress, serviceAreas, nearbyAreas } from "@/lib/site";
+import {
+  site,
+  practice,
+  fullAddress,
+  serviceAreas,
+  nearbyAreas,
+  clinicExtras,
+  practiceStatus,
+} from "@/lib/site";
 
 // Experimental AI-discovery file (https://llmstxt.org). A concise, curated
 // pointer for answer engines - NOT a replacement for the crawlable HTML/schema.
@@ -26,6 +34,22 @@ export function GET() {
     `- Practice: ${practice.name}, ${fullAddress}, Australia`,
     `- Phone: ${practice.phone}`,
     `- Bookings: HotDoc (${practice.bookingUrl})`,
+    ...(clinicExtras.openingHours.length
+      ? [
+          `- Hours: ${clinicExtras.openingHours
+            .map(
+              (o) =>
+                `${o.days[0]}${o.days.length > 1 ? ` to ${o.days[o.days.length - 1]}` : ""} ${o.opens}-${o.closes}`,
+            )
+            .join("; ")}`,
+        ]
+      : []),
+    ...(practiceStatus.acceptingNewPatients !== null
+      ? [
+          `- New patients: ${practiceStatus.acceptingNewPatients ? "accepting new patients" : "not currently accepting new patients"}`,
+        ]
+      : []),
+    `- Primary location: Maroubra / South Maroubra`,
     `- Areas served: ${nearbyAreas.join(", ")} (Sydney's eastern suburbs)`,
     "",
   ];

@@ -19,6 +19,7 @@ import {
   serviceAreas,
   approach,
   nearbyAreas,
+  areasSentence,
 } from "@/lib/site";
 
 const description =
@@ -53,7 +54,7 @@ const aboutFaqs = [
   },
   {
     q: "Where does Dr Amanda Henderson practise?",
-    a: `She consults at ${practice.name}, ${fullAddress}, welcoming patients and families from across Sydney's eastern suburbs, including ${nearbyAreas.slice(0, 7).join(", ")} and Pagewood.`,
+    a: `She consults at ${practice.name}, ${fullAddress}, welcoming patients and families from across Sydney's eastern suburbs, including ${areasSentence()}.`,
   },
   {
     q: "What does Dr Amanda Henderson particularly help with?",

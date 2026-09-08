@@ -14,6 +14,8 @@ import {
   practice,
   fullAddress,
   site,
+  areasSentence,
+  neighbouringAreas,
 } from "@/lib/site";
 import { getAllArticles } from "@/lib/articles";
 
@@ -295,13 +297,18 @@ export default function HomePage() {
           </div>
           <div className="text-muted">
             <h3 className="font-serif text-lg font-semibold text-ink">
-              Serving the eastern suburbs
+              Serving Maroubra &amp; the eastern suburbs
             </h3>
             <p className="mt-3 leading-7">
-              Conveniently located in South Maroubra, welcoming patients and
-              families from across Sydney&rsquo;s Eastern Suburbs, including
-              Maroubra, Coogee, Randwick, Kingsford, Malabar, Matraville and
-              Pagewood.
+              Based in South Maroubra, in Sydney&rsquo;s Eastern Suburbs.
+              Maroubra and South Maroubra are home, and patients are also welcome
+              from neighbouring {areasSentence(neighbouringAreas)}.{" "}
+              <Link
+                href="/contact#areas"
+                className="font-medium text-sage-700 hover:underline"
+              >
+                Areas we serve &amp; getting here →
+              </Link>
             </p>
             <h3 className="mt-6 font-serif text-lg font-semibold text-ink">
               In an emergency

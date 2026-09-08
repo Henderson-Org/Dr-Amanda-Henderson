@@ -76,7 +76,7 @@ export const hotdocEmbed = "";
 //       [{ days: ["Monday","Tuesday","Wednesday","Thursday","Friday"],
 //          opens: "09:00", closes: "17:00" }]
 //     (days use full English weekday names; times are 24-hour "HH:MM").
-//   • geo — the practice's latitude/longitude.
+//   • geo — DONE (geocoded from the address; refine to the GBP pin if needed).
 //   • sameAs — verified public profiles that belong to THIS Dr Amanda Henderson
 //     / GP Maroubra (e.g. the practice's Google Business Profile URL). Never add
 //     an unverified URL or a profile for a different person of the same name.
@@ -87,7 +87,10 @@ export const clinicExtras: {
   sameAs: string[];
 } = {
   openingHours: [],
-  geo: null,
+  // Geocoded from the practice street address (street-level point on Meagher
+  // Avenue, South Maroubra). Refine to the exact Google Business Profile pin
+  // when that is confirmed.
+  geo: { latitude: -33.952084, longitude: 151.249297 },
   sameAs: [],
 };
 
@@ -564,14 +567,70 @@ export const approach = [
   },
 ];
 
-// Nearby areas for natural local relevance (used sparingly, not as doorway pages).
+// Nearby areas for natural local relevance (used sparingly, not as doorway
+// pages). Maroubra/South Maroubra are the PRIMARY location; the rest are
+// genuinely-served neighbouring suburbs listed as SECONDARY signals only.
+// Keep this list to suburbs the practice actually serves - never add a suburb
+// for SEO alone.
 export const nearbyAreas = [
   "Maroubra",
   "South Maroubra",
   "Coogee",
+  "South Coogee",
   "Randwick",
   "Kingsford",
   "Malabar",
   "Matraville",
   "Pagewood",
+];
+
+// The practice's single strongest location signal. Never diluted or replaced by
+// broader "Eastern Suburbs" terminology in titles, H1s or the NAP.
+export const primaryArea = "Maroubra";
+
+// Neighbouring suburbs (everything after Maroubra/South Maroubra) - the
+// secondary catchment.
+export const neighbouringAreas = nearbyAreas.slice(2);
+
+// Natural-language ", X, Y and Z" fragment from a suburb list, so body copy,
+// FAQs and llms.txt stay in sync with `nearbyAreas` (avoids hard-coded, drift-
+// prone slices).
+export function areasSentence(list: readonly string[] = nearbyAreas): string {
+  if (list.length === 0) return "";
+  if (list.length === 1) return list[0];
+  return `${list.slice(0, -1).join(", ")} and ${list[list.length - 1]}`;
+}
+
+// Practice status surfaced to patients and answer engines. Rendered ONLY when
+// `acceptingNewPatients` is a boolean - left null until confirmed, so the site
+// never asserts an unverified fact. Set to true/false (and an optional note)
+// once the practice confirms.
+export const practiceStatus: {
+  acceptingNewPatients: boolean | null;
+  note: string;
+} = {
+  acceptingNewPatients: null,
+  note: "",
+};
+
+// Location / catchment FAQs for the Contact page. Genuine patient questions,
+// answered only from facts the site already establishes (address, catchment,
+// shared-care arrangement) - not doorway-page filler.
+export const locationFaqs: { q: string; a: string }[] = [
+  {
+    q: "Where is Dr Amanda Henderson's practice?",
+    a: `Dr Amanda Henderson consults at ${practice.name}, ${fullAddress} - in South Maroubra, in Sydney's eastern suburbs. Use the "Get directions" link on this page to open the exact location in Google Maps.`,
+  },
+  {
+    q: "Which suburbs does the practice serve?",
+    a: `The practice is based in South Maroubra and welcomes patients from across the eastern suburbs, including ${areasSentence()}.`,
+  },
+  {
+    q: "Can I see the GP if I live in Coogee, Randwick or Kingsford?",
+    a: `Yes. The practice is in South Maroubra and welcomes patients from neighbouring suburbs such as ${areasSentence(neighbouringAreas)} - most are only a short drive away.`,
+  },
+  {
+    q: "Can much of my pregnancy or ongoing care happen close to home?",
+    a: "Often, yes. As a registered shared antenatal care provider with the Royal Hospital for Women in Randwick, Dr Henderson can look after much of your routine pregnancy care in Maroubra, coordinating with the hospital - so more of your care stays local.",
+  },
 ];

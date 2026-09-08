@@ -51,6 +51,13 @@ export const practice = {
 
 export const fullAddress = `${practice.streetAddress}, ${practice.suburb} NSW ${practice.postcode}`;
 
+// Verified Google Business Profile for Dr Amanda Henderson (her practitioner
+// listing - Google entity /g/11w29m2jgw). Used as a sameAs on the Person and
+// Physician entities to reconcile the site with her Google profile and reviews.
+// This is the share link Google generates for the profile; can be swapped for a
+// plain maps.google.com place URL if preferred. Leave "" to omit.
+export const googleBusinessProfile = "https://share.google/k1eoAIwoCXWrrA0q1";
+
 // ---------------------------------------------------------------------------
 // HotDoc website widget (live availability).
 //

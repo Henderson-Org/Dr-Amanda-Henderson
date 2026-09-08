@@ -1,4 +1,17 @@
-import { site, practice, serviceAreas, nearbyAreas, clinicExtras } from "./site";
+import {
+  site,
+  practice,
+  serviceAreas,
+  nearbyAreas,
+  clinicExtras,
+  googleBusinessProfile,
+} from "./site";
+
+// Verified external profiles for Dr Amanda Henderson (the human / practitioner).
+// Only URLs confirmed to belong to THIS doctor - never a same-name profile.
+const practitionerSameAs = [practice.bookingUrl, googleBusinessProfile].filter(
+  Boolean,
+);
 
 // ---------------------------------------------------------------------------
 // Structured-data (schema.org JSON-LD) entity graph.
@@ -99,7 +112,7 @@ export function personSchema() {
         recognizedBy: { "@id": IDS.racgp },
       },
     ],
-    sameAs: [practice.bookingUrl],
+    sameAs: practitionerSameAs,
   };
 }
 
@@ -126,7 +139,7 @@ export function physicianSchema() {
     areaServed,
     memberOf: [{ "@id": IDS.racgp }, { "@id": IDS.clinic }],
     availableService: availableServices,
-    sameAs: [practice.bookingUrl],
+    sameAs: practitionerSameAs,
     potentialAction: {
       "@type": "ReserveAction",
       name: "Book an appointment",

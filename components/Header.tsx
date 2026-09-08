@@ -27,7 +27,7 @@ export function Header() {
         {/* Desktop nav */}
         <nav
           aria-label="Primary"
-          className="hidden items-center gap-x-5 lg:flex xl:gap-x-6"
+          className="hidden items-center gap-x-4 xl:flex xl:gap-x-5"
         >
           {nav.map((item) => (
             <Link
@@ -52,7 +52,7 @@ export function Header() {
         {/* Mobile toggle */}
         <button
           type="button"
-          className="inline-flex items-center gap-2 rounded-full border border-line px-3 py-2 text-sm font-medium text-ink lg:hidden"
+          className="inline-flex items-center gap-2 rounded-full border border-line px-3 py-2 text-sm font-medium text-ink xl:hidden"
           aria-expanded={open}
           aria-controls="mobile-menu"
           onClick={() => setOpen((v) => !v)}
@@ -76,7 +76,7 @@ export function Header() {
         <nav
           id="mobile-menu"
           aria-label="Primary"
-          className="border-t border-line bg-paper lg:hidden"
+          className="border-t border-line bg-paper xl:hidden"
         >
           <ul className="container-page flex flex-col py-3">
             {nav.map((item) => (

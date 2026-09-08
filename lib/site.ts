@@ -124,6 +124,7 @@ export const nav = [
   { label: "Pregnancy", href: "/pregnancy-care" },
   { label: "Children's Health", href: "/childrens-health" },
   { label: "General GP Care", href: "/general-gp-care" },
+  { label: "Teenage Health", href: "/teenage-health" },
   { label: "Articles", href: "/articles" },
   { label: "Fees", href: "/fees" },
 ] as const;
@@ -216,7 +217,7 @@ export const serviceAreas: ServiceArea[] = [
         a: "No. Cervical screening is done in general practice, and self-collection is now an option for most people. You can book directly - no referral needed.",
       },
     ],
-    related: ["pregnancy-care", "general-gp-care"],
+    related: ["pregnancy-care", "general-gp-care", "teenage-health"],
     metaTitle: "Women's Health GP in Maroubra | Dr Amanda Henderson",
     metaDescription:
       "Women's health care in Maroubra with Dr Amanda Henderson: contraception, periods and PCOS, cervical screening, breast concerns, perimenopause and menopause.",
@@ -368,7 +369,7 @@ export const serviceAreas: ServiceArea[] = [
         a: "Yes. A GP can listen to your concerns, do an initial assessment and help rule out other contributors, then guide you on next steps - which usually involves referral to a paediatrician for formal assessment.",
       },
     ],
-    related: ["pregnancy-care", "general-gp-care"],
+    related: ["pregnancy-care", "general-gp-care", "teenage-health"],
     metaTitle: "Children's Health GP in Maroubra | Dr Amanda Henderson",
     metaDescription:
       "Family GP care for babies and children in Maroubra: feeding and development, immunisations, common childhood illnesses and parental concerns.",
@@ -451,7 +452,7 @@ export const serviceAreas: ServiceArea[] = [
         a: "Bring your Medicare card, any current medications (or a list), details of your past medical history and immunisations if you have them, any recent test results or specialist letters, and a note of what you'd like to cover.",
       },
     ],
-    related: ["womens-health", "childrens-health"],
+    related: ["womens-health", "childrens-health", "teenage-health"],
     metaTitle: "General Family Medicine GP in Maroubra | Dr Amanda Henderson",
     metaDescription:
       "Whole-person general practice in Maroubra: everyday and ongoing health, mental health, preventative care, men's health, travel medicine and lifestyle support.",
@@ -462,6 +463,96 @@ export const serviceAreas: ServiceArea[] = [
       "Travel medicine",
       "Lifestyle medicine",
       "Mental health",
+    ],
+  },
+  {
+    slug: "teenage-health",
+    title: "Teenage Health",
+    href: "/teenage-health",
+    eyebrow: "Care for teenagers & their families",
+    image: { name: "teenage-health", alt: "Dr Amanda Henderson, family GP in Maroubra" },
+    summary:
+      "Down-to-earth GP care for teenagers - periods, skin, mood and anxiety, sleep and everyday health - with room to talk privately when it helps.",
+    intro:
+      "Teenagers do better with a GP who takes them seriously and gives them room to speak for themselves. I look after young people through the in-between years - for period problems and skin, low mood and anxiety, tiredness, and the ordinary business of staying well - and I'm glad to see them with a parent, on their own, or a bit of both.",
+    covers: [
+      {
+        heading: "Growing up and puberty",
+        body: "Questions about development, periods starting, height, weight or whether what's happening is normal. Often the reassurance is the treatment, and knowing what to expect makes the rest easier.",
+      },
+      {
+        heading: "Periods and reproductive health",
+        body: "Painful, heavy or irregular periods, period-related mood changes, and questions about contraception or sexual health as they become relevant. Most of this is straightforward to sort in general practice.",
+      },
+      {
+        heading: "Skin, especially acne",
+        body: "Acne is common and very treatable, and starting sooner helps prevent scarring and the knock to confidence. There is far more available than the products on the pharmacy shelf.",
+      },
+      {
+        heading: "Mood, anxiety and stress",
+        body: "Low mood, worry and panic, school and social pressure, and the flat, worn-out feeling that often comes with them. A GP is a sensible - and confidential - first stop.",
+      },
+      {
+        heading: "Sleep, energy and tiredness",
+        body: "Teenagers are often genuinely exhausted. Sometimes it is sleep and screens, sometimes low iron or thyroid, occasionally mood. It is worth checking rather than guessing.",
+      },
+      {
+        heading: "Everyday health and prevention",
+        body: "Coughs, headaches, gut troubles, sports injuries, vaccinations and the occasional worrying symptom - the same everyday reasons any of us see a GP.",
+      },
+    ],
+    whenToSee: [
+      "Periods are painful, heavy, irregular or getting in the way of school",
+      "Acne is bothering you and the pharmacy products aren't cutting it",
+      "You've felt low, anxious or not yourself for more than a couple of weeks",
+      "You're tired all the time and can't work out why",
+      "There's a question about your body you'd rather ask a doctor than the internet",
+      "A parent has noticed a change and you'd both like it looked at",
+    ],
+    consultation:
+      "A first visit is mostly conversation. I'll ask what's brought you in and how it's affecting your days, examine you if it's useful, and explain plainly what I think is going on and what the choices are. Some things are settled in one visit; others are worth trying something and reviewing. A parent is welcome for all of it, part of it, or none of it - whatever suits.",
+    faqs: [
+      {
+        q: "What can a GP actually help a teenager with?",
+        a: "A great deal - periods and reproductive health, acne and other skin problems, low mood and anxiety, sleep and constant tiredness, headaches and gut troubles, vaccinations, sports injuries, and any new symptom that's worrying you. A GP can assess it, start treatment, and arrange tests or a referral when that's the right step.",
+      },
+      {
+        q: "Can my teenager see the GP without me in the room?",
+        a: "Yes, if that's what they'd like. Many visits run with a parent there for part of the appointment and the young person seen on their own for another part. Seeing a teenager by themselves for a few minutes is a normal piece of adolescent care - it helps them practise speaking up about their own health, and it doesn't mean anything is wrong.",
+      },
+      {
+        q: "Is what my teenager tells the doctor kept private?",
+        a: "Generally yes - a young person's privacy is respected in much the same way as an adult's. There are limits: if I'm seriously concerned about their safety, or someone else's, I may need to involve a parent or another service. If that ever comes up, I'll be upfront about it rather than going behind anyone's back.",
+      },
+      {
+        q: "At what age can a teenager see a GP on their own?",
+        a: "There isn't a single birthday where everything changes over. Whether a young person can make their own decisions about care depends on how well they understand what's involved, and that develops at different times for different people. In practice we work it out together, and a parent is usually still part of the picture.",
+      },
+      {
+        q: "Does a parent have to come to the appointment?",
+        a: "For a first visit, anything complicated, or a younger teenager, it helps to have a parent there. An older teenager can also book and come on their own. Either way, they'll be listened to and taken seriously.",
+      },
+      {
+        q: "What happens at the first appointment?",
+        a: "Mostly talking. I'll ask what's going on and how it's affecting you, examine you only if it's relevant, explain what I think and lay out the options, and we'll agree the next step together. Nothing happens without it being explained first.",
+      },
+      {
+        q: "When would a GP involve another doctor or service?",
+        a: "General practice handles most teenage health concerns from start to finish. When something calls for a paediatrician, a psychologist, a gynaecologist or another specialist, I'll say so, explain why, and help arrange it - you won't be left to sort it out alone.",
+      },
+    ],
+    related: ["womens-health", "general-gp-care", "childrens-health"],
+    metaTitle: "Teenage & Adolescent Health GP in Maroubra | Dr Amanda Henderson",
+    metaDescription:
+      "Down-to-earth GP care for teenagers in Maroubra and Sydney's Eastern Suburbs: periods, skin, mood and anxiety, sleep and everyday health, with room to talk privately.",
+    knowsAbout: [
+      "Adolescent health",
+      "Teenage health",
+      "Puberty and development",
+      "Adolescent mental health",
+      "Acne",
+      "Menstrual health",
+      "Adolescent immunisation",
     ],
   },
 ];
@@ -496,6 +587,12 @@ export const inBriefByArea: Record<string, string[]> = {
     "This covers everyday and ongoing health, mental health, preventative checks, men's health, travel medicine and lifestyle support.",
     "Care emphasises prevention and continuity - knowing you over time.",
   ],
+  "teenage-health": [
+    "Dr Amanda Henderson is a family GP (FRACGP) in Maroubra who cares for teenagers as part of general practice.",
+    "Common reasons to visit include periods, acne, low mood or anxiety, ongoing tiredness, and everyday health questions.",
+    "Part of a consultation can happen privately between the teenager and doctor - a normal part of adolescent care.",
+    "A GP can assess a concern, start treatment, and arrange a referral if a specialist or another service is needed.",
+  ],
 };
 
 // "Sources and further reading" - reputable Australian sources, per hub.
@@ -528,6 +625,33 @@ export const furtherReadingByArea: Record<string, SourceLink[]> = {
     { label: "Healthdirect - Travel vaccinations", url: "https://www.healthdirect.gov.au/travel-vaccinations" },
     { label: "Cancer Council Australia", url: "https://www.cancer.org.au/" },
     { label: "RACGP", url: "https://www.racgp.org.au/", note: "Royal Australian College of General Practitioners" },
+  ],
+  "teenage-health": [
+    { label: "headspace", url: "https://headspace.org.au/", note: "Australian mental health support for young people aged 12-25" },
+    { label: "Kids Helpline", url: "https://kidshelpline.com.au/", note: "Free, confidential 24/7 phone and online counselling for ages 5-25" },
+    { label: "ReachOut", url: "https://au.reachout.com/", note: "Youth wellbeing information, with a dedicated section for parents" },
+    { label: "Healthdirect - Puberty", url: "https://www.healthdirect.gov.au/puberty" },
+    { label: "Healthdirect - Acne", url: "https://www.healthdirect.gov.au/acne" },
+  ],
+};
+
+// Teenage Health - bespoke narrative beyond the shared ServiceArea shape: the
+// dual teenager/parent framing and the confidentiality explanation. The privacy
+// wording is deliberately cautious for NSW/Australia (no fixed "consent age",
+// no absolute confidentiality claims) and is flagged for Dr Henderson's review.
+export const teenageHealthContent = {
+  seeingAGp: [
+    "Seeing a doctor on your own for the first time can feel like a big step. In practice it's mostly a conversation. You don't need the medical words for what's going on, and the things that feel awkward to say out loud are usually the ones worth saying.",
+    "For parents, this is often the age where your job shifts from speaking for your child to helping them speak for themselves. Both of you are welcome, and there's no single right way to do it.",
+  ],
+  privacy: [
+    "As young people get older they take on more of their own healthcare, and part of a consultation may happen one-to-one between the teenager and me. That's a routine part of adolescent care - a chance to ask the question they didn't want to ask in front of anyone - not a way of leaving parents out.",
+    "In general, what a young person tells their doctor is kept private, in much the same way it is for an adult. There are limits, and I'm honest about them: if I'm seriously worried about someone's safety - their own or someone else's - I may need to involve a parent or another service. If that happens, I'll talk it through first wherever I can.",
+    "Whether a young person can make a particular decision about their own care depends on how well they understand what's involved, rather than on reaching a set age. Most of the time it's worked out together, with a parent still part of the picture.",
+  ],
+  forParents: [
+    "Bringing your teenager to a GP who takes them seriously - and gives them a little room - is one of the more useful things you can do for their long-term health. It's how young people learn that looking after themselves is normal and that a doctor is a safe person to talk to.",
+    "You're not being sidelined. For most visits you'll be there for the bulk of it, and you're always welcome to raise what's worrying you.",
   ],
 };
 

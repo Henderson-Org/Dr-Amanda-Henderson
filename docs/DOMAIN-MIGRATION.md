@@ -87,3 +87,16 @@ configuring them. Leave MX / SPF / DKIM / TXT records untouched.
   data all agree with them, so Google sees one winner, not two competing
   versions.
 - **Keep the `.com` redirects indefinitely.** Never remove them.
+
+## Deploying after a GitHub repo transfer (gotcha)
+
+When the repository was transferred to a new GitHub org, the Vercel Git
+integration stopped receiving webhooks, so merges to `main` silently stopped
+deploying. After reconnecting the integration in **Vercel → Settings → Git**
+(and authorising the Vercel GitHub App on the new org), note that **"Redeploy"
+rebuilds an *existing* deployment's commit** - it does **not** pick up merges
+that landed while the integration was disconnected. To ship the current `main`,
+trigger a **fresh build of the latest commit** (push a new commit to `main`, or
+use Vercel's "Deploy" against the production branch). A reset cache `age` (0) on
+the live domain confirms a new build promoted; verify the canonical then reads
+`https://dramandahenderson.com.au`.

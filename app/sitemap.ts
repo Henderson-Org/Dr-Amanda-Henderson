@@ -8,6 +8,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
   const staticPages: MetadataRoute.Sitemap = [
     { url: `${base}/`, changeFrequency: "monthly", priority: 1.0 },
     { url: `${base}/about`, changeFrequency: "monthly", priority: 0.9 },
+    { url: `${base}/midlife-health-check-sydney`, changeFrequency: "monthly", priority: 0.9 },
     { url: `${base}/contact`, changeFrequency: "yearly", priority: 0.7 },
     { url: `${base}/editorial-policy`, changeFrequency: "yearly", priority: 0.3 },
     { url: `${base}/privacy`, changeFrequency: "yearly", priority: 0.3 },

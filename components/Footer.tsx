@@ -36,6 +36,14 @@ export function Footer() {
               </li>
             ))}
             <li>
+              <Link
+                href="/midlife-health-check-sydney"
+                className="text-muted hover:text-ink"
+              >
+                Midlife Health Check
+              </Link>
+            </li>
+            <li>
               <Link href="/contact" className="text-muted hover:text-ink">
                 Contact
               </Link>

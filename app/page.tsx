@@ -217,6 +217,32 @@ export default function HomePage() {
         </div>
       </section>
 
+      {/* 5b - FEATURED SERVICE: The Midlife Health Check */}
+      <section className="container-page pb-4">
+        <div className="overflow-hidden rounded-2xl border border-line bg-canvas p-8 md:p-12">
+          <div className="max-w-3xl">
+            <p className="eyebrow">Preventive health · 40s, 50s &amp; beyond</p>
+            <h2 className="mt-3 font-serif text-3xl font-semibold sm:text-4xl">
+              When did you last properly check your health?
+            </h2>
+            <p className="mt-4 text-lg leading-8 text-muted">
+              The Midlife Health Check is a comprehensive, GP-led review for your
+              40s, 50s and beyond - bringing together your history, screening,
+              appropriate tests and results, so you know where your health stands
+              and what to focus on next.
+            </p>
+            <div className="mt-7">
+              <Link
+                href="/midlife-health-check-sydney"
+                className="btn-primary"
+              >
+                Explore the Midlife Health Check
+              </Link>
+            </div>
+          </div>
+        </div>
+      </section>
+
       {/* 6b - BOOK ONLINE / AVAILABILITY (above the articles) */}
       <BookingWidget />
 

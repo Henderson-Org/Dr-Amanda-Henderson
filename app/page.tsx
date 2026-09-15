@@ -127,12 +127,15 @@ export default function HomePage() {
           </p>
         </div>
 
-        <div className="mt-10 grid gap-5 sm:grid-cols-2 lg:grid-cols-4">
+        {/* Centered flex-wrap so 5 cards sit on one row on wide desktop, fall
+            to a balanced 3+2 on medium widths, and never leave a far-left
+            orphan (the trailing card centres). */}
+        <div className="mt-10 flex flex-wrap justify-center gap-5">
           {serviceAreas.map((s) => (
             <Link
               key={s.slug}
               href={s.href}
-              className="group flex flex-col rounded-2xl border border-line bg-white/60 p-6 shadow-soft transition-all hover:-translate-y-0.5 hover:border-sage-200"
+              className="group flex basis-full flex-col rounded-2xl border border-line bg-white/60 p-6 shadow-soft transition-all hover:-translate-y-0.5 hover:border-sage-200 sm:basis-[calc(50%_-_0.75rem)] lg:basis-[calc(100%/3_-_1rem)] xl:basis-[calc(20%_-_1.1rem)]"
             >
               <p className="text-xs font-semibold uppercase tracking-wide text-sage-600">
                 {s.eyebrow}

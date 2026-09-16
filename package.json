@@ -9,6 +9,7 @@
     "start": "next start",
     "lint": "next lint",
     "check:seo": "node scripts/check-seo.mjs",
+    "check:redirects": "node scripts/check-redirects.mjs",
     "verify": "next build && node scripts/check-seo.mjs"
   },
   "engines": {

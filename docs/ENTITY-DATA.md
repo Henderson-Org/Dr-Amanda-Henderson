@@ -1,5 +1,9 @@
 # Entity, structured-data & LLM-readability layer
 
+> _Note (2026-09): the canonical production domain is now
+> **dramandahenderson.com.au** (the entity `@id`s and URLs use it). Any ".com"
+> below is historical. See [DOMAIN-MIGRATION.md](DOMAIN-MIGRATION.md)._
+
 How dramandahenderson.com makes the core entity — **Dr Amanda Henderson, female
 family GP, Maroubra** — machine-readable for search engines and answer engines
 (ChatGPT, Google AI Overviews/Gemini, Claude, Perplexity), while keeping strong

@@ -1,5 +1,10 @@
 # Migration Audit & Architecture Plan
 
+> _Superseded note (2026-09): the canonical production domain is now
+> **dramandahenderson.com.au**, with **.com** permanently redirecting to it.
+> Where this plan says to keep ".com as canonical host", read it as historical.
+> Current source of truth: [docs/DOMAIN-MIGRATION.md](docs/DOMAIN-MIGRATION.md)._
+
 **Project:** dramandahenderson.com — Squarespace → modern code-based website
 **Prepared:** 2026-08-08
 **Positioning change:** Skin cancer checks and cosmetic procedures are intentionally removed from the practice's positioning (see §4).

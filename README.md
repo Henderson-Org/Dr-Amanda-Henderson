@@ -8,6 +8,22 @@ antenatal care, children's health, family medicine and preventative health.
 Skin cancer checks and cosmetic procedures have been intentionally removed from
 the practice's positioning.
 
+## Domain & SEO
+
+The canonical production domain is **https://dramandahenderson.com.au**. The old
+`.com` domain is kept only as a permanent redirect to the matching `.com.au`
+path (configured in Vercel domain settings). Full migration runbook and Google
+Search Console steps: [`docs/DOMAIN-MIGRATION.md`](docs/DOMAIN-MIGRATION.md).
+
+Two guards keep this from regressing:
+
+- `npm run check:seo` (build-time) — fails the build if any built output
+  (canonicals, OG, JSON-LD, sitemap, robots, internal links) references the
+  retired `.com` domain, plus the usual metadata/JSON-LD checks.
+- `npm run check:redirects` (live) — asserts every old `.com` URL permanently
+  redirects to the exact `.com.au` path (one hop, never 200) and that `.com.au`
+  serves 200 with a self-referencing canonical.
+
 ## Stack
 
 - **Next.js 15** (App Router) · **React 19** · **TypeScript** — static generation, minimal client JS

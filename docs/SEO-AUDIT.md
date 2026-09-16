@@ -1,5 +1,10 @@
 # SEO audit — dramandahenderson.com
 
+> _Superseded note (2026-09): the canonical production domain is now
+> **dramandahenderson.com.au**, with **.com** permanently redirecting to it.
+> This audit predates that move. Current source of truth:
+> [DOMAIN-MIGRATION.md](DOMAIN-MIGRATION.md)._
+
 **Date:** 2026-08-08 · **Method:** automated crawl of the production build (all
 40 sitemap URLs + noindex/utility pages), checking titles, meta descriptions,
 canonicals, headings, Open Graph, structured data, images/alt, word counts,

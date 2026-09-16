@@ -1,5 +1,10 @@
 # Go-live runbook — moving dramandahenderson.com off Squarespace
 
+> _Superseded note (2026-09): the canonical production domain is now
+> **dramandahenderson.com.au**, with **.com** permanently redirecting to it.
+> This runbook predates that move — treat ".com as primary/canonical" below as
+> historical. Current source of truth: [docs/DOMAIN-MIGRATION.md](docs/DOMAIN-MIGRATION.md)._
+
 **This is a platform migration, not a domain migration.** You keep the domain
 `dramandahenderson.com` and simply point it at the new site (Vercel) instead of
 Squarespace. Nothing about the domain's history/authority is lost.

@@ -9,6 +9,9 @@
 //   • missing/duplicate <title>, missing meta description
 //   • missing/incorrect canonical, missing og:title/og:image (indexable pages)
 //   • html without lang="en-AU"
+//   • any reference to the retired .com domain in built output (canonicals,
+//     OG URLs, JSON-LD, internal links, sitemap, robots, llms) — domain-
+//     migration regression guard
 //
 // Usage: npm run check:seo   (after npm run build)
 import { readdir, readFile, stat } from "node:fs/promises";
@@ -19,15 +22,20 @@ const ROOT = process.cwd();
 const APP_DIR = process.env.SEO_APP_DIR || path.join(ROOT, ".next", "server", "app");
 const ORIGIN = "https://dramandahenderson.com.au";
 
+// Domain-migration regression guard: the retired .com domain must never appear
+// in built output (canonicals, OG URLs, JSON-LD @id/url, internal links,
+// sitemap, robots, llms). Matches dramandahenderson.com NOT followed by ".au".
+const OLD_DOMAIN = /dramandahenderson\.com(?!\.au)/;
+
 const errors = [];
 const err = (page, msg) => errors.push(`${page}: ${msg}`);
 
-async function walk(dir) {
+async function walk(dir, re = /\.html$/) {
   const out = [];
   for (const name of await readdir(dir)) {
     const p = path.join(dir, name);
-    if ((await stat(p)).isDirectory()) out.push(...(await walk(p)));
-    else if (name.endsWith(".html")) out.push(p);
+    if ((await stat(p)).isDirectory()) out.push(...(await walk(p, re)));
+    else if (re.test(name)) out.push(p);
   }
   return out;
 }
@@ -144,11 +152,23 @@ async function main() {
 
     if (!/<html[^>]*lang="en-AU"/.test(html)) err(route, 'missing lang="en-AU"');
 
+    // Domain-migration guard: no reference to the retired .com domain.
+    if (OLD_DOMAIN.test(html)) err(route, "references the retired .com domain");
+
     // OG only required on indexable pages
     if (!isNoindex) {
       if (!rx(html, /<meta property="og:title" content="([^"]*)"/)) err(route, "missing og:title");
       if (!rx(html, /<meta property="og:image" content="([^"]*)"/)) err(route, "missing og:image");
     }
+  }
+
+  // Domain-migration guard across non-HTML build output (sitemap, robots,
+  // llms.txt, RSC payloads) so old-domain URLs can't regress there either.
+  const dataFiles = await walk(APP_DIR, /\.(body|txt|xml|json|rsc)$/);
+  for (const f of dataFiles) {
+    const c = await readFile(f, "utf8");
+    if (OLD_DOMAIN.test(c))
+      err(path.relative(APP_DIR, f), "references the retired .com domain");
   }
 
   // duplicate titles across indexable pages

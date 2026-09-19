@@ -216,6 +216,10 @@ export const serviceAreas: ServiceArea[] = [
         q: "Do I need a referral for cervical screening?",
         a: "No. Cervical screening is done in general practice, and self-collection is now an option for most people. You can book directly - no referral needed.",
       },
+      {
+        q: "Can a GP help with low iron and iron deficiency?",
+        a: "Yes - low iron is one of the most common things I check for, particularly with heavy periods, ongoing tiredness, hair thinning, breathlessness or feeling faint. A simple blood test, including your ferritin (iron stores), shows whether you're low, and treatment ranges from dietary changes and iron tablets to an iron infusion when that's appropriate. Just as important, we look for and treat the underlying cause, such as heavy periods.",
+      },
     ],
     related: ["pregnancy-care", "general-gp-care", "teenage-health"],
     metaTitle: "Women's Health GP in Maroubra | Dr Amanda Henderson",
@@ -229,6 +233,7 @@ export const serviceAreas: ServiceArea[] = [
       "Endometriosis",
       "Menopause",
       "Perimenopause",
+      "Iron deficiency",
     ],
   },
   {
@@ -448,6 +453,10 @@ export const serviceAreas: ServiceArea[] = [
         a: "Ideally six to eight weeks before you travel, as some vaccines need time or several doses. If your trip is sooner, it's still worth coming in - we'll do what we can.",
       },
       {
+        q: "I'm tired all the time - could it be low iron?",
+        a: "It might be. Low iron (iron deficiency) is a common and very treatable cause of persistent tiredness, along with things like thyroid problems, poor sleep, low mood, and vitamin B12 or vitamin D deficiency. A GP can take a history, examine you and arrange the right blood tests - including iron studies and ferritin - then treat the low iron and whatever is driving it.",
+      },
+      {
         q: "What should I bring to my first appointment?",
         a: "Bring your Medicare card, any current medications (or a list), details of your past medical history and immunisations if you have them, any recent test results or specialist letters, and a note of what you'd like to cover.",
       },
@@ -463,6 +472,7 @@ export const serviceAreas: ServiceArea[] = [
       "Travel medicine",
       "Lifestyle medicine",
       "Mental health",
+      "Iron deficiency",
     ],
   },
   {
@@ -567,6 +577,7 @@ export const inBriefByArea: Record<string, string[]> = {
   "womens-health": [
     "Dr Amanda Henderson provides women's health care at GP Maroubra, in South Maroubra.",
     "Common reasons to visit include contraception, heavy or painful periods, PCOS, breast concerns, cervical screening, sexual health, and perimenopause or menopause.",
+    "Low iron (iron deficiency) is common in women, especially with heavy periods, and can be confirmed with a blood test (including ferritin) and treated.",
     "Most concerns can be assessed and managed in general practice, with referral arranged when it's needed.",
     "Cervical screening - including self-collection for most people - is available without a referral.",
   ],

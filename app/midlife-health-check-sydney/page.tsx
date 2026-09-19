@@ -157,7 +157,7 @@ const faqs = [
   },
   {
     q: "What blood tests should I have at 40 or 50?",
-    a: "Often cholesterol and other lipids, blood glucose or HbA1c, kidney and liver function, and iron studies, with others added depending on your history and symptoms. Blood tests are chosen for you rather than ordered as a set battery, and part of the value is knowing which tests you don't need.",
+    a: "Often cholesterol and other lipids, blood glucose or HbA1c, kidney and liver function, and iron studies (to check for low iron), with others added depending on your history and symptoms. Blood tests are chosen for you rather than ordered as a set battery, and part of the value is knowing which tests you don't need.",
   },
   {
     q: "Does a midlife health check include blood tests?",

@@ -725,7 +725,7 @@
     "claim_text": "Is what my teenager tells the doctor kept private? Generally yes - a young person's privacy is respected in much the same way as an adult's. There are limits: if I'm seriously concerned about their safety, or someone else's, I may need to involve a parent or another service. If that ever comes up, I'll be upfront about it ... (also privacy narrative: 'In general, what a young person tells their doctor is kept private, in much the same way it is for an adult. There are limits ...')",
     "category": "confidentiality / consent (adolescent) - legal-clinical",
     "risk": "HIGH",
-    "status": "needs_review",
+    "status": "removed",
     "wording_acceptable": true,
     "recommended_wording": null,
     "primary_source": {
@@ -742,7 +742,7 @@
     },
     "evidence_summary": "NSW Health and RACGP guidance support that a Gillick-competent/mature minor is entitled to confidentiality about their health information in much the same way as an adult, subject to limits where there are serious safety concerns (risk to self or others), when disclosure may be required. The site's wording ('generally', 'there are limits', 'I'll be upfront') is deliberately non-absolute and aligns with this guidance. It does not assert absolute confidentiality and does not state a fixed consent age.",
     "limitations": "Confidentiality and consent for minors are legally nuanced and fact-specific (each presentation assessed individually; mandatory reporting and other statutory obligations may apply). This audit is not legal advice.",
-    "reviewer_notes": "FLAG FOR PROFESSIONAL/LEGAL REVIEW (do not assert absolutes). Wording is defensible and cautious as drafted. Recommend Dr Henderson and/or her medical defence organisation (e.g. MDA National/Avant) confirm the confidentiality and mandatory-reporting phrasing suits her NSW practice before publish. No wording change recommended by this audit beyond that sign-off.",
+    "reviewer_notes": "FLAG FOR PROFESSIONAL/LEGAL REVIEW (do not assert absolutes). Wording is defensible and cautious as drafted. Recommend Dr Henderson and/or her medical defence organisation (e.g. MDA National/Avant) confirm the confidentiality and mandatory-reporting phrasing suits her NSW practice before publish. No wording change recommended by this audit beyond that sign-off. [FAQ removed 2026-09-20; confidentiality now covered in the confidentiality section - see IND-25.]",
     "last_verified": "2026-09-20",
     "review_due": "2027-09-20"
   },
@@ -753,7 +753,7 @@
     "claim_text": "At what age can a teenager see a GP on their own? There isn't a single birthday where everything changes over. Whether a young person can make their own decisions about care depends on how well they understand what's involved, and that develops at different times for different people. In practice we work it out together, and a parent is usually still part of the picture. (also teenageHealthContent.privacy: 'Whether a young person can make a particular decision about their own care depends on how well they understand what's involved, rather than on reaching a set age.')",
     "category": "consent / mature minor (adolescent) - legal-clinical",
     "risk": "HIGH",
-    "status": "needs_review",
+    "status": "removed",
     "wording_acceptable": true,
     "recommended_wording": null,
     "primary_source": {
@@ -770,7 +770,7 @@
     },
     "evidence_summary": "Accurately reflects the 'mature minor'/Gillick-competence principle in NSW: capacity to consent depends on the young person's understanding of what is proposed rather than a fixed age, assessed case by case, with family involvement encouraged where appropriate. The copy explicitly avoids stating a set age - the correct, defensible framing.",
     "limitations": "Capacity is assessed per decision and per presentation; not a blanket status. Legal nuance means practitioner/legal sign-off is prudent.",
-    "reviewer_notes": "FLAG FOR PROFESSIONAL/LEGAL REVIEW alongside PILLAR-29. As drafted it is consistent with NSW Health/MDA guidance and appropriately avoids absolutes. No wording change recommended beyond sign-off.",
+    "reviewer_notes": "FLAG FOR PROFESSIONAL/LEGAL REVIEW alongside PILLAR-29. As drafted it is consistent with NSW Health/MDA guidance and appropriately avoids absolutes. No wording change recommended beyond sign-off. [FAQ removed 2026-09-20; mature-minor now covered in the confidentiality section - see IND-25.]",
     "last_verified": "2026-09-20",
     "review_due": "2027-09-20"
   },
@@ -798,7 +798,7 @@
     },
     "evidence_summary": "Offering part of the consultation privately (time alone with the adolescent) is a recognised, recommended element of adolescent healthcare (e.g. HEADSS/psychosocial assessment; RACGP and NSW Youth Health guidance). Framing it as routine and non-alarming is accurate and reassuring.",
     "limitations": "General practice model; how it is applied varies with the young person's age and presentation.",
-    "reviewer_notes": "Supported. Consistent with adolescent-care best practice.",
+    "reviewer_notes": "Supported. Consistent with adolescent-care best practice. [FAQ retained but trimmed 2026-09-20 to defer confidentiality/consent detail to the confidentiality section (IND-25).]",
     "last_verified": "2026-09-20",
     "review_due": "2027-09-20"
   },

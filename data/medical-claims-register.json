@@ -12,8 +12,8 @@
       "needs_qualification": 0,
       "change_recommended": 0,
       "changed": 38,
-      "needs_review": 16,
-      "removed": 0
+      "needs_review": 14,
+      "removed": 2
     }
   },
   "claims": [
@@ -917,7 +917,7 @@
       "id": "IND-25",
       "page_url": "/teenage-health",
       "page_title": "Teenage Health",
-      "claim_text": "Confidentiality / mature-minor / consent wording in the 'What stays between the doctor and the patient' section",
+      "claim_text": "Confidentiality / mature-minor / consent section (\"What stays between the doctor and the patient\")",
       "category": "confidentiality-consent",
       "risk": "HIGH",
       "status": "needs_review",
@@ -926,8 +926,8 @@
       "wording_strength": "cautious",
       "evidence_strength": "consensus-guideline",
       "guidance_sensitive": true,
-      "old_wording": "(unchanged - already cautious)",
-      "new_wording": null,
+      "old_wording": "Prior 3-paragraph version: private one-to-one time; confidentiality with safety limits; capacity depends on understanding rather than a set age.",
+      "new_wording": "Revised 2026-09-20 to a fuller 4-paragraph version: private one-to-one time as routine adolescent care; confidentiality with explicit limits incl. serious harm/safety and disclosure required or permitted by law; mature-minor / Gillick competence assessed per specific healthcare decision (understanding of purpose, risks, benefits, alternatives, consequences); parent/guardian consent where the young person lacks capacity; encourage appropriate family involvement where helpful and the young person is comfortable.",
       "primary_source": {
         "org": "NSW Health",
         "title": "Consent to Medical and Healthcare Treatment Manual (mature minor)",
@@ -940,9 +940,9 @@
         "url": "https://www.racgp.org.au/",
         "date": "2026"
       },
-      "evidence_summary": "The wording avoids a fixed consent age, avoids absolute confidentiality, states safety-based limits and the doctor being upfront - consistent with the NSW mature-minor approach. Retained unchanged.",
+      "evidence_summary": "Aligns with the NSW mature-minor / Gillick approach and confidentiality-with-limits. The revised wording is more precise and legally framed than the prior version.",
       "limitations": "Consent/confidentiality law is jurisdiction-specific and consequential.",
-      "reviewer_notes": "PILLAR agent (PILLAR-29/30) rated it cautious and defensible. RECOMMEND sign-off by the practice's medical defence organisation before relying on it. No change made.",
+      "reviewer_notes": "Wording revised 2026-09-20 and now supersedes the PILLAR-29/30 FAQ restatements (removed). STILL recommend sign-off of the new text by the practice medical defence organisation before relying on it. No fixed consent age asserted.",
       "last_verified": "2026-09-20",
       "review_due": "2027-03"
     },
@@ -1088,7 +1088,7 @@
       "claim_text": "Is what my teenager tells the doctor kept private? Generally yes - a young person's privacy is respected in much the same way as an adult's. There are limits: if I'm seriously concerned about their safety, or someone else's, I may need to involve a parent or another service. If that ever comes up, I'll be upfront about it ... (also privacy narrative: 'In general, what a young person tells their doctor is kept private, in much the same way it is for an adult. There are limits ...')",
       "category": "confidentiality / consent (adolescent) - legal-clinical",
       "risk": "HIGH",
-      "status": "needs_review",
+      "status": "removed",
       "wording_acceptable": true,
       "recommended_wording": null,
       "primary_source": {
@@ -1105,7 +1105,7 @@
       },
       "evidence_summary": "NSW Health and RACGP guidance support that a Gillick-competent/mature minor is entitled to confidentiality about their health information in much the same way as an adult, subject to limits where there are serious safety concerns (risk to self or others), when disclosure may be required. The site's wording ('generally', 'there are limits', 'I'll be upfront') is deliberately non-absolute and aligns with this guidance. It does not assert absolute confidentiality and does not state a fixed consent age.",
       "limitations": "Confidentiality and consent for minors are legally nuanced and fact-specific (each presentation assessed individually; mandatory reporting and other statutory obligations may apply). This audit is not legal advice.",
-      "reviewer_notes": "FLAG FOR PROFESSIONAL/LEGAL REVIEW (do not assert absolutes). Wording is defensible and cautious as drafted. Recommend Dr Henderson and/or her medical defence organisation (e.g. MDA National/Avant) confirm the confidentiality and mandatory-reporting phrasing suits her NSW practice before publish. No wording change recommended by this audit beyond that sign-off.",
+      "reviewer_notes": "FLAG FOR PROFESSIONAL/LEGAL REVIEW (do not assert absolutes). Wording is defensible and cautious as drafted. Recommend Dr Henderson and/or her medical defence organisation (e.g. MDA National/Avant) confirm the confidentiality and mandatory-reporting phrasing suits her NSW practice before publish. No wording change recommended by this audit beyond that sign-off. [FAQ removed 2026-09-20; confidentiality now covered in the confidentiality section - see IND-25.]",
       "last_verified": "2026-09-20",
       "review_due": "2027-09-20"
     },
@@ -1116,7 +1116,7 @@
       "claim_text": "At what age can a teenager see a GP on their own? There isn't a single birthday where everything changes over. Whether a young person can make their own decisions about care depends on how well they understand what's involved, and that develops at different times for different people. In practice we work it out together, and a parent is usually still part of the picture. (also teenageHealthContent.privacy: 'Whether a young person can make a particular decision about their own care depends on how well they understand what's involved, rather than on reaching a set age.')",
       "category": "consent / mature minor (adolescent) - legal-clinical",
       "risk": "HIGH",
-      "status": "needs_review",
+      "status": "removed",
       "wording_acceptable": true,
       "recommended_wording": null,
       "primary_source": {
@@ -1133,7 +1133,7 @@
       },
       "evidence_summary": "Accurately reflects the 'mature minor'/Gillick-competence principle in NSW: capacity to consent depends on the young person's understanding of what is proposed rather than a fixed age, assessed case by case, with family involvement encouraged where appropriate. The copy explicitly avoids stating a set age - the correct, defensible framing.",
       "limitations": "Capacity is assessed per decision and per presentation; not a blanket status. Legal nuance means practitioner/legal sign-off is prudent.",
-      "reviewer_notes": "FLAG FOR PROFESSIONAL/LEGAL REVIEW alongside PILLAR-29. As drafted it is consistent with NSW Health/MDA guidance and appropriately avoids absolutes. No wording change recommended beyond sign-off.",
+      "reviewer_notes": "FLAG FOR PROFESSIONAL/LEGAL REVIEW alongside PILLAR-29. As drafted it is consistent with NSW Health/MDA guidance and appropriately avoids absolutes. No wording change recommended beyond sign-off. [FAQ removed 2026-09-20; mature-minor now covered in the confidentiality section - see IND-25.]",
       "last_verified": "2026-09-20",
       "review_due": "2027-09-20"
     },
@@ -4244,7 +4244,7 @@
       },
       "evidence_summary": "Offering part of the consultation privately (time alone with the adolescent) is a recognised, recommended element of adolescent healthcare (e.g. HEADSS/psychosocial assessment; RACGP and NSW Youth Health guidance). Framing it as routine and non-alarming is accurate and reassuring.",
       "limitations": "General practice model; how it is applied varies with the young person's age and presentation.",
-      "reviewer_notes": "Supported. Consistent with adolescent-care best practice.",
+      "reviewer_notes": "Supported. Consistent with adolescent-care best practice. [FAQ retained but trimmed 2026-09-20 to defer confidentiality/consent detail to the confidentiality section (IND-25).]",
       "last_verified": "2026-09-20",
       "review_due": "2027-09-20"
     },

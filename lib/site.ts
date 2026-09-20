@@ -527,6 +527,10 @@ export const serviceAreas: ServiceArea[] = [
         a: "A great deal - periods and reproductive health, acne and other skin problems, low mood and anxiety, sleep and constant tiredness, headaches and gut troubles, vaccinations, sports injuries, and any new symptom that's worrying you. A GP can assess it, start treatment, and arrange tests or a referral when that's the right step.",
       },
       {
+        q: "Can my teenager see the GP without me in the room?",
+        a: "Yes, if that's what they'd like. A visit can include time together with a parent and some time one-to-one - I'll often offer a teenager a little time to speak with me privately. How privacy and involving parents work is explained in more detail on this page.",
+      },
+      {
         q: "Does a parent have to come to the appointment?",
         a: "For a first visit, anything complicated, or a younger teenager, it helps to have a parent there. An older teenager can also book and come on their own. Either way, they'll be listened to and taken seriously.",
       },

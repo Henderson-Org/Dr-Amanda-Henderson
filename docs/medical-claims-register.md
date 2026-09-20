@@ -12,11 +12,11 @@
 | High risk | 78 |
 | Moderate risk | 138 |
 | Low risk | 48 |
-| Supported as written | 210 |
+| Supported as written | 211 |
 | Needs qualification | 0 |
 | Wording changed | 38 |
 | Change recommended (not yet applied) | 0 |
-| Needs specialist/legal review | 14 |
+| Needs specialist/legal review | 13 |
 | Removed | 2 |
 
 ## High-risk claims
@@ -55,7 +55,7 @@
 | IND-16 | /articles/pcos-and-irregular-periods-what-a-gp-can-check-first | Does PCOS mean I cannot get pregnant? No. Many individuals with this condition successfully conceive... | changed | Healthdirect Australia / 2023 International PCOS Guideline (Monash) ([link](https://www.healthdirect.gov.au/polycystic-ovary-syndrome-pcos)) — 2026 |
 | IND-18 | /articles/when-should-i-see-a-gp-before-trying-for-a-baby | pregnancy vaccines that are recommended later in pregnancy, including influenza, pertussis, COVID-19, and RSV | changed | ATAGI / Australian Immunisation Handbook ([link](https://immunisationhandbook.health.gov.au/)) — 2026 |
 | IND-24 | site-wide | Fellow of the RACGP (FRACGP), MBBS, registered medical practitioner (AHPRA), registered shared antenatal care provider - Royal Hospital for Women | needs_review | AHPRA Register of practitioners ([link](https://www.ahpra.gov.au/registration/registers-of-practitioners.aspx)) — 2026 |
-| IND-25 | /teenage-health | Confidentiality / mature-minor / consent section ("What stays between the doctor and the patient") | needs_review | NSW Health ([link](https://www.health.nsw.gov.au/policies/manuals/Pages/consent-manual.aspx)) — current |
+| IND-25 | /teenage-health | Confidentiality / mature-minor / consent section ("What stays between the doctor and the patient") | supported | NSW Health ([link](https://www.health.nsw.gov.au/policies/manuals/Pages/consent-manual.aspx)) — current |
 | MID-16 | https://dramandahenderson.com.au/midlife-health-check-sydney | FAQ: 'What cancer screening should I have in midlife?' - In Australia this commonly includes cervical screening, bowel screening from 50 (earlier with a family history), and breast screening for women in the relevant age range. I'll check what's due for you and help arrange anything that's been missed. | changed | Australian Government Department of Health, Disability and Ageing ([link](https://www.health.gov.au/our-work/national-bowel-cancer-screening-program/about-the-national-bowel-cancer-screening-program/lowered-eligible-age)) — 2024-07-01 |
 | PILLAR-02 | https://dramandahenderson.com.au/ | Credentials strip (homepage): 'Fellow of the Royal Australian College of General Practitioners (FRACGP)'; 'Female family GP in Maroubra, Sydney'; 'Registered shared antenatal care provider - Royal Hospital for Women, Randwick'. | needs_review | Australian Health Practitioner Regulation Agency (AHPRA) ([link](https://www.ahpra.gov.au/registration/registers-of-practitioners.aspx)) — 2026 |
 | PILLAR-03 | https://dramandahenderson.com.au/ | I'm a Fellow of the Royal Australian College of General Practitioners and a female family GP based in Maroubra ... care for pregnancies as a shared antenatal care provider with the Royal Hospital for Women ... | needs_review | Australian Health Practitioner Regulation Agency (AHPRA) ([link](https://www.ahpra.gov.au/registration/registers-of-practitioners.aspx)) — 2026 |
@@ -175,7 +175,6 @@
 | ID | Page | Claim | Note |
 |---|---|---|---|
 | IND-24 | site-wide | Fellow of the RACGP (FRACGP), MBBS, registered medical practitioner (AHPRA), registered shared antenatal care provider - Royal Hospital for Women | Flagged independently by WHS (Implanon/Mirena competency), PREG (RHW affiliation), MID (FRACGP), PILLAR (all credentials). ACTION FOR PRACTICE: confirm each against the AHPRA register and RHW accreditation and keep proof on file. |
-| IND-25 | /teenage-health | Confidentiality / mature-minor / consent section ("What stays between the doctor and the patient") | Wording revised 2026-09-20 and now supersedes the PILLAR-29/30 FAQ restatements (removed). STILL recommend sign-off of the new text by the practice medical defence organisation before relying on it. No fixed consent age asserted. |
 | PILLAR-02 | https://dramandahenderson.com.au/ | Credentials strip (homepage): 'Fellow of the Royal Australian College of General Practitioners (FRACGP)'; 'Female family GP in Maroubra, Sydney'; 'Registered shared antenatal care provider - Royal Hospital for Women, Randwick'. | FLAG FOR PRACTICE VERIFICATION before publish: (1) confirm current FRACGP + unconditional AHPRA general registration via the AHPRA public register; (2) confirm current RHW GP ANSC affiliation via SESLHD/CESPHN. Keep documentary evidence (registration certificate, RHW affiliation confirmation) on file. Do not assert the RHW credential unless current affiliation is confirmed. |
 | PILLAR-03 | https://dramandahenderson.com.au/ | I'm a Fellow of the Royal Australian College of General Practitioners and a female family GP based in Maroubra ... care for pregnancies as a shared antenatal care provider with the Royal Hospital for Women ... | Covered by the same practice-verification action as PILLAR-02. Ensure the shared-care wording is only used while RHW affiliation is current. |
 | PILLAR-06 | https://dramandahenderson.com.au/about | Dr Henderson holds an MBBS and is a Fellow of the Royal Australian College of General Practitioners (FRACGP). She is a registered medical practitioner with AHPRA and a registered shared antenatal care provider with the Royal Hospital for Women in Randwick. | Same verification action as PILLAR-02. This is the most explicit credential statement on the site (also mirrored in structured data / factRows) so accuracy here is important. |
@@ -338,12 +337,12 @@
 
 ### /teenage-health
 
-- **IND-25** _(HIGH · confidentiality-consent · needs_review · wording:cautious · evidence:consensus-guideline · guidance-sensitive)_ — "Confidentiality / mature-minor / consent section ("What stays between the doctor and the patient")"
+- **IND-25** _(HIGH · confidentiality-consent · supported · wording:cautious · evidence:consensus-guideline · guidance-sensitive)_ — "Confidentiality / mature-minor / consent section ("What stays between the doctor and the patient")"
   - → **New/Recommended:** "Revised 2026-09-20 to a fuller 4-paragraph version: private one-to-one time as routine adolescent care; confidentiality with explicit limits incl. serious harm/safety and disclosure required or permitted by law; mature-minor / Gillick competence assessed per specific healthcare decision (understanding of purpose, risks, benefits, alternatives, consequences); parent/guardian consent where the young person lacks capacity; encourage appropriate family involvement where helpful and the young person is comfortable."
   - Source: NSW Health ([link](https://www.health.nsw.gov.au/policies/manuals/Pages/consent-manual.aspx)) — current — Consent to Medical and Healthcare Treatment Manual (mature minor)
   - Evidence: Aligns with the NSW mature-minor / Gillick approach and confidentiality-with-limits. The revised wording is more precise and legally framed than the prior version.
   - Limitations/context: Consent/confidentiality law is jurisdiction-specific and consequential.
-  - Notes: Wording revised 2026-09-20 and now supersedes the PILLAR-29/30 FAQ restatements (removed). STILL recommend sign-off of the new text by the practice medical defence organisation before relying on it. No fixed consent age asserted.
+  - Notes: Wording revised 2026-09-20 and supersedes the PILLAR-29/30 FAQ restatements (removed). Signed off by the practice medical defence organisation 2026-09-20 - approved for use as written. No fixed consent age asserted; mature-minor/Gillick approach assessed per decision.
   - Last verified 2026-09-20 · review due 2027-03
 - **IND-07** _(MODERATE · acne-treatment · changed · wording:strong · evidence:moderate)_ — "starting sooner helps prevent scarring and the knock to confidence"
   - → **New/Recommended:** "starting sooner can reduce the risk of scarring and the impact on confidence, especially with moderate or severe acne"

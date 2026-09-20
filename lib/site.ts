@@ -484,7 +484,7 @@ export const serviceAreas: ServiceArea[] = [
     summary:
       "Down-to-earth GP care for teenagers - periods, skin, mood and anxiety, sleep and everyday health - with room to talk privately when it helps.",
     intro:
-      "Teenagers benefit from a GP who takes them seriously and gives them room to speak for themselves. I look after young people through the in-between years - for period problems and skin, low mood and anxiety, tiredness, and the ordinary business of staying well - and I'm glad to see them with a parent, on their own, or a bit of both.",
+      "Teenagers benefit from a GP who takes them seriously and gives them room to speak for themselves. I look after young people through the in-between years - for period problems and skin, low mood and anxiety, tiredness, and the ordinary business of staying well - and I'm happy to see teenagers with a parent, to give them some time to speak with me privately where appropriate, or to do a bit of both.",
     covers: [
       {
         heading: "Growing up and puberty",
@@ -520,23 +520,11 @@ export const serviceAreas: ServiceArea[] = [
       "A parent has noticed a change and you'd both like it looked at",
     ],
     consultation:
-      "A first visit is mostly conversation. I'll ask what's brought you in and how it's affecting your days, examine you if it's useful, and explain plainly what I think is going on and what the choices are. Some things are settled in one visit; others are worth trying something and reviewing. A parent is welcome for all of it, part of it, or none of it - whatever suits.",
+      "A first visit is mostly conversation. I'll ask what's brought you in and how it's affecting your days, examine you if it's useful, and explain plainly what I think is going on and what the choices are. Some things are settled in one visit; others are worth trying something and reviewing. A parent can be involved in some or all of the consultation, depending on the young person's age, circumstances and preferences, and what is appropriate for their care. I will often offer teenagers some time to speak with me privately.",
     faqs: [
       {
         q: "What can a GP actually help a teenager with?",
         a: "A great deal - periods and reproductive health, acne and other skin problems, low mood and anxiety, sleep and constant tiredness, headaches and gut troubles, vaccinations, sports injuries, and any new symptom that's worrying you. A GP can assess it, start treatment, and arrange tests or a referral when that's the right step.",
-      },
-      {
-        q: "Can my teenager see the GP without me in the room?",
-        a: "Yes, if that's what they'd like. Many visits run with a parent there for part of the appointment and the young person seen on their own for another part. Seeing a teenager by themselves for a few minutes is a normal piece of adolescent care - it helps them practise speaking up about their own health, and it doesn't mean anything is wrong.",
-      },
-      {
-        q: "Is what my teenager tells the doctor kept private?",
-        a: "Generally yes - a young person's privacy is respected in much the same way as an adult's. There are limits: if I'm seriously concerned about their safety, or someone else's, I may need to involve a parent or another service. If that ever comes up, I'll be upfront about it rather than going behind anyone's back.",
-      },
-      {
-        q: "At what age can a teenager see a GP on their own?",
-        a: "There isn't a single birthday where everything changes over. Whether a young person can make their own decisions about care depends on how well they understand what's involved, and that develops at different times for different people. In practice we work it out together, and a parent is usually still part of the picture.",
       },
       {
         q: "Does a parent have to come to the appointment?",
@@ -653,16 +641,17 @@ export const furtherReadingByArea: Record<string, SourceLink[]> = {
 export const teenageHealthContent = {
   seeingAGp: [
     "Seeing a doctor on your own for the first time can feel like a big step. In practice it's mostly a conversation. You don't need the medical words for what's going on, and the things that feel awkward to say out loud are usually the ones worth saying.",
-    "For parents, this is often the age where your job shifts from speaking for your child to helping them speak for themselves. Both of you are welcome, and there's no single right way to do it.",
+    "For parents, this is often the age when your role gradually shifts from speaking for your child to helping them speak for themselves. Parents remain an important part of adolescent healthcare, while young people gradually develop greater independence in managing their own health.",
   ],
   privacy: [
-    "As young people get older they take on more of their own healthcare, and part of a consultation may happen one-to-one between the teenager and me. That's a routine part of adolescent care - a chance to ask the question they didn't want to ask in front of anyone - not a way of leaving parents out.",
-    "In general, what a young person tells their doctor is kept private, in much the same way it is for an adult. There are limits, and I'm honest about them: if I'm seriously worried about someone's safety - their own or someone else's - I may need to involve a parent or another service. If that happens, I'll talk it through first wherever I can.",
-    "Whether a young person can make a particular decision about their own care depends on how well they understand what's involved, rather than on reaching a set age. Most of the time it's worked out together, with a parent still part of the picture.",
+    "As young people get older, they usually take a more active role in their own healthcare. I will often offer a teenager some time to speak with me on their own. This is a routine part of adolescent healthcare and gives them an opportunity to ask questions or discuss things they may find difficult to talk about in front of someone else. Parents can still play an important and supportive role.",
+    "What a young person tells me is generally treated as private. There are limits to confidentiality, however. Sometimes I may need to share information if I am concerned about serious harm or safety, or where disclosure is required or permitted by law. Wherever appropriate, I will explain this to the young person and involve them in deciding how the information is shared.",
+    "There isn't one age at which every young person automatically becomes able to make every medical decision independently. For a young person under 18, whether they can consent to a particular treatment themselves depends on the circumstances and, where relevant, an assessment of their maturity and whether they sufficiently understand the proposed treatment, its purpose, risks, benefits, alternatives and possible consequences. This is sometimes called being a mature minor or Gillick competent. The assessment is specific to the particular healthcare decision being made.",
+    "Where a young person has the capacity to make the particular healthcare decision, they may be able to consent to treatment themselves. Where they do not, consent from a parent or guardian may be required. Even when a young person can consent themselves, I generally encourage appropriate family involvement where it is helpful and the young person is comfortable with it.",
   ],
   forParents: [
     "Bringing your teenager to a GP who takes them seriously - and gives them a little room - is one of the more useful things you can do for their long-term health. It's how young people learn that looking after themselves is normal and that a doctor is a safe person to talk to.",
-    "You're not being sidelined. For most visits you'll be there for the bulk of it, and you're always welcome to raise what's worrying you.",
+    "You're always welcome to raise what's worrying you, and to be as involved as suits your teenager's care.",
   ],
 };
 

@@ -1,0 +1,629 @@
+[
+  {
+    "id": "MID-01",
+    "page_url": "https://dramandahenderson.com.au/midlife-health-check-sydney",
+    "page_title": "Midlife Health Check Sydney | Dr Amanda Henderson GP",
+    "claim_text": "A comprehensive, GP-led review to help you understand where your health stands today, and what deserves attention for the years ahead. (Hero, plus intro: 'Feeling well is reassuring, but it isn't the same as knowing where you stand.')",
+    "category": "preventive service benefit / general health claim",
+    "risk": "MODERATE",
+    "status": "supported",
+    "wording_acceptable": true,
+    "recommended_wording": null,
+    "primary_source": {
+      "org": "RACGP",
+      "title": "Guidelines for preventive activities in general practice (Red Book)",
+      "url": "https://www.racgp.org.au/clinical-resources/clinical-guidelines/key-racgp-guidelines/view-all-racgp-guidelines/red-book",
+      "date": "2024"
+    },
+    "supporting_source": null,
+    "evidence_summary": "Structured GP-led preventive assessment (history, risk assessment, age-appropriate screening) is endorsed by the RACGP Red Book. The claim is framed as helping the patient 'understand' their health rather than guaranteeing an outcome, which is appropriately hedged. No promise of prevention, cure or superiority is made.",
+    "limitations": "Benefit of a periodic 'health check' as a whole intervention on mortality is not strongly established in RCTs (e.g. Cochrane general health checks review); value lies in targeted, evidence-based components. The 'understand where you stand' framing avoids overstatement.",
+    "reviewer_notes": "Verb 'help you understand' is well chosen. No change needed. Retain non-promissory framing site-wide.",
+    "last_verified": "2026-09-20",
+    "review_due": "2027-09-20"
+  },
+  {
+    "id": "MID-02",
+    "page_url": "https://dramandahenderson.com.au/midlife-health-check-sydney",
+    "page_title": "Midlife Health Check Sydney | Dr Amanda Henderson GP",
+    "claim_text": "Midlife is often when the picture quietly changes. Blood pressure creeps up, cholesterol shifts, bone strength starts to matter, and family history begins to count for more - usually with no symptoms to warn you.",
+    "category": "clinical / epidemiological claim",
+    "risk": "MODERATE",
+    "status": "supported",
+    "wording_acceptable": true,
+    "recommended_wording": null,
+    "primary_source": {
+      "org": "RACGP",
+      "title": "Guidelines for preventive activities in general practice (Red Book)",
+      "url": "https://www.racgp.org.au/clinical-resources/clinical-guidelines/key-racgp-guidelines/view-all-racgp-guidelines/red-book",
+      "date": "2024"
+    },
+    "supporting_source": {
+      "org": "Heart Foundation",
+      "title": "Heart health checks (recommended from age 45)",
+      "url": "https://www.heartfoundation.org.au/your-heart/heart-health-checks",
+      "date": "2026"
+    },
+    "evidence_summary": "It is well established that hypertension, dyslipidaemia and reduced bone density are commonly asymptomatic and rise in prevalence from midlife, and that family history modifies risk. The 2023 Australian CVD risk guideline recommends risk assessment from 45. Statement is qualified ('often', 'usually') and does not assert universality.",
+    "limitations": "'Usually with no symptoms' is generally true for these specific conditions but is a generalisation; individual variation exists. Acceptable given hedging.",
+    "reviewer_notes": "Accurate and appropriately hedged. No change.",
+    "last_verified": "2026-09-20",
+    "review_due": "2027-09-20"
+  },
+  {
+    "id": "MID-03",
+    "page_url": "https://dramandahenderson.com.au/midlife-health-check-sydney",
+    "page_title": "Midlife Health Check Sydney | Dr Amanda Henderson GP",
+    "claim_text": "Heart & cardiovascular health - Blood pressure, cholesterol and your overall cardiovascular risk, so we can act early where it counts.",
+    "category": "early intervention / cardiovascular benefit",
+    "risk": "MODERATE",
+    "status": "supported",
+    "wording_acceptable": true,
+    "recommended_wording": null,
+    "primary_source": {
+      "org": "Australian Chronic Disease Prevention Alliance / National Heart Foundation (2023 Australian CVD risk guideline)",
+      "title": "2023 Australian guideline for assessing and managing cardiovascular disease risk",
+      "url": "https://www.cvdcheck.org.au/",
+      "date": "2023"
+    },
+    "supporting_source": {
+      "org": "Heart Foundation",
+      "title": "Heart health checks",
+      "url": "https://www.heartfoundation.org.au/your-heart/heart-health-checks",
+      "date": "2026"
+    },
+    "evidence_summary": "CVD risk assessment (BP, lipids, absolute risk calculation) from age 45 is recommended by the 2023 Australian guideline, and managing modifiable risk factors reduces cardiovascular events. 'Act early where it counts' is qualified and does not promise prevention. This is one of the areas where early action does have good evidence.",
+    "limitations": "Benefit applies to identified elevated risk, not to every individual; 'where it counts' appropriately narrows the claim. Avoid strengthening to 'prevent heart attacks'.",
+    "reviewer_notes": "Acceptable. Do not upgrade wording to a prevention guarantee.",
+    "last_verified": "2026-09-20",
+    "review_due": "2027-09-20"
+  },
+  {
+    "id": "MID-04",
+    "page_url": "https://dramandahenderson.com.au/midlife-health-check-sydney",
+    "page_title": "Midlife Health Check Sydney | Dr Amanda Henderson GP",
+    "claim_text": "Metabolic health - Weight, blood glucose and diabetes risk, and how they sit alongside the rest of your health. (Plus 'What may include': Blood glucose and diabetes screening; Cholesterol and metabolic markers.)",
+    "category": "clinical / screening",
+    "risk": "MODERATE",
+    "status": "supported",
+    "wording_acceptable": true,
+    "recommended_wording": null,
+    "primary_source": {
+      "org": "RACGP / Diabetes Australia",
+      "title": "Management of type 2 diabetes / RACGP Red Book - risk-based diabetes screening (AUSDRISK, FBG/HbA1c)",
+      "url": "https://www.racgp.org.au/clinical-resources/clinical-guidelines/key-racgp-guidelines/view-all-racgp-guidelines/management-of-type-2-diabetes/summary-of-recommendations",
+      "date": "2024"
+    },
+    "supporting_source": {
+      "org": "Healthdirect",
+      "title": "Type 2 diabetes",
+      "url": "https://www.healthdirect.gov.au/type-2-diabetes",
+      "date": "2026"
+    },
+    "evidence_summary": "Risk-based screening for type 2 diabetes using AUSDRISK and, where indicated, fasting glucose or HbA1c is recommended by the RACGP Red Book. Assessing weight, glucose and metabolic markers in midlife is standard preventive practice. No overstatement of benefit.",
+    "limitations": "Screening interval/method is risk-dependent (Red Book: every 3 years for higher-risk, annually for impaired glucose metabolism); page correctly frames this as tailored.",
+    "reviewer_notes": "Supported. No change.",
+    "last_verified": "2026-09-20",
+    "review_due": "2027-09-20"
+  },
+  {
+    "id": "MID-05",
+    "page_url": "https://dramandahenderson.com.au/midlife-health-check-sydney",
+    "page_title": "Midlife Health Check Sydney | Dr Amanda Henderson GP",
+    "claim_text": "Cancer screening - Making sure the screening that's right for your age and history is up to date, and catching up anything that's been missed.",
+    "category": "cancer screening / early detection",
+    "risk": "MODERATE",
+    "status": "supported",
+    "wording_acceptable": true,
+    "recommended_wording": null,
+    "primary_source": {
+      "org": "Cancer Council Australia",
+      "title": "Early detection and screening (national screening programs)",
+      "url": "https://www.cancer.org.au/cancer-information/screening-tests-and-treatments/early-detection-and-screening",
+      "date": "2026"
+    },
+    "supporting_source": {
+      "org": "Australian Government Department of Health, Disability and Ageing",
+      "title": "National Cervical, Bowel and BreastScreen programs",
+      "url": "https://www.health.gov.au/our-work/national-bowel-cancer-screening-program",
+      "date": "2026"
+    },
+    "evidence_summary": "Keeping organised national screening (cervical, bowel, breast) up to date is evidence-based and recommended. The claim is about currency of screening, not a promise of detection, so it does not overstate early-detection benefit.",
+    "limitations": "Early detection improves outcomes for these organised programs specifically, not for cancer screening universally; the wording sensibly refers to 'the screening that's right for your age and history'.",
+    "reviewer_notes": "Acceptable framing. Avoid any generalised 'screening catches cancer early and saves lives' phrasing elsewhere.",
+    "last_verified": "2026-09-20",
+    "review_due": "2027-09-20"
+  },
+  {
+    "id": "MID-06",
+    "page_url": "https://dramandahenderson.com.au/midlife-health-check-sydney",
+    "page_title": "Midlife Health Check Sydney | Dr Amanda Henderson GP",
+    "claim_text": "Bone & muscle health - Bone strength and, where it's relevant, muscle and body composition - both of which matter more from midlife on.",
+    "category": "clinical claim",
+    "risk": "MODERATE",
+    "status": "supported",
+    "wording_acceptable": true,
+    "recommended_wording": null,
+    "primary_source": {
+      "org": "Healthy Bones Australia",
+      "title": "Bone health and osteoporosis risk",
+      "url": "https://healthybonesaustralia.org.au/",
+      "date": "2026"
+    },
+    "supporting_source": {
+      "org": "Healthdirect",
+      "title": "Bone density scan",
+      "url": "https://www.healthdirect.gov.au/bone-density-scan",
+      "date": "2026"
+    },
+    "evidence_summary": "Bone mineral density declines with age (accelerating around menopause for women) and osteoporosis risk rises from midlife, supported by Healthy Bones Australia and RACGP osteoporosis guidance. 'Where it's relevant' qualifies the muscle/body-composition component appropriately.",
+    "limitations": "Muscle/body-composition (e.g. sarcopenia) assessment is less standardised; page limits it with 'where it's relevant'.",
+    "reviewer_notes": "Supported. No change.",
+    "last_verified": "2026-09-20",
+    "review_due": "2027-09-20"
+  },
+  {
+    "id": "MID-07",
+    "page_url": "https://dramandahenderson.com.au/midlife-health-check-sydney",
+    "page_title": "Midlife Health Check Sydney | Dr Amanda Henderson GP",
+    "claim_text": "Bone health assessment, including a DEXA scan where appropriate. (Also FAQ: 'Do I need a DEXA scan? Not everyone does... worth considering if you have risk factors for osteoporosis or reach an age where it's recommended. We'll discuss whether it's appropriate for you rather than assuming it.')",
+    "category": "diagnostic test recommendation / Medicare",
+    "risk": "MODERATE",
+    "status": "supported",
+    "wording_acceptable": true,
+    "recommended_wording": null,
+    "primary_source": {
+      "org": "MBS Online (Australian Government)",
+      "title": "Changes to Medicare Benefits Schedule (MBS) Items for Bone Densitometry",
+      "url": "https://www.mbsonline.gov.au/internet/mbsonline/publishing.nsf/Content/Factsheet-MBSBoneDensitometryItems",
+      "date": "2024"
+    },
+    "supporting_source": {
+      "org": "Healthdirect",
+      "title": "Bone density scan",
+      "url": "https://www.healthdirect.gov.au/bone-density-scan",
+      "date": "2026"
+    },
+    "evidence_summary": "DEXA is the standard tool for bone density; Medicare-rebated DEXA applies to defined groups (age 70+, prior minimal-trauma fracture, or conditions/medications that weaken bone) rather than everyone. The page explicitly states 'not everyone' needs it and ties it to risk factors and recommended age, matching MBS eligibility and avoiding creating unnecessary demand.",
+    "limitations": "'An age where it's recommended' is non-specific; for Medicare-rebated screening this is generally 70+, though risk-factor-based testing can occur earlier. Non-specific wording is acceptable and defers to the consultation.",
+    "reviewer_notes": "Exemplary anti-over-testing framing ('rather than assuming it'). No change needed.",
+    "last_verified": "2026-09-20",
+    "review_due": "2027-09-20"
+  },
+  {
+    "id": "MID-08",
+    "page_url": "https://dramandahenderson.com.au/midlife-health-check-sydney",
+    "page_title": "Midlife Health Check Sydney | Dr Amanda Henderson GP",
+    "claim_text": "An ECG or further cardiac assessment if clinically appropriate. (Also 'Where it's clinically appropriate, I can arrange further assessment such as an ECG.')",
+    "category": "diagnostic test recommendation",
+    "risk": "MODERATE",
+    "status": "supported",
+    "wording_acceptable": true,
+    "recommended_wording": null,
+    "primary_source": {
+      "org": "RACGP",
+      "title": "Guidelines for preventive activities in general practice (Red Book)",
+      "url": "https://www.racgp.org.au/clinical-resources/clinical-guidelines/key-racgp-guidelines/view-all-racgp-guidelines/red-book",
+      "date": "2024"
+    },
+    "supporting_source": null,
+    "evidence_summary": "Routine resting ECG is NOT recommended for asymptomatic, low-risk adults (RACGP Red Book / USPSTF advise against screening ECG in low-risk asymptomatic people). The page restricts ECG to 'if clinically appropriate' / 'where clinically appropriate', which correctly avoids implying routine ECG for everyone.",
+    "limitations": "If the qualifier 'clinically appropriate' were ever dropped this would become a change_recommended over-testing claim. As written it is compliant.",
+    "reviewer_notes": "Keep the 'clinically appropriate' qualifier; do not present ECG as a standard inclusion of the check.",
+    "last_verified": "2026-09-20",
+    "review_due": "2027-09-20"
+  },
+  {
+    "id": "MID-09",
+    "page_url": "https://dramandahenderson.com.au/midlife-health-check-sydney",
+    "page_title": "Midlife Health Check Sydney | Dr Amanda Henderson GP",
+    "claim_text": "The Midlife Health Check is not a fixed battery of tests. What's included is tailored to your age, history, symptoms and individual risk factors... Just as often, part of the value is knowing which tests you don't need.",
+    "category": "responsible testing framing / AHPRA advertising",
+    "risk": "MODERATE",
+    "status": "supported",
+    "wording_acceptable": true,
+    "recommended_wording": null,
+    "primary_source": {
+      "org": "RACGP",
+      "title": "Guidelines for preventive activities in general practice (Red Book) - individualised, risk-based preventive care",
+      "url": "https://www.racgp.org.au/clinical-resources/clinical-guidelines/key-racgp-guidelines/view-all-racgp-guidelines/red-book",
+      "date": "2024"
+    },
+    "supporting_source": {
+      "org": "Ahpra / Medical Board of Australia",
+      "title": "Guidelines for advertising a regulated health service",
+      "url": "https://www.ahpra.gov.au/Publications/Advertising-hub/Advertising-guidelines-and-other-guidance/Advertising-guidelines.aspx",
+      "date": "2020"
+    },
+    "evidence_summary": "This framing is medically responsible and directly mitigates the main regulatory risk of a 'health check' service (creating unnecessary demand for tests). Emphasising tailored, risk-based investigation and 'knowing which tests you don't need' aligns with RACGP guidance and reduces over-servicing concerns under the Ahpra advertising guidelines.",
+    "limitations": "None material. This is a strength of the page.",
+    "reviewer_notes": "Confirm: tailored-testing framing is responsible. Recommend retaining prominently; it is the key protective statement on the page.",
+    "last_verified": "2026-09-20",
+    "review_due": "2027-09-20"
+  },
+  {
+    "id": "MID-10",
+    "page_url": "https://dramandahenderson.com.au/midlife-health-check-sydney",
+    "page_title": "Midlife Health Check Sydney | Dr Amanda Henderson GP",
+    "claim_text": "Tests are useful. Context matters more... That usually means fewer unnecessary investigations, not more.",
+    "category": "service value / testing framing",
+    "risk": "LOW",
+    "status": "supported",
+    "wording_acceptable": true,
+    "recommended_wording": null,
+    "primary_source": {
+      "org": "RACGP",
+      "title": "Guidelines for preventive activities in general practice (Red Book)",
+      "url": "https://www.racgp.org.au/clinical-resources/clinical-guidelines/key-racgp-guidelines/view-all-racgp-guidelines/red-book",
+      "date": "2024"
+    },
+    "supporting_source": null,
+    "evidence_summary": "Consistent with evidence that over-investigation causes harm (false positives, incidentalomas) and with 'Choosing Wisely'/RACGP messaging that GP interpretation and restraint add value. 'Usually means fewer... not more' is a reasonable, non-promissory statement.",
+    "limitations": "'Usually' is appropriately hedged; outcome varies by patient.",
+    "reviewer_notes": "Supported. No change.",
+    "last_verified": "2026-09-20",
+    "review_due": "2027-09-20"
+  },
+  {
+    "id": "MID-11",
+    "page_url": "https://dramandahenderson.com.au/midlife-health-check-sydney",
+    "page_title": "Midlife Health Check Sydney | Dr Amanda Henderson GP",
+    "claim_text": "FAQ: 'What is a midlife health check?' - ...so you understand where your health stands and what to focus on next.",
+    "category": "service description / general benefit",
+    "risk": "LOW",
+    "status": "supported",
+    "wording_acceptable": true,
+    "recommended_wording": null,
+    "primary_source": {
+      "org": "RACGP",
+      "title": "Guidelines for preventive activities in general practice (Red Book)",
+      "url": "https://www.racgp.org.au/clinical-resources/clinical-guidelines/key-racgp-guidelines/view-all-racgp-guidelines/red-book",
+      "date": "2024"
+    },
+    "supporting_source": null,
+    "evidence_summary": "Accurate description of a comprehensive preventive review; 'understand where your health stands' is non-promissory and does not claim to detect or prevent disease.",
+    "limitations": "None material.",
+    "reviewer_notes": "Supported.",
+    "last_verified": "2026-09-20",
+    "review_due": "2027-09-20"
+  },
+  {
+    "id": "MID-12",
+    "page_url": "https://dramandahenderson.com.au/midlife-health-check-sydney",
+    "page_title": "Midlife Health Check Sydney | Dr Amanda Henderson GP",
+    "claim_text": "FAQ: 'What health checks should I have in my 40s?' - Commonly a blood pressure and cardiovascular risk check, cholesterol and blood glucose, a review of cancer screening (such as cervical and, for some, bowel screening), a check that vaccinations are up to date, and a conversation about weight, sleep, alcohol and mental wellbeing.",
+    "category": "screening / preventive recommendation (age-specific)",
+    "risk": "MODERATE",
+    "status": "supported",
+    "wording_acceptable": true,
+    "recommended_wording": null,
+    "primary_source": {
+      "org": "RACGP",
+      "title": "Guidelines for preventive activities in general practice (Red Book)",
+      "url": "https://www.racgp.org.au/clinical-resources/clinical-guidelines/key-racgp-guidelines/view-all-racgp-guidelines/red-book",
+      "date": "2024"
+    },
+    "supporting_source": {
+      "org": "Australian Government Department of Health, Disability and Ageing",
+      "title": "National Cervical Screening Program (ages 25-74) and National Bowel Cancer Screening Program (from 45, opt-in 45-49)",
+      "url": "https://www.health.gov.au/our-work/national-cervical-screening-program",
+      "date": "2026"
+    },
+    "evidence_summary": "Matches RACGP Red Book preventive activities for the 40s. Notably, the '(for some) bowel screening' phrasing is now accurate, because from 1 July 2024 people aged 45-49 can request a free bowel screening kit. Cervical screening (25-74) applies. CVD risk assessment recommended from 45. Well tailored.",
+    "limitations": "'For some' correctly captures the 45-49 opt-in nature of bowel screening. No change needed.",
+    "reviewer_notes": "Supported and current. Contrast with the 50s FAQ (MID-13) and cancer-screening FAQ (MID-17) which still say bowel 'from 50'.",
+    "last_verified": "2026-09-20",
+    "review_due": "2027-03-20"
+  },
+  {
+    "id": "MID-13",
+    "page_url": "https://dramandahenderson.com.au/midlife-health-check-sydney",
+    "page_title": "Midlife Health Check Sydney | Dr Amanda Henderson GP",
+    "claim_text": "FAQ: 'What health checks should I have in my 50s?' - ...a few things come into sharper focus: bowel cancer screening from 50, closer attention to cardiovascular and diabetes risk, bone health for some people, and menopause or prostate considerations where relevant.",
+    "category": "screening / preventive recommendation (age-specific)",
+    "risk": "MODERATE",
+    "status": "changed",
+    "wording_acceptable": false,
+    "recommended_wording": "The 40s checks continue, and a few things come into sharper focus: bowel cancer screening (free kits are now sent automatically from 50, and you can request one from 45), closer attention to cardiovascular and diabetes risk, bone health for some people, and menopause or prostate considerations where relevant. The point of the check is to tailor this to you rather than run a fixed list.",
+    "primary_source": {
+      "org": "Australian Government Department of Health, Disability and Ageing",
+      "title": "National Bowel Cancer Screening Program - Lowered eligible age (from 50 to 45, effective 1 July 2024)",
+      "url": "https://www.health.gov.au/our-work/national-bowel-cancer-screening-program/about-the-national-bowel-cancer-screening-program/lowered-eligible-age",
+      "date": "2024-07-01"
+    },
+    "supporting_source": {
+      "org": "Cancer Council Australia",
+      "title": "Australians aged 45 to 49 to benefit from life-saving bowel screening test",
+      "url": "https://www.cancer.org.au/media-releases/2024/australians-aged-45-to-49-to-benefit-from-life-saving-bowel-screening-test",
+      "date": "2024"
+    },
+    "evidence_summary": "'Bowel cancer screening from 50' is now out of date. From 1 July 2024 the National Bowel Cancer Screening Program eligibility age was lowered from 50 to 45: people aged 50-74 are automatically sent a free kit every 2 years, and people aged 45-49 can request their first kit. The rest of the 50s list (CVD/diabetes attention, bone health for some, menopause/prostate) is accurate.",
+    "limitations": "'From 50' is not wrong for the automatic-invitation cohort, but omits the 45-49 opt-in and understates program eligibility on a service page, which could mislead patients in their late 40s.",
+    "reviewer_notes": "Update to reflect the current 45+ eligibility. Program age is volatile - short review cycle set. [Implemented 2026-09-20; applied to site - see corresponding IND entry.]",
+    "last_verified": "2026-09-20",
+    "review_due": "2027-03-20"
+  },
+  {
+    "id": "MID-14",
+    "page_url": "https://dramandahenderson.com.au/midlife-health-check-sydney",
+    "page_title": "Midlife Health Check Sydney | Dr Amanda Henderson GP",
+    "claim_text": "FAQ: 'What blood tests should I have at 40 or 50?' - Often cholesterol and other lipids, blood glucose or HbA1c, kidney and liver function, and iron studies (to check for low iron), with others added depending on your history and symptoms. Blood tests are chosen for you rather than ordered as a set battery, and part of the value is knowing which tests you don't need.",
+    "category": "pathology recommendation",
+    "risk": "MODERATE",
+    "status": "supported",
+    "wording_acceptable": true,
+    "recommended_wording": null,
+    "primary_source": {
+      "org": "RACGP",
+      "title": "Guidelines for preventive activities in general practice (Red Book)",
+      "url": "https://www.racgp.org.au/clinical-resources/clinical-guidelines/key-racgp-guidelines/view-all-racgp-guidelines/red-book",
+      "date": "2024"
+    },
+    "supporting_source": null,
+    "evidence_summary": "Lipids, glucose/HbA1c, and renal/liver function are commonly indicated in risk-based midlife assessment. Iron studies are appropriate where clinically indicated (e.g. symptoms, menstruating women), and the page correctly presents the panel as individualised ('chosen for you rather than ordered as a set battery') with explicit anti-over-testing messaging.",
+    "limitations": "Iron studies are not a universal screening test for all 40/50-year-olds; the qualifier 'with others added depending on your history and symptoms' and 'chosen for you' keeps it appropriate and avoids implying a fixed battery.",
+    "reviewer_notes": "Supported. Good restraint. No change.",
+    "last_verified": "2026-09-20",
+    "review_due": "2027-09-20"
+  },
+  {
+    "id": "MID-15",
+    "page_url": "https://dramandahenderson.com.au/midlife-health-check-sydney",
+    "page_title": "Midlife Health Check Sydney | Dr Amanda Henderson GP",
+    "claim_text": "FAQ: 'Should I have a heart health check?' - A heart (cardiovascular) health check looks at blood pressure, cholesterol and your overall risk, and it's a sensible part of a midlife review, particularly if heart disease runs in your family. Where it's clinically appropriate, I can arrange further assessment such as an ECG.",
+    "category": "cardiovascular screening",
+    "risk": "MODERATE",
+    "status": "supported",
+    "wording_acceptable": true,
+    "recommended_wording": null,
+    "primary_source": {
+      "org": "Heart Foundation",
+      "title": "Heart health checks (eligible from age 45; 35 with diabetes; 30 for First Nations peoples)",
+      "url": "https://www.heartfoundation.org.au/your-heart/heart-health-checks",
+      "date": "2026"
+    },
+    "supporting_source": {
+      "org": "2023 Australian CVD risk guideline",
+      "title": "Assessing and managing cardiovascular disease risk",
+      "url": "https://www.cvdcheck.org.au/",
+      "date": "2023"
+    },
+    "evidence_summary": "A heart health check (BP, lipids, absolute CVD risk) is recommended from age 45 and is a standard part of a midlife review; family history is a recognised reclassification factor in the 2023 guideline. ECG is correctly limited to 'clinically appropriate'.",
+    "limitations": "Do not present ECG as routine (see MID-08). Wording compliant as written.",
+    "reviewer_notes": "Supported. No change.",
+    "last_verified": "2026-09-20",
+    "review_due": "2027-09-20"
+  },
+  {
+    "id": "MID-16",
+    "page_url": "https://dramandahenderson.com.au/midlife-health-check-sydney",
+    "page_title": "Midlife Health Check Sydney | Dr Amanda Henderson GP",
+    "claim_text": "FAQ: 'What cancer screening should I have in midlife?' - In Australia this commonly includes cervical screening, bowel screening from 50 (earlier with a family history), and breast screening for women in the relevant age range. I'll check what's due for you and help arrange anything that's been missed.",
+    "category": "cancer screening (age/interval rules) / early detection",
+    "risk": "HIGH",
+    "status": "changed",
+    "wording_acceptable": false,
+    "recommended_wording": "In Australia this commonly includes cervical screening (for women and people with a cervix aged 25 to 74), bowel screening (free kits are now sent from 50, and you can request one from 45; a strong family history may mean starting earlier or having a colonoscopy instead), and breast screening for women in the relevant age range (free mammograms are actively offered from 50 to 74, and are available from 40). I'll check what's due for you and help arrange anything that's been missed.",
+    "primary_source": {
+      "org": "Australian Government Department of Health, Disability and Ageing",
+      "title": "National Bowel Cancer Screening Program - Lowered eligible age (50 to 45, from 1 July 2024)",
+      "url": "https://www.health.gov.au/our-work/national-bowel-cancer-screening-program/about-the-national-bowel-cancer-screening-program/lowered-eligible-age",
+      "date": "2024-07-01"
+    },
+    "supporting_source": {
+      "org": "Australian Government Department of Health, Disability and Ageing",
+      "title": "BreastScreen Australia (actively invites 50-74; eligible from 40) and National Cervical Screening Program (25-74, 5-yearly)",
+      "url": "https://www.health.gov.au/our-work/breastscreen-australia-program/having-a-breast-screen/who-should-have-a-breast-screen",
+      "date": "2026"
+    },
+    "evidence_summary": "This is the most prominent statement of screening age rules and it is now partly out of date. Bowel screening: from 1 July 2024 the program starts at 45 (opt-in 45-49; automatic 50-74), not 50. Cervical screening: 25-74, 5-yearly HPV test (self-collection available). Breast screening: BreastScreen actively invites 50-74 and is available from 40. The 'help arrange anything that's been missed' framing is appropriate and non-promissory.",
+    "limitations": "The 'earlier with a family history' note is reasonable (strong family history may warrant colonoscopy rather than FOBT). Highest-risk item because it explicitly states an outdated program age on the flagship service FAQ.",
+    "reviewer_notes": "Update bowel age to reflect 45+ eligibility; optionally add cervical (25-74) and breast (50-74 active / from 40) age bands for accuracy. Screening ages change - short review cycle. [Implemented 2026-09-20; applied to site - see corresponding IND entry.]",
+    "last_verified": "2026-09-20",
+    "review_due": "2027-03-20"
+  },
+  {
+    "id": "MID-17",
+    "page_url": "https://dramandahenderson.com.au/midlife-health-check-sydney",
+    "page_title": "Midlife Health Check Sydney | Dr Amanda Henderson GP",
+    "claim_text": "FAQ: 'What health checks should women have after 40?' - Alongside the general checks, this often includes cervical and breast screening, a conversation about perimenopause or menopause, and attention to bone and cardiovascular health, which change around this stage.",
+    "category": "women's health / screening",
+    "risk": "MODERATE",
+    "status": "supported",
+    "wording_acceptable": true,
+    "recommended_wording": null,
+    "primary_source": {
+      "org": "RACGP",
+      "title": "Guidelines for preventive activities in general practice (Red Book)",
+      "url": "https://www.racgp.org.au/clinical-resources/clinical-guidelines/key-racgp-guidelines/view-all-racgp-guidelines/red-book",
+      "date": "2024"
+    },
+    "supporting_source": {
+      "org": "Australian Government Department of Health, Disability and Ageing",
+      "title": "BreastScreen Australia - who should have a breast screen",
+      "url": "https://www.health.gov.au/our-work/breastscreen-australia-program/having-a-breast-screen/who-should-have-a-breast-screen",
+      "date": "2026"
+    },
+    "evidence_summary": "Cervical screening (25-74) and breast screening (available from 40, actively invited 50-74), perimenopause/menopause discussion, and bone/CVD attention around menopause are all appropriate for women after 40. Non-specific 'relevant age range' phrasing keeps it accurate.",
+    "limitations": "Breast screening is not actively invited until 50; women 40-49 are eligible but not invited. Optional clarification only; current wording is not misleading.",
+    "reviewer_notes": "Supported. Optionally note breast screening is 'available from 40, actively offered from 50'.",
+    "last_verified": "2026-09-20",
+    "review_due": "2027-09-20"
+  },
+  {
+    "id": "MID-18",
+    "page_url": "https://dramandahenderson.com.au/midlife-health-check-sydney",
+    "page_title": "Midlife Health Check Sydney | Dr Amanda Henderson GP",
+    "claim_text": "FAQ: 'What health checks should men have after 40?' - The general checks apply, with added attention to cardiovascular and diabetes risk, and a discussion of prostate health where it's relevant to you. Many men haven't seen a GP in years, so it's also a chance to catch up on anything overdue.",
+    "category": "men's health / prostate (PSA) screening",
+    "risk": "MODERATE",
+    "status": "supported",
+    "wording_acceptable": true,
+    "recommended_wording": null,
+    "primary_source": {
+      "org": "RACGP",
+      "title": "Guidelines for preventive activities in general practice (Red Book) - PSA testing after informed discussion",
+      "url": "https://www.racgp.org.au/clinical-resources/clinical-guidelines/key-racgp-guidelines/view-all-racgp-guidelines/red-book",
+      "date": "2024"
+    },
+    "supporting_source": {
+      "org": "Cancer Council Australia / PCFA",
+      "title": "Prostate cancer / PSA testing decision-making",
+      "url": "https://www.cancer.org.au/cancer-information/types-of-cancer/prostate-cancer",
+      "date": "2026"
+    },
+    "evidence_summary": "Prostate/PSA is correctly framed as a 'discussion where relevant' rather than a recommended universal screen, which aligns with RACGP guidance that PSA testing follows an informed discussion of benefits and harms (there is no national prostate screening program). CVD/diabetes attention is standard. No overstatement.",
+    "limitations": "Must remain a shared-decision 'discussion', not a recommended test, to stay compliant; current wording is appropriate.",
+    "reviewer_notes": "Supported. Keep PSA as informed discussion, not a promoted test.",
+    "last_verified": "2026-09-20",
+    "review_due": "2027-09-20"
+  },
+  {
+    "id": "MID-19",
+    "page_url": "https://dramandahenderson.com.au/midlife-health-check-sydney",
+    "page_title": "Midlife Health Check Sydney | Dr Amanda Henderson GP",
+    "claim_text": "FAQ: 'How often should I have a comprehensive health check?' - For most people in midlife, every one to two years is reasonable, though it depends on your health and what we find.",
+    "category": "screening interval / frequency",
+    "risk": "MODERATE",
+    "status": "changed",
+    "wording_acceptable": true,
+    "recommended_wording": null,
+    "primary_source": {
+      "org": "RACGP",
+      "title": "Guidelines for preventive activities in general practice (Red Book)",
+      "url": "https://www.racgp.org.au/clinical-resources/clinical-guidelines/key-racgp-guidelines/view-all-racgp-guidelines/red-book",
+      "date": "2024"
+    },
+    "supporting_source": null,
+    "evidence_summary": "The RACGP Red Book does not prescribe a single fixed interval for a whole 'health check'; individual preventive activities have their own intervals (e.g. cervical 5-yearly, bowel 2-yearly, CVD risk 2-5 yearly by risk). The page presents '1-2 years' as a general default explicitly conditioned on 'it depends on your health and what we find', which keeps it defensible as general guidance rather than a rule.",
+    "limitations": "'Every one to two years' is a reasonable practical default but is not a formal guideline interval; the conditional phrasing is what makes it acceptable. Watch that it is not read as a recommendation to over-attend.",
+    "reviewer_notes": "Acceptable as written due to the 'depends on your health' qualifier. Consider adding 'the right interval depends on your age and risk factors' for extra safety. [Implemented 2026-09-20; applied to site - see corresponding IND entry.]",
+    "last_verified": "2026-09-20",
+    "review_due": "2027-09-20"
+  },
+  {
+    "id": "MID-20",
+    "page_url": "https://dramandahenderson.com.au/midlife-health-check-sydney",
+    "page_title": "Midlife Health Check Sydney | Dr Amanda Henderson GP",
+    "claim_text": "FAQ: 'Do I need a referral for a DEXA scan?' - A DEXA scan is arranged through your GP, so we organise the referral as part of your check if it's appropriate for you. Whether Medicare contributes to the cost depends on your circumstances, which we can talk through.",
+    "category": "Medicare / process claim",
+    "risk": "MODERATE",
+    "status": "supported",
+    "wording_acceptable": true,
+    "recommended_wording": null,
+    "primary_source": {
+      "org": "MBS Online (Australian Government)",
+      "title": "Medicare Benefits Schedule - Bone Densitometry items (eligibility-dependent rebate)",
+      "url": "https://www.mbsonline.gov.au/internet/mbsonline/publishing.nsf/Content/Factsheet-MBSBoneDensitometryItems",
+      "date": "2024"
+    },
+    "supporting_source": {
+      "org": "Healthdirect",
+      "title": "Bone density scan",
+      "url": "https://www.healthdirect.gov.au/bone-density-scan",
+      "date": "2026"
+    },
+    "evidence_summary": "DEXA is referred by a GP and Medicare rebate is conditional on eligibility (age 70+, prior minimal-trauma fracture, relevant conditions/medications). 'Whether Medicare contributes depends on your circumstances' is accurate and, importantly, states no invented dollar figure.",
+    "limitations": "No specific pricing quoted (correct). Eligibility criteria are MBS-defined and can change.",
+    "reviewer_notes": "Supported. No invented pricing - compliant.",
+    "last_verified": "2026-09-20",
+    "review_due": "2027-09-20"
+  },
+  {
+    "id": "MID-21",
+    "page_url": "https://dramandahenderson.com.au/midlife-health-check-sydney",
+    "page_title": "Midlife Health Check Sydney | Dr Amanda Henderson GP",
+    "claim_text": "FAQ: 'How much does a Midlife Health Check cost?' - This is a private billing practice, so consultations are privately billed rather than bulk billed, and patients with a valid Medicare card are eligible for a Medicare rebate. The fee depends on the length and type of appointment, and any tests or scans may have their own costs. You're welcome to call the practice to talk through the cost before you book.",
+    "category": "billing / Medicare / AHPRA advertising",
+    "risk": "MODERATE",
+    "status": "supported",
+    "wording_acceptable": true,
+    "recommended_wording": null,
+    "primary_source": {
+      "org": "Services Australia",
+      "title": "Medicare - private billing and patient rebates",
+      "url": "https://www.servicesaustralia.gov.au/medicare",
+      "date": "2026"
+    },
+    "supporting_source": {
+      "org": "Ahpra / Medical Board of Australia",
+      "title": "Guidelines for advertising a regulated health service",
+      "url": "https://www.ahpra.gov.au/Publications/Advertising-hub/Advertising-guidelines-and-other-guidance/Advertising-guidelines.aspx",
+      "date": "2020"
+    },
+    "evidence_summary": "Accurately describes private billing with a Medicare rebate for card-holders and does NOT quote any specific or invented price, directing patients to call for a quote. This is consistent with Ahpra advertising guidance (no misleading price claims). Compliant.",
+    "limitations": "'Eligible for a Medicare rebate' is correct for consultations with a valid Medicare card; the rebate amount is not stated (appropriate). Ensure no discounted/comparative price claims are added elsewhere.",
+    "reviewer_notes": "Supported. No fabricated pricing - key compliance point satisfied.",
+    "last_verified": "2026-09-20",
+    "review_due": "2027-09-20"
+  },
+  {
+    "id": "MID-22",
+    "page_url": "https://dramandahenderson.com.au/midlife-health-check-sydney",
+    "page_title": "Midlife Health Check Sydney | Dr Amanda Henderson GP",
+    "claim_text": "About Dr Amanda Henderson... a family GP (FRACGP) based in South Maroubra... brings that same thoroughness to a midlife review: unhurried, evidence-based, and focused on what's genuinely useful for you.",
+    "category": "practitioner credential / testimonial-style claim (AHPRA advertising)",
+    "risk": "MODERATE",
+    "status": "needs_review",
+    "wording_acceptable": true,
+    "recommended_wording": null,
+    "primary_source": {
+      "org": "Ahpra",
+      "title": "Register of practitioners (verify FRACGP / registration)",
+      "url": "https://www.ahpra.gov.au/Registration/Registers-of-Practitioners.aspx",
+      "date": "2026"
+    },
+    "supporting_source": null,
+    "evidence_summary": "Credential claim (FRACGP) and location are factual matters to be confirmed against the Ahpra register / practice records - not verifiable from public clinical sources by this reviewer. 'Evidence-based' and 'thorough' are qualitative and acceptable if accurate. No prohibited superiority/comparative claim is made.",
+    "limitations": "Reviewer cannot independently confirm the practitioner's registration/qualifications; flagged for internal confirmation against Ahpra register.",
+    "reviewer_notes": "Internal check: confirm current AHPRA registration and FRACGP fellowship. Avoid any 'best'/'leading'/superiority wording.",
+    "last_verified": "2026-09-20",
+    "review_due": "2027-09-20"
+  },
+  {
+    "id": "MID-23",
+    "page_url": "https://dramandahenderson.com.au/midlife-health-check-sydney",
+    "page_title": "Midlife Health Check Sydney | Dr Amanda Henderson GP",
+    "claim_text": "The 4-step journey: '01 Your comprehensive consultation... 02 The right tests and screening (I recommend and coordinate the investigations that are appropriate for you)... 03 Your results brought together... 04 Your plan for the years ahead (You leave knowing what looks good, what needs attention, what's worth monitoring, and the few actions that will make the most difference).' Plus results list ('What looks good / What deserves attention / risk factors that matter most / whether anything needs further investigation / what you can improve now / when it makes sense to check again').",
+    "category": "service process / benefit framing",
+    "risk": "LOW",
+    "status": "supported",
+    "wording_acceptable": true,
+    "recommended_wording": null,
+    "primary_source": {
+      "org": "RACGP",
+      "title": "Guidelines for preventive activities in general practice (Red Book)",
+      "url": "https://www.racgp.org.au/clinical-resources/clinical-guidelines/key-racgp-guidelines/view-all-racgp-guidelines/red-book",
+      "date": "2024"
+    },
+    "supporting_source": null,
+    "evidence_summary": "Describes the service process (consult, tailored investigation, results integration, personalised plan) and outcomes in non-promissory, individualised language ('what looks good, what needs attention'). 'The few actions that will make the most difference' is a reasonable value statement, not a guarantee of health outcomes. 'Appropriate for you' reinforces tailored testing.",
+    "limitations": "None material; avoids prevention/cure guarantees.",
+    "reviewer_notes": "Supported. No change.",
+    "last_verified": "2026-09-20",
+    "review_due": "2027-09-20"
+  },
+  {
+    "id": "MID-24",
+    "page_url": "https://dramandahenderson.com.au/which-appointment",
+    "page_title": "Which appointment should I book? | Dr Amanda Henderson",
+    "claim_text": "Entire page and underlying appointment logic (data/appointmentTypes.ts): a booking-helper tool that recommends an appointment length (standard ~15 min, long up to 30 min, new patient 45 min) from a single non-medical question. Example copy: 'Answer one quick question and we'll suggest the right appointment length'; 'No personal or medical information required.'",
+    "category": "booking / logistics (non-clinical)",
+    "risk": "LOW",
+    "status": "supported",
+    "wording_acceptable": true,
+    "recommended_wording": null,
+    "primary_source": {
+      "org": "N/A (practice operational information)",
+      "title": "Not a clinical claim - appointment logistics",
+      "url": "",
+      "date": ""
+    },
+    "supporting_source": null,
+    "evidence_summary": "Reviewed /which-appointment and data/appointmentTypes.ts in full. These contain no medical, screening, diagnostic or treatment claims - only appointment lengths and deterministic booking guidance (no LLM, no health data collected). Nothing to verify against clinical sources; no regulatory advertising risk (no efficacy/price/superiority claims).",
+    "limitations": "Appointment durations, HotDoc booking-name labels, and the 'new patients must phone' rule are practice operational facts to confirm internally (code comments already flag that exact HotDoc labels are unverified) - not a health-claim matter.",
+    "reviewer_notes": "No health claims on these two assigned files. Only internal confirmation of appointment durations/booking labels is needed (operational, not clinical).",
+    "last_verified": "2026-09-20",
+    "review_due": "2027-09-20"
+  }
+]

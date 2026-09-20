@@ -179,7 +179,7 @@ export const serviceAreas: ServiceArea[] = [
       },
       {
         heading: "Perimenopause & menopause",
-        body: "Hot flushes, sleep changes, mood and brain fog are common and treatable. We can talk through what's happening and the options - including menopausal hormone therapy where appropriate.",
+        body: "Hot flushes, sleep changes and mood changes are common and can often be helped, and many women also notice 'brain fog'. We can talk through what's happening and the options - including menopausal hormone therapy where appropriate.",
       },
     ],
     whenToSee: [
@@ -194,7 +194,7 @@ export const serviceAreas: ServiceArea[] = [
     faqs: [
       {
         q: "Can a GP help with perimenopause and menopause?",
-        a: "Yes. A GP is often the best place to start. We can talk through your symptoms, check whether anything else might be contributing, and discuss the options - from lifestyle measures to menopausal hormone therapy (MHT) - referring on only if that's needed.",
+        a: "Yes. A GP is a good place to start. We can talk through your symptoms, check whether anything else might be contributing, and discuss the options - from lifestyle measures to menopausal hormone therapy (MHT) - referring on only if that's needed.",
       },
       {
         q: "When should I see a GP about heavy periods?",
@@ -214,7 +214,7 @@ export const serviceAreas: ServiceArea[] = [
       },
       {
         q: "Do I need a referral for cervical screening?",
-        a: "No. Cervical screening is done in general practice, and self-collection is now an option for most people. You can book directly - no referral needed.",
+        a: "No. Cervical screening is done in general practice, and self-collection is now available to most people due for routine screening (some situations, such as certain symptoms or follow-up, still need a clinician-collected sample). You can book directly - no referral needed.",
       },
       {
         q: "Can a GP help with low iron and iron deficiency?",
@@ -351,7 +351,7 @@ export const serviceAreas: ServiceArea[] = [
     faqs: [
       {
         q: "When should I take my child to a GP for a fever?",
-        a: "See a GP promptly if your baby is under 3 months old with any fever, or if your child seems very unwell, is difficult to wake, is breathing quickly, has a rash that doesn't fade when pressed, isn't drinking or having wet nappies, or the fever lasts more than a couple of days. If your child is seriously unwell, call 000.",
+        a: "See a GP promptly if your baby is under 3 months old with a fever (a temperature of 38°C or higher), or if your child seems very unwell, is difficult to wake, is breathing quickly, has a rash that doesn't fade when pressed, isn't drinking or having wet nappies, or the fever lasts more than a couple of days. If your child is seriously unwell, call 000.",
       },
       {
         q: "What does a GP check at a baby's six-week appointment?",
@@ -371,7 +371,7 @@ export const serviceAreas: ServiceArea[] = [
       },
       {
         q: "Can I talk to a GP about ADHD concerns in my child?",
-        a: "Yes. A GP can listen to your concerns, do an initial assessment and help rule out other contributors, then guide you on next steps - which usually involves referral to a paediatrician for formal assessment.",
+        a: "Yes. A GP can listen to your concerns, do an initial assessment and help rule out other contributors, then guide you on next steps - which may involve referral to a paediatrician, psychiatrist or another clinician experienced in ADHD assessment, depending on your child's needs and the local pathways.",
       },
     ],
     related: ["pregnancy-care", "general-gp-care", "teenage-health"],
@@ -434,7 +434,7 @@ export const serviceAreas: ServiceArea[] = [
     faqs: [
       {
         q: "What does continuity of care with a family GP mean?",
-        a: "It means seeing a GP who knows you and your history, so your care builds over time rather than starting from scratch each visit. Continuity is linked to better health and fewer things falling through the cracks - and it's central to how I like to work.",
+        a: "It means seeing a GP who knows you and your history, so your care builds over time rather than starting from scratch each visit. Continuity of care is linked to better patient experience and a range of better health outcomes - and it's central to how I like to work.",
       },
       {
         q: "What happens at a general health check?",
@@ -454,7 +454,7 @@ export const serviceAreas: ServiceArea[] = [
       },
       {
         q: "I'm tired all the time - could it be low iron?",
-        a: "It might be. Low iron (iron deficiency) is a common and very treatable cause of persistent tiredness, along with things like thyroid problems, poor sleep, low mood, and vitamin B12 or vitamin D deficiency. A GP can take a history, examine you and arrange the right blood tests - including iron studies and ferritin - then treat the low iron and whatever is driving it.",
+        a: "It might be. Low iron (iron deficiency) is one of the more common and very treatable causes of persistent tiredness, along with things like thyroid problems, poor sleep, low mood, and vitamin B12 or vitamin D deficiency. A GP can take a history, examine you and arrange the right blood tests - including iron studies and ferritin - then treat the low iron and whatever is driving it.",
       },
       {
         q: "What should I bring to my first appointment?",
@@ -484,11 +484,11 @@ export const serviceAreas: ServiceArea[] = [
     summary:
       "Down-to-earth GP care for teenagers - periods, skin, mood and anxiety, sleep and everyday health - with room to talk privately when it helps.",
     intro:
-      "Teenagers do better with a GP who takes them seriously and gives them room to speak for themselves. I look after young people through the in-between years - for period problems and skin, low mood and anxiety, tiredness, and the ordinary business of staying well - and I'm glad to see them with a parent, on their own, or a bit of both.",
+      "Teenagers benefit from a GP who takes them seriously and gives them room to speak for themselves. I look after young people through the in-between years - for period problems and skin, low mood and anxiety, tiredness, and the ordinary business of staying well - and I'm glad to see them with a parent, on their own, or a bit of both.",
     covers: [
       {
         heading: "Growing up and puberty",
-        body: "Questions about development, periods starting, height, weight or whether what's happening is normal. Often the reassurance is the treatment, and knowing what to expect makes the rest easier.",
+        body: "Questions about development, periods starting, height, weight or whether what's happening is normal. Often, once we've checked things over, the reassurance is the treatment, and knowing what to expect makes the rest easier.",
       },
       {
         heading: "Periods and reproductive health",
@@ -496,7 +496,7 @@ export const serviceAreas: ServiceArea[] = [
       },
       {
         heading: "Skin, especially acne",
-        body: "Acne is common and very treatable, and starting sooner helps prevent scarring and the knock to confidence. There is far more available than the products on the pharmacy shelf.",
+        body: "Acne is common and very treatable, and starting sooner can reduce the risk of scarring and the impact on confidence, especially with moderate or severe acne. There is far more available than the products on the pharmacy shelf.",
       },
       {
         heading: "Mood, anxiety and stress",
@@ -548,7 +548,7 @@ export const serviceAreas: ServiceArea[] = [
       },
       {
         q: "When would a GP involve another doctor or service?",
-        a: "General practice handles most teenage health concerns from start to finish. When something calls for a paediatrician, a psychologist, a gynaecologist or another specialist, I'll say so, explain why, and help arrange it - you won't be left to sort it out alone.",
+        a: "General practice can handle many teenage health concerns from start to finish. When something calls for a paediatrician, a psychologist, a gynaecologist or another specialist, I'll say so, explain why, and help arrange it - you won't be left to sort it out alone.",
       },
     ],
     related: ["womens-health", "general-gp-care", "childrens-health"],
@@ -578,8 +578,8 @@ export const inBriefByArea: Record<string, string[]> = {
     "Dr Amanda Henderson provides women's health care at GP Maroubra, in South Maroubra.",
     "Common reasons to visit include contraception, heavy or painful periods, PCOS, breast concerns, cervical screening, sexual health, and perimenopause or menopause.",
     "Low iron (iron deficiency) is common in women, especially with heavy periods, and can be confirmed with a blood test (including ferritin) and treated.",
-    "Most concerns can be assessed and managed in general practice, with referral arranged when it's needed.",
-    "Cervical screening - including self-collection for most people - is available without a referral.",
+    "Many concerns can be assessed and managed in general practice, with referral arranged when it's needed.",
+    "Cervical screening - including self-collection for most people due for routine screening - is available without a referral.",
   ],
   "pregnancy-care": [
     "Dr Amanda Henderson offers preconception advice, shared antenatal care and postnatal care in Maroubra.",

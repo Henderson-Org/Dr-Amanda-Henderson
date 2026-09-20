@@ -1,0 +1,1032 @@
+[
+  {
+    "id": "PILLAR-01",
+    "page_url": "https://dramandahenderson.com.au/",
+    "page_title": "Dr Amanda Henderson | Family GP, Maroubra Sydney",
+    "claim_text": "Hi, I'm Amanda, a family GP in Maroubra. I take the time to understand what's going on, talk through your concerns properly, and help you make sense of what comes next.",
+    "category": "practice/experience description (non-clinical)",
+    "risk": "LOW",
+    "status": "supported",
+    "wording_acceptable": true,
+    "recommended_wording": null,
+    "primary_source": null,
+    "supporting_source": null,
+    "evidence_summary": "Describes consultation style and time taken, not a clinical outcome. Makes no promise of a result or superiority. Consistent with AHPRA advertising guidance as a non-comparative description of service.",
+    "limitations": "Not independently verifiable; a subjective service description rather than a factual/clinical claim.",
+    "reviewer_notes": "Acceptable as warm, non-clinical positioning. No change needed.",
+    "last_verified": "2026-09-20",
+    "review_due": "2027-09-20"
+  },
+  {
+    "id": "PILLAR-02",
+    "page_url": "https://dramandahenderson.com.au/",
+    "page_title": "Dr Amanda Henderson | Family GP, Maroubra Sydney",
+    "claim_text": "Credentials strip (homepage): 'Fellow of the Royal Australian College of General Practitioners (FRACGP)'; 'Female family GP in Maroubra, Sydney'; 'Registered shared antenatal care provider - Royal Hospital for Women, Randwick'.",
+    "category": "practitioner credential / qualification",
+    "risk": "HIGH",
+    "status": "needs_review",
+    "wording_acceptable": true,
+    "recommended_wording": null,
+    "primary_source": {
+      "org": "Australian Health Practitioner Regulation Agency (AHPRA)",
+      "title": "Search the public register of practitioners",
+      "url": "https://www.ahpra.gov.au/registration/registers-of-practitioners.aspx",
+      "date": "2026"
+    },
+    "supporting_source": {
+      "org": "South Eastern Sydney Local Health District (Royal Hospital for Women)",
+      "title": "Antenatal Shared Care Guidelines - The Royal Hospital for Women",
+      "url": "https://www.seslhd.health.nsw.gov.au/sites/default/files/groups/Royal_Hospital_for_Women/Antenatal%20Shared%20Protocol/Antenatal%20Shared%20Care%20Guidelines%20April%202026.pdf",
+      "date": "2026-04"
+    },
+    "evidence_summary": "FRACGP, GP registration and the RHW shared antenatal care program all exist and are real, verifiable categories. The RHW GP Antenatal Shared Care (GP ANSC) program is confirmed by SESLHD guidelines: GPs register/affiliate via CESPHN, complete an affiliation course and maintain CPD. However, whether THIS practitioner currently holds FRACGP, current AHPRA registration and current RHW shared-care affiliation is a fact about the individual that cannot be confirmed from public web sources alone.",
+    "limitations": "Individual registration status not verified. AHPRA registration can lapse/change conditions; RHW affiliation must be maintained per triennium. These are asserted facts that carry AHPRA advertising-compliance and consumer-law risk if inaccurate.",
+    "reviewer_notes": "FLAG FOR PRACTICE VERIFICATION before publish: (1) confirm current FRACGP + unconditional AHPRA general registration via the AHPRA public register; (2) confirm current RHW GP ANSC affiliation via SESLHD/CESPHN. Keep documentary evidence (registration certificate, RHW affiliation confirmation) on file. Do not assert the RHW credential unless current affiliation is confirmed.",
+    "last_verified": "2026-09-20",
+    "review_due": "2026-12-20"
+  },
+  {
+    "id": "PILLAR-03",
+    "page_url": "https://dramandahenderson.com.au/",
+    "page_title": "Dr Amanda Henderson | Family GP, Maroubra Sydney",
+    "claim_text": "I'm a Fellow of the Royal Australian College of General Practitioners and a female family GP based in Maroubra ... care for pregnancies as a shared antenatal care provider with the Royal Hospital for Women ...",
+    "category": "practitioner credential / qualification",
+    "risk": "HIGH",
+    "status": "needs_review",
+    "wording_acceptable": true,
+    "recommended_wording": null,
+    "primary_source": {
+      "org": "Australian Health Practitioner Regulation Agency (AHPRA)",
+      "title": "Search the public register of practitioners",
+      "url": "https://www.ahpra.gov.au/registration/registers-of-practitioners.aspx",
+      "date": "2026"
+    },
+    "supporting_source": null,
+    "evidence_summary": "Same underlying facts as PILLAR-02, restated in the homepage 'short about' panel. The categories are legitimate; individual status requires practice verification.",
+    "limitations": "As PILLAR-02.",
+    "reviewer_notes": "Covered by the same practice-verification action as PILLAR-02. Ensure the shared-care wording is only used while RHW affiliation is current.",
+    "last_verified": "2026-09-20",
+    "review_due": "2026-12-20"
+  },
+  {
+    "id": "PILLAR-04",
+    "page_url": "https://dramandahenderson.com.au/",
+    "page_title": "Dr Amanda Henderson | Family GP, Maroubra Sydney",
+    "claim_text": "The Midlife Health Check is a comprehensive, GP-led review for your 40s, 50s and beyond - bringing together your history, screening, appropriate tests and results, so you know where your health stands and what to focus on next.",
+    "category": "service description / preventive health (implied screening benefit)",
+    "risk": "MODERATE",
+    "status": "changed",
+    "wording_acceptable": false,
+    "recommended_wording": "The Midlife Health Check is a thorough, GP-led review for your 40s, 50s and beyond - bringing together your history, recommended screening, appropriate tests and results, to help you understand where your health stands and what to focus on next.",
+    "primary_source": {
+      "org": "Royal Australian College of General Practitioners (RACGP)",
+      "title": "Guidelines for preventive activities in general practice (Red Book)",
+      "url": "https://www.racgp.org.au/clinical-resources/clinical-guidelines/key-racgp-guidelines/view-all-racgp-guidelines/red-book",
+      "date": "2024"
+    },
+    "supporting_source": null,
+    "evidence_summary": "A structured preventive/health-check consultation is standard, evidence-informed general practice (RACGP Red Book). The framing is largely acceptable, but 'comprehensive' overstates what a single review can cover and implies completeness; 'so you know where your health stands' slightly over-promises certainty from screening.",
+    "limitations": "Screening detects risk/disease probabilistically, not with certainty; no health check is truly 'comprehensive'. AHPRA advertising guidance cautions against overstating benefit of check-ups/screening.",
+    "reviewer_notes": "Soften 'comprehensive' to 'thorough', add 'recommended' before screening, and change 'so you know' to 'to help you understand'. Preserves the warm tone while avoiding an implied guarantee. [Implemented 2026-09-20; applied to site - see corresponding IND entry.]",
+    "last_verified": "2026-09-20",
+    "review_due": "2027-09-20"
+  },
+  {
+    "id": "PILLAR-05",
+    "page_url": "https://dramandahenderson.com.au/",
+    "page_title": "Dr Amanda Henderson | Family GP, Maroubra Sydney",
+    "claim_text": "Loose ends followed up - I'll chase your results, arrange referrals when you need them, and tell you plainly when something is better handled by a specialist or needs urgent care.",
+    "category": "service description (non-clinical process)",
+    "risk": "LOW",
+    "status": "supported",
+    "wording_acceptable": true,
+    "recommended_wording": null,
+    "primary_source": null,
+    "supporting_source": null,
+    "evidence_summary": "Describes ordinary safe practice (results follow-up, referral, escalation). No outcome promise or superiority claim.",
+    "limitations": "Service-process description, not independently verifiable.",
+    "reviewer_notes": "Acceptable. Consistent with safe general-practice process.",
+    "last_verified": "2026-09-20",
+    "review_due": "2027-09-20"
+  },
+  {
+    "id": "PILLAR-06",
+    "page_url": "https://dramandahenderson.com.au/about",
+    "page_title": "About Dr Amanda Henderson | Female Family GP, Maroubra",
+    "claim_text": "Dr Henderson holds an MBBS and is a Fellow of the Royal Australian College of General Practitioners (FRACGP). She is a registered medical practitioner with AHPRA and a registered shared antenatal care provider with the Royal Hospital for Women in Randwick.",
+    "category": "practitioner credential / qualification",
+    "risk": "HIGH",
+    "status": "needs_review",
+    "wording_acceptable": true,
+    "recommended_wording": null,
+    "primary_source": {
+      "org": "Australian Health Practitioner Regulation Agency (AHPRA)",
+      "title": "Search the public register of practitioners",
+      "url": "https://www.ahpra.gov.au/registration/registers-of-practitioners.aspx",
+      "date": "2026"
+    },
+    "supporting_source": {
+      "org": "South Eastern Sydney Local Health District (Royal Hospital for Women)",
+      "title": "Antenatal Shared Care Guidelines - The Royal Hospital for Women",
+      "url": "https://www.seslhd.health.nsw.gov.au/sites/default/files/groups/Royal_Hospital_for_Women/Antenatal%20Shared%20Protocol/Antenatal%20Shared%20Care%20Guidelines%20April%202026.pdf",
+      "date": "2026-04"
+    },
+    "evidence_summary": "Explicit statement of MBBS, FRACGP, AHPRA registration and RHW shared-care registration. All categories are real and verifiable; the RHW GP ANSC program is confirmed to exist. Individual holding of each credential must be verified by the practice.",
+    "limitations": "Individual credential status not confirmed from public sources. AHPRA advertising rules require qualifications/titles used in advertising to be accurate and not misleading.",
+    "reviewer_notes": "Same verification action as PILLAR-02. This is the most explicit credential statement on the site (also mirrored in structured data / factRows) so accuracy here is important.",
+    "last_verified": "2026-09-20",
+    "review_due": "2026-12-20"
+  },
+  {
+    "id": "PILLAR-07",
+    "page_url": "https://dramandahenderson.com.au/about",
+    "page_title": "About Dr Amanda Henderson | Female Family GP, Maroubra",
+    "claim_text": "Key facts block: 'Qualifications: MBBS · FRACGP'; 'Hospital program: Shared antenatal care - Royal Hospital for Women, Randwick'; 'Areas served: Maroubra, South Maroubra, Coogee, South Coogee, Randwick, Kingsford, Malabar, Matraville, Pagewood'.",
+    "category": "practitioner credential / practice fact",
+    "risk": "MODERATE",
+    "status": "needs_review",
+    "wording_acceptable": true,
+    "recommended_wording": null,
+    "primary_source": {
+      "org": "Australian Health Practitioner Regulation Agency (AHPRA)",
+      "title": "Search the public register of practitioners",
+      "url": "https://www.ahpra.gov.au/registration/registers-of-practitioners.aspx",
+      "date": "2026"
+    },
+    "supporting_source": null,
+    "evidence_summary": "Machine-extractable fact rows repeat the qualifications and RHW program credential (covered by PILLAR-02/06) and list served suburbs. Suburb catchment is a practice fact and is presented modestly as areas welcomed rather than served exclusively.",
+    "limitations": "Qualifications/RHW row depend on the same individual verification. Served-suburbs list should reflect genuine catchment (site comment states this is intended).",
+    "reviewer_notes": "Verify qualifications/RHW as per PILLAR-02. Confirm the suburb list reflects patients actually seen (not SEO-only) - site code comment already asserts this.",
+    "last_verified": "2026-09-20",
+    "review_due": "2026-12-20"
+  },
+  {
+    "id": "PILLAR-08",
+    "page_url": "https://dramandahenderson.com.au/about",
+    "page_title": "About Dr Amanda Henderson | Female Family GP, Maroubra",
+    "claim_text": "Prior qualifications include MAppIFin, BComm, BBus - a background that informs a considered, practical approach to care.",
+    "category": "practitioner qualification (non-medical)",
+    "risk": "MODERATE",
+    "status": "needs_review",
+    "wording_acceptable": true,
+    "recommended_wording": null,
+    "primary_source": null,
+    "supporting_source": null,
+    "evidence_summary": "Non-medical prior degrees. Listing them is acceptable if held; AHPRA advertising guidance requires that qualifications referenced in health advertising are accurate and not used in a way that implies clinical superiority.",
+    "limitations": "Cannot verify these degrees from public sources; they are not clinical qualifications.",
+    "reviewer_notes": "Confirm the practitioner holds these degrees. The phrase links a finance/commerce background to 'care' - keep it clearly non-clinical (it already reads as tone, not a clinical claim).",
+    "last_verified": "2026-09-20",
+    "review_due": "2026-12-20"
+  },
+  {
+    "id": "PILLAR-09",
+    "page_url": "https://dramandahenderson.com.au/about",
+    "page_title": "About Dr Amanda Henderson | Female Family GP, Maroubra",
+    "claim_text": "I keep the whole thread - Seeing the same families over time means I can join the dots - last year's result, the medication that didn't suit you, the thing we said we'd keep an eye on. You're never starting from scratch.",
+    "category": "continuity of care (implied clinical benefit)",
+    "risk": "LOW",
+    "status": "supported",
+    "wording_acceptable": true,
+    "recommended_wording": null,
+    "primary_source": {
+      "org": "Royal Australian College of General Practitioners (RACGP)",
+      "title": "How can GPs encourage continuity of care? (newsGP)",
+      "url": "https://www1.racgp.org.au/newsgp/clinical/how-can-gps-encourage-continuity-of-care",
+      "date": "2023"
+    },
+    "supporting_source": null,
+    "evidence_summary": "Frames relational continuity in warm, first-person terms without asserting a health outcome. Continuity of care is well supported as a benefit of general practice (see PILLAR-24). 'You're never starting from scratch' is a reasonable description, not an absolute guarantee.",
+    "limitations": "Describes the practitioner's intent; individual continuity depends on patient attendance patterns.",
+    "reviewer_notes": "Acceptable. If anything the stronger continuity/outcome claim is in the General GP FAQ (PILLAR-24) - see there.",
+    "last_verified": "2026-09-20",
+    "review_due": "2027-09-20"
+  },
+  {
+    "id": "PILLAR-10",
+    "page_url": "https://dramandahenderson.com.au/womens-health",
+    "page_title": "Women's Health GP in Maroubra | Dr Amanda Henderson",
+    "claim_text": "From the pill to long-acting options such as the implant (Implanon) and IUDs, we can talk through what might suit your body ... and I can arrange or provide most options in the practice.",
+    "category": "clinical service / contraception",
+    "risk": "LOW",
+    "status": "supported",
+    "wording_acceptable": true,
+    "recommended_wording": null,
+    "primary_source": {
+      "org": "Healthdirect (Australian Government)",
+      "title": "Contraception",
+      "url": "https://www.healthdirect.gov.au/contraception",
+      "date": "2024"
+    },
+    "supporting_source": null,
+    "evidence_summary": "Contraceptive counselling and provision (including implant insertion and IUDs, subject to individual GP training) are routine in Australian general practice. Wording is appropriately hedged ('might suit', 'most options').",
+    "limitations": "IUD/implant insertion depends on the individual GP's procedural training/credentialing - 'arrange or provide' covers referral where not provided in-house.",
+    "reviewer_notes": "Acceptable. Confirm which LARC procedures are performed in-practice vs referred, so 'provide' is accurate.",
+    "last_verified": "2026-09-20",
+    "review_due": "2027-09-20"
+  },
+  {
+    "id": "PILLAR-11",
+    "page_url": "https://dramandahenderson.com.au/womens-health",
+    "page_title": "Women's Health GP in Maroubra | Dr Amanda Henderson",
+    "claim_text": "Cervical screening (including self-collection), STI testing and vaginal symptoms are routine parts of general practice. ... Do I need a referral for cervical screening? No. Cervical screening is done in general practice, and self-collection is now an option for most people. You can book directly - no referral needed.",
+    "category": "clinical / national screening program",
+    "risk": "MODERATE",
+    "status": "supported",
+    "wording_acceptable": true,
+    "recommended_wording": null,
+    "primary_source": {
+      "org": "Australian Government Department of Health, Disability and Ageing",
+      "title": "National Cervical Screening Program",
+      "url": "https://www.health.gov.au/our-work/national-cervical-screening-program",
+      "date": "2025-02"
+    },
+    "supporting_source": {
+      "org": "Healthdirect (Australian Government)",
+      "title": "Cervical Screening Test",
+      "url": "https://www.healthdirect.gov.au/cervical-screening-test",
+      "date": "2024"
+    },
+    "evidence_summary": "Since July 2022 self-collection has been available to all eligible screening participants aged 25-74 who have ever had sexual contact; both self-collected and clinician-collected screening are ordered/overseen by a healthcare provider (GP or nurse) and no specialist referral is required. Participants requiring a co-test are not eligible for self-collection, so 'for most people' is accurate wording (avoids 'everyone').",
+    "limitations": "Self-collection tests HPV only, not cytology; co-test cases still need clinician collection. 'Most people' correctly reflects this exclusion.",
+    "reviewer_notes": "Supported and well-hedged. 'For most people' is the correct qualifier - do not upgrade to 'everyone/all'.",
+    "last_verified": "2026-09-20",
+    "review_due": "2027-09-20"
+  },
+  {
+    "id": "PILLAR-12",
+    "page_url": "https://dramandahenderson.com.au/womens-health",
+    "page_title": "Women's Health GP in Maroubra | Dr Amanda Henderson",
+    "claim_text": "If you've noticed a lump, pain or change, we can examine it, arrange the right imaging if needed ... Most breast changes are not cancer, but a new lump, pain or change deserves an examination and, if needed, the right imaging so you get a clear answer.",
+    "category": "clinical / breast health",
+    "risk": "MODERATE",
+    "status": "supported",
+    "wording_acceptable": true,
+    "recommended_wording": null,
+    "primary_source": {
+      "org": "The Royal Women's Hospital",
+      "title": "Tests for breast changes",
+      "url": "https://www.thewomens.org.au/health-information/breast-health/tests-for-breast-changes",
+      "date": "2023"
+    },
+    "supporting_source": {
+      "org": "Cancer Council Australia",
+      "title": "Breast cancer - early detection",
+      "url": "https://www.cancer.org.au/cancer-information/types-of-cancer/breast-cancer",
+      "date": "2024"
+    },
+    "evidence_summary": "Most breast lumps/changes are benign, and Australian practice investigates a new breast symptom with clinical examination and, where indicated, imaging (the triple test). Wording appropriately encourages review while reassuring, and does not guarantee an outcome.",
+    "limitations": "'Most ... not cancer' is a population statement; any individual change still needs assessment - the copy already says this.",
+    "reviewer_notes": "Supported. Retains a clear 'get it checked' call to action, which is the safe framing.",
+    "last_verified": "2026-09-20",
+    "review_due": "2027-09-20"
+  },
+  {
+    "id": "PILLAR-13",
+    "page_url": "https://dramandahenderson.com.au/womens-health",
+    "page_title": "Women's Health GP in Maroubra | Dr Amanda Henderson",
+    "claim_text": "Hot flushes, sleep changes, mood and brain fog are common and treatable. We can talk through what's happening and the options - including menopausal hormone therapy where appropriate. ... A GP is often the best place to start.",
+    "category": "clinical / menopause & MHT",
+    "risk": "MODERATE",
+    "status": "changed",
+    "wording_acceptable": false,
+    "recommended_wording": "Hot flushes, sleep changes and mood changes are common and can often be helped, and some women also notice 'brain fog'. We can talk through what's happening and the options - including menopausal hormone therapy where appropriate. A GP is a good place to start.",
+    "primary_source": {
+      "org": "Healthdirect (Australian Government)",
+      "title": "Menopause",
+      "url": "https://www.healthdirect.gov.au/menopause",
+      "date": "2024"
+    },
+    "supporting_source": {
+      "org": "Jean Hailes for Women's Health",
+      "title": "Menopause",
+      "url": "https://www.jeanhailes.org.au/health-a-z/menopause",
+      "date": "2024"
+    },
+    "evidence_summary": "Vasomotor symptoms (hot flushes/night sweats), sleep and mood changes are common in perimenopause/menopause and MHT is very effective for vasomotor symptoms; GPs routinely assess and manage menopause. However, evidence that MHT specifically treats cognitive 'brain fog' is weaker/inconclusive, so grouping brain fog under 'treatable' slightly overstates the certainty for that symptom.",
+    "limitations": "MHT benefit for cognition/brain fog is not established; MHT suitability is individual (hence 'where appropriate', which is good). 'Often the best place to start' is mildly comparative.",
+    "reviewer_notes": "Recommend separating brain fog from 'treatable' (say it is commonly noticed rather than reliably treatable), soften 'common and treatable' to 'common and can often be helped', and change 'often the best place to start' to 'a good place to start' to avoid a comparative/superiority tone under AHPRA guidance. [Implemented 2026-09-20; applied to site - see corresponding IND entry.]",
+    "last_verified": "2026-09-20",
+    "review_due": "2027-09-20"
+  },
+  {
+    "id": "PILLAR-14",
+    "page_url": "https://dramandahenderson.com.au/womens-health",
+    "page_title": "Women's Health GP in Maroubra | Dr Amanda Henderson",
+    "claim_text": "Can a GP help with perimenopause and menopause? Yes. A GP is often the best place to start. We can talk through your symptoms ... and discuss the options - from lifestyle measures to menopausal hormone therapy (MHT) - referring on only if that's needed.",
+    "category": "clinical / menopause (scope of GP care)",
+    "risk": "MODERATE",
+    "status": "changed",
+    "wording_acceptable": false,
+    "recommended_wording": "Can a GP help with perimenopause and menopause? Yes - a GP is a good place to start. We can talk through your symptoms ... and discuss the options - from lifestyle measures to menopausal hormone therapy (MHT) - referring on if that's needed.",
+    "primary_source": {
+      "org": "Jean Hailes for Women's Health",
+      "title": "Menopause",
+      "url": "https://www.jeanhailes.org.au/health-a-z/menopause",
+      "date": "2024"
+    },
+    "supporting_source": {
+      "org": "Healthdirect (Australian Government)",
+      "title": "Menopause",
+      "url": "https://www.healthdirect.gov.au/menopause",
+      "date": "2024"
+    },
+    "evidence_summary": "GP-led menopause assessment and MHT prescribing is standard, evidence-based Australian care. The substance is well supported. The only issue is the comparative phrase 'often the best place to start'.",
+    "limitations": "'Best place' is a comparative claim; AHPRA guidance discourages comparative/superiority language even when benign.",
+    "reviewer_notes": "Soften 'often the best place to start' to 'a good place to start'. Substance is fine. [Implemented 2026-09-20; applied to site - see corresponding IND entry.]",
+    "last_verified": "2026-09-20",
+    "review_due": "2027-09-20"
+  },
+  {
+    "id": "PILLAR-15",
+    "page_url": "https://dramandahenderson.com.au/womens-health",
+    "page_title": "Women's Health GP in Maroubra | Dr Amanda Henderson",
+    "claim_text": "When should I see a GP about heavy periods? It's worth booking if your periods soak through pads or tampons quickly, last more than about a week, come with flooding or large clots, or leave you tired or short of breath. We can look for causes - such as iron deficiency, fibroids, PCOS or endometriosis - and talk through ways to manage them.",
+    "category": "clinical / menstrual health (when to seek care)",
+    "risk": "MODERATE",
+    "status": "supported",
+    "wording_acceptable": true,
+    "recommended_wording": null,
+    "primary_source": {
+      "org": "Healthdirect (Australian Government)",
+      "title": "Heavy periods",
+      "url": "https://www.healthdirect.gov.au/heavy-periods",
+      "date": "2024"
+    },
+    "supporting_source": {
+      "org": "Jean Hailes for Women's Health",
+      "title": "Heavy periods",
+      "url": "https://www.jeanhailes.org.au/health-a-z/periods/heavy-periods",
+      "date": "2024"
+    },
+    "evidence_summary": "The described features of heavy menstrual bleeding (soaking through protection quickly, flooding, large clots, associated tiredness/breathlessness) and listed causes (iron deficiency, fibroids, PCOS, endometriosis) align with Healthdirect and Jean Hailes guidance. Presented as reasons to book, not a diagnosis.",
+    "limitations": "General guidance; individual assessment still required.",
+    "reviewer_notes": "Supported. Safe 'when to seek care' framing.",
+    "last_verified": "2026-09-20",
+    "review_due": "2027-09-20"
+  },
+  {
+    "id": "PILLAR-16",
+    "page_url": "https://dramandahenderson.com.au/womens-health",
+    "page_title": "Women's Health GP in Maroubra | Dr Amanda Henderson",
+    "claim_text": "Can a GP help with low iron and iron deficiency? Yes - low iron is one of the most common things I check for, particularly with heavy periods, ongoing tiredness, hair thinning, breathlessness or feeling faint. A simple blood test, including your ferritin (iron stores), shows whether you're low, and treatment ranges from dietary changes and iron tablets to an iron infusion when that's appropriate. Just as important, we look for and treat the underlying cause, such as heavy periods.",
+    "category": "clinical / iron deficiency",
+    "risk": "MODERATE",
+    "status": "supported",
+    "wording_acceptable": true,
+    "recommended_wording": null,
+    "primary_source": {
+      "org": "Healthdirect (Australian Government)",
+      "title": "Iron deficiency",
+      "url": "https://www.healthdirect.gov.au/iron-deficiency",
+      "date": "2024"
+    },
+    "supporting_source": {
+      "org": "Jean Hailes for Women's Health",
+      "title": "Iron and iron deficiency",
+      "url": "https://www.jeanhailes.org.au/health-a-z/nutrition/iron",
+      "date": "2024"
+    },
+    "evidence_summary": "Healthdirect confirms iron deficiency is the most common nutritional disorder, that heavy periods are a common cause of blood loss, that it is diagnosed by an iron study blood test (ferritin is a component), and that treatment ranges from diet to iron tablets to IV iron infusion for severe deficiency, with treatment depending on the underlying cause. Symptoms including tiredness, breathlessness and light-headedness/faintness are listed.",
+    "limitations": "'Hair thinning' is a commonly cited association but is NOT listed on the Healthdirect iron-deficiency page; it is a weaker/secondary symptom. 'Simple blood test' is reasonable shorthand for iron studies.",
+    "reviewer_notes": "Supported. Minor: 'hair thinning' is a recognised but less firmly evidenced sign - acceptable as one of several listed prompts, not asserted as diagnostic. No change required.",
+    "last_verified": "2026-09-20",
+    "review_due": "2027-09-20"
+  },
+  {
+    "id": "PILLAR-17",
+    "page_url": "https://dramandahenderson.com.au/womens-health",
+    "page_title": "Women's Health GP in Maroubra | Dr Amanda Henderson",
+    "claim_text": "Can a GP help with PCOS? Yes. A GP can do the initial assessment for polycystic ovary syndrome - history, examination and the relevant tests - and help manage symptoms such as irregular periods, skin changes and fertility questions, involving a specialist when that's helpful.",
+    "category": "clinical / PCOS (scope of GP care)",
+    "risk": "MODERATE",
+    "status": "supported",
+    "wording_acceptable": true,
+    "recommended_wording": null,
+    "primary_source": {
+      "org": "Jean Hailes for Women's Health / Monash Centre for Health Research and Implementation",
+      "title": "International evidence-based guideline for the assessment and management of PCOS",
+      "url": "https://www.monash.edu/medicine/mchri/pcos/guideline",
+      "date": "2023"
+    },
+    "supporting_source": {
+      "org": "Healthdirect (Australian Government)",
+      "title": "Polycystic ovary syndrome (PCOS)",
+      "url": "https://www.healthdirect.gov.au/polycystic-ovary-syndrome-pcos",
+      "date": "2024"
+    },
+    "evidence_summary": "The international (Australian-led) PCOS guideline positions general practice for initial assessment and ongoing management, with specialist involvement as needed. Scope described matches guideline-based GP care.",
+    "limitations": "Diagnosis in adolescents differs; not asserted here. Fertility management may need specialist input - 'involving a specialist when that's helpful' covers this.",
+    "reviewer_notes": "Supported and appropriately hedged.",
+    "last_verified": "2026-09-20",
+    "review_due": "2027-09-20"
+  },
+  {
+    "id": "PILLAR-18",
+    "page_url": "https://dramandahenderson.com.au/womens-health",
+    "page_title": "Women's Health GP in Maroubra | Dr Amanda Henderson",
+    "claim_text": "In brief: Most concerns can be assessed and managed in general practice, with referral arranged when it's needed. (also mirrored across hubs, e.g. teenage 'Most of this is straightforward to sort in general practice')",
+    "category": "scope of practice (implied breadth claim)",
+    "risk": "MODERATE",
+    "status": "changed",
+    "wording_acceptable": false,
+    "recommended_wording": "Many concerns can be assessed and managed in general practice, with referral arranged when it's needed.",
+    "primary_source": {
+      "org": "Royal Australian College of General Practitioners (RACGP)",
+      "title": "What is general practice / role of the GP",
+      "url": "https://www.racgp.org.au/becoming-a-gp/what-is-a-gp",
+      "date": "2024"
+    },
+    "supporting_source": null,
+    "evidence_summary": "General practice does manage a broad range of presentations, so the sentiment is defensible. However 'Most concerns can be ... managed in general practice' is a sweeping quantified scope claim that is hard to substantiate and risks implying more can be handled in-house than may be appropriate.",
+    "limitations": "No authoritative source quantifies that 'most' concerns are managed without referral; varies by presentation and practitioner.",
+    "reviewer_notes": "Recommend 'Many' rather than 'Most' here and in the parallel teenage wording ('Most of this is straightforward to sort'; 'General practice handles most teenage health concerns from start to finish'). Preserves warmth, avoids an unsubstantiated quantified scope claim. [Implemented 2026-09-20; applied to site - see corresponding IND entry.]",
+    "last_verified": "2026-09-20",
+    "review_due": "2027-09-20"
+  },
+  {
+    "id": "PILLAR-19",
+    "page_url": "https://dramandahenderson.com.au/pregnancy-care",
+    "page_title": "Pregnancy & Shared Antenatal Care GP, Maroubra | Dr Amanda Henderson",
+    "claim_text": "As a registered shared care provider with the Royal Hospital for Women in Randwick, I can look after much of your routine pregnancy care locally, coordinating with the hospital for your scans, tests and birth. ... Yes. I'm a registered shared antenatal care provider with the Royal Hospital for Women in Randwick, so many of your routine antenatal visits can happen here in Maroubra, coordinated with the hospital.",
+    "category": "clinical service + practitioner credential (shared antenatal care)",
+    "risk": "HIGH",
+    "status": "needs_review",
+    "wording_acceptable": true,
+    "recommended_wording": null,
+    "primary_source": {
+      "org": "South Eastern Sydney Local Health District (Royal Hospital for Women)",
+      "title": "Antenatal Shared Care Guidelines - The Royal Hospital for Women (GP ANSC)",
+      "url": "https://www.seslhd.health.nsw.gov.au/sites/default/files/groups/Royal_Hospital_for_Women/Antenatal%20Shared%20Protocol/Antenatal%20Shared%20Care%20Guidelines%20April%202026.pdf",
+      "date": "2026-04"
+    },
+    "supporting_source": {
+      "org": "Central and Eastern Sydney PHN (CESPHN)",
+      "title": "The Royal Hospital for Women - Antenatal Shared Care",
+      "url": "https://cesphn.org.au/general-practice/help-my-patients-with/child-and-maternal-health/the-royal-hospital-for-women",
+      "date": "2024"
+    },
+    "evidence_summary": "The RHW GP Antenatal Shared Care (GP ANSC) program is confirmed: low-risk women receive routine antenatal care from an affiliated GP in conjunction with RHW, which manages scans/specialist care/birth. GPs must register/affiliate (via CESPHN/SESLHD, an affiliation course and ongoing CPD). The DESCRIPTION of shared care is accurate. What must be verified is that THIS practitioner holds current RHW ANSC affiliation.",
+    "limitations": "Individual affiliation status not verifiable from public sources; affiliation lapses without CPD maintenance each triennium. Asserting an unheld affiliation would be a serious accuracy/AHPRA-advertising issue.",
+    "reviewer_notes": "FLAG: verify current RHW GP ANSC affiliation (SESLHD/CESPHN confirmation on file) before publishing this credential. The generic description of shared care is fine; the personal 'I'm a registered ... provider' statements are the load-bearing facts to confirm.",
+    "last_verified": "2026-09-20",
+    "review_due": "2026-12-20"
+  },
+  {
+    "id": "PILLAR-20",
+    "page_url": "https://dramandahenderson.com.au/pregnancy-care",
+    "page_title": "Pregnancy & Shared Antenatal Care GP, Maroubra | Dr Amanda Henderson",
+    "claim_text": "When should I see a GP before trying to get pregnant? Ideally about three months before you start trying. That gives time to start folate, review your medications and immunity, address any health issues ... We can review your health and medications, check immunity and screening, start folate ...",
+    "category": "clinical / preconception care",
+    "risk": "MODERATE",
+    "status": "supported",
+    "wording_acceptable": true,
+    "recommended_wording": null,
+    "primary_source": {
+      "org": "Healthdirect (Australian Government)",
+      "title": "Planning for your pregnancy",
+      "url": "https://www.healthdirect.gov.au/planning-for-your-pregnancy",
+      "date": "2024"
+    },
+    "supporting_source": {
+      "org": "RANZCOG",
+      "title": "Planning for Pregnancy",
+      "url": "https://ranzcog.edu.au/wp-content/uploads/Planning-for-Pregnancy.pdf",
+      "date": "2016"
+    },
+    "evidence_summary": "Preconception review with folic acid, medication/immunity review and screening is standard advice. Australian sources recommend starting folate at least ~4 weeks before conception, with many sources advising about 3 months before trying - so 'about three months before' is a supported, common recommendation.",
+    "limitations": "Higher-dose folate (5 mg) is advised for higher-risk women (family history of NTD, diabetes) - not detailed here but not misstated.",
+    "reviewer_notes": "Supported. Consider a light note that higher-risk women may need a higher folate dose, but not required.",
+    "last_verified": "2026-09-20",
+    "review_due": "2027-09-20"
+  },
+  {
+    "id": "PILLAR-21",
+    "page_url": "https://dramandahenderson.com.au/pregnancy-care",
+    "page_title": "Pregnancy & Shared Antenatal Care GP, Maroubra | Dr Amanda Henderson",
+    "claim_text": "What is GP shared antenatal care? In shared antenatal care, your routine pregnancy check-ups happen with your GP close to home, while the hospital manages your scans, specialist care and the birth. It means continuity with someone who knows you, with the hospital's expertise behind you.",
+    "category": "clinical service description / continuity",
+    "risk": "LOW",
+    "status": "supported",
+    "wording_acceptable": true,
+    "recommended_wording": null,
+    "primary_source": {
+      "org": "South Eastern Sydney Local Health District (Royal Hospital for Women)",
+      "title": "Antenatal Shared Care Guidelines - The Royal Hospital for Women",
+      "url": "https://www.seslhd.health.nsw.gov.au/sites/default/files/groups/Royal_Hospital_for_Women/Antenatal%20Shared%20Protocol/Antenatal%20Shared%20Care%20Guidelines%20April%202026.pdf",
+      "date": "2026-04"
+    },
+    "supporting_source": null,
+    "evidence_summary": "Accurate general description of GP shared antenatal care, consistent with RHW/SESLHD program structure (low-risk women; GP does routine visits; hospital does scans/specialist care/birth).",
+    "limitations": "Shared care is for low-risk pregnancies; the page's 'much of' / 'routine' wording captures this without overreach.",
+    "reviewer_notes": "Supported. No change.",
+    "last_verified": "2026-09-20",
+    "review_due": "2027-09-20"
+  },
+  {
+    "id": "PILLAR-22",
+    "page_url": "https://dramandahenderson.com.au/childrens-health",
+    "page_title": "Children's Health GP in Maroubra | Dr Amanda Henderson",
+    "claim_text": "When should I take my child to a GP for a fever? See a GP promptly if your baby is under 3 months old with any fever, or if your child seems very unwell, is difficult to wake, is breathing quickly, has a rash that doesn't fade when pressed, isn't drinking or having wet nappies, or the fever lasts more than a couple of days. If your child is seriously unwell, call 000.",
+    "category": "clinical / paediatric safety-netting",
+    "risk": "MODERATE",
+    "status": "supported",
+    "wording_acceptable": true,
+    "recommended_wording": null,
+    "primary_source": {
+      "org": "Healthdirect (Australian Government)",
+      "title": "Fever in children",
+      "url": "https://www.healthdirect.gov.au/fever-in-children",
+      "date": "2024"
+    },
+    "supporting_source": {
+      "org": "The Royal Children's Hospital Melbourne",
+      "title": "Kids Health Info: Fever in children",
+      "url": "https://www.rch.org.au/kidsinfo/fact_sheets/Fever_in_children/",
+      "date": "2023"
+    },
+    "evidence_summary": "Red flags match Healthdirect: baby under 3 months with fever needs urgent review (Healthdirect says >38 degrees; the site says 'any fever', which is appropriately MORE cautious/safe), drowsy/difficult to wake, difficulty/fast breathing, non-blanching rash, not drinking/wet nappies, fever >2 days, and calling 000 if seriously unwell. Safe safety-netting advice.",
+    "limitations": "The site's 'any fever' under 3 months is slightly stricter than Healthdirect's 38 degrees threshold - erring safe, which is appropriate and defensible.",
+    "reviewer_notes": "Supported - this is the safe direction to err. No change.",
+    "last_verified": "2026-09-20",
+    "review_due": "2027-09-20"
+  },
+  {
+    "id": "PILLAR-23",
+    "page_url": "https://dramandahenderson.com.au/childrens-health",
+    "page_title": "Children's Health GP in Maroubra | Dr Amanda Henderson",
+    "claim_text": "Can I talk to a GP about ADHD concerns in my child? Yes. A GP can listen to your concerns, do an initial assessment and help rule out other contributors, then guide you on next steps - which usually involves referral to a paediatrician for formal assessment. (also 'early steps if you have concerns such as ADHD')",
+    "category": "clinical / ADHD pathway",
+    "risk": "MODERATE",
+    "status": "supported",
+    "wording_acceptable": true,
+    "recommended_wording": null,
+    "primary_source": {
+      "org": "Australian ADHD Professionals Association (AADPA)",
+      "title": "Australian Evidence-Based Clinical Practice Guideline for ADHD",
+      "url": "https://adhdguideline.aadpa.com.au/",
+      "date": "2022"
+    },
+    "supporting_source": {
+      "org": "Royal Australian College of General Practitioners (RACGP)",
+      "title": "Australian evidence-based Clinical Practice Guideline for ADHD",
+      "url": "https://www.racgp.org.au/clinical-resources/clinical-guidelines/guidelines-by-topic/view-all-guidelines-by-topic/disability/australian-evidence-based-clinical-practice-guidel",
+      "date": "2022"
+    },
+    "evidence_summary": "The NHMRC-approved Australian ADHD guideline (endorsed by RACGP, RACP, RANZCP and others) describes GPs as the usual first point of contact who assess concerns and refer for formal diagnosis; for children, formal ADHD diagnosis is usually made by a paediatrician or psychiatrist. 'Usually involves referral to a paediatrician for formal assessment' is accurate and appropriately hedged with 'usually'.",
+    "limitations": "From 28 Feb 2026 some specially trained GPs (initially in SA) may diagnose/prescribe for ADHD without referral; this is not yet general. The word 'usually' correctly accommodates this evolving exception.",
+    "reviewer_notes": "Supported. 'Usually' is the right qualifier given emerging GP-led pathways in some states. No change.",
+    "last_verified": "2026-09-20",
+    "review_due": "2027-03-20"
+  },
+  {
+    "id": "PILLAR-24",
+    "page_url": "https://dramandahenderson.com.au/general-gp-care",
+    "page_title": "General Family Medicine GP in Maroubra | Dr Amanda Henderson",
+    "claim_text": "What does continuity of care with a family GP mean? ... Continuity is linked to better health and fewer things falling through the cracks - and it's central to how I like to work.",
+    "category": "clinical / continuity of care (evidence claim)",
+    "risk": "MODERATE",
+    "status": "supported",
+    "wording_acceptable": true,
+    "recommended_wording": null,
+    "primary_source": {
+      "org": "Royal Australian College of General Practitioners (RACGP)",
+      "title": "How can GPs encourage continuity of care? (newsGP)",
+      "url": "https://www1.racgp.org.au/newsgp/clinical/how-can-gps-encourage-continuity-of-care",
+      "date": "2023"
+    },
+    "supporting_source": {
+      "org": "British Journal of General Practice (systematic review, NCBI/PMC)",
+      "title": "Personal GP continuity improves healthcare outcomes in primary care populations: a systematic review",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12729051/",
+      "date": "2025"
+    },
+    "evidence_summary": "A substantial evidence base links higher personal GP continuity with better health outcomes, higher satisfaction, more efficient care and reduced mortality. 'Linked to better health and fewer things falling through the cracks' is a defensible, appropriately non-absolute statement ('linked to', not 'guarantees').",
+    "limitations": "Association, not proven causation for every patient; the 'linked to' phrasing correctly avoids overclaiming.",
+    "reviewer_notes": "Supported. Well-hedged evidence claim.",
+    "last_verified": "2026-09-20",
+    "review_due": "2027-09-20"
+  },
+  {
+    "id": "PILLAR-25",
+    "page_url": "https://dramandahenderson.com.au/general-gp-care",
+    "page_title": "General Family Medicine GP in Maroubra | Dr Amanda Henderson",
+    "claim_text": "I'm tired all the time - could it be low iron? It might be. Low iron (iron deficiency) is a common and very treatable cause of persistent tiredness, along with things like thyroid problems, poor sleep, low mood, and vitamin B12 or vitamin D deficiency. A GP can take a history, examine you and arrange the right blood tests - including iron studies and ferritin - then treat the low iron and whatever is driving it.",
+    "category": "clinical / iron deficiency & fatigue",
+    "risk": "MODERATE",
+    "status": "supported",
+    "wording_acceptable": true,
+    "recommended_wording": null,
+    "primary_source": {
+      "org": "Healthdirect (Australian Government)",
+      "title": "Iron deficiency",
+      "url": "https://www.healthdirect.gov.au/iron-deficiency",
+      "date": "2024"
+    },
+    "supporting_source": {
+      "org": "Healthdirect (Australian Government)",
+      "title": "Tiredness and fatigue",
+      "url": "https://www.healthdirect.gov.au/tiredness-and-fatigue",
+      "date": "2024"
+    },
+    "evidence_summary": "Iron deficiency is a common, treatable cause of fatigue, diagnosed by iron studies (including ferritin) and treated alongside its underlying cause - all confirmed by Healthdirect. Listing other causes (thyroid, sleep, mood, B12/vitamin D) is accurate and appropriately frames tiredness as multifactorial ('It might be').",
+    "limitations": "'Very treatable' is a reasonable general statement for iron deficiency; treatment depends on cause and severity, which the copy acknowledges.",
+    "reviewer_notes": "Supported and appropriately hedged.",
+    "last_verified": "2026-09-20",
+    "review_due": "2027-09-20"
+  },
+  {
+    "id": "PILLAR-26",
+    "page_url": "https://dramandahenderson.com.au/general-gp-care",
+    "page_title": "General Family Medicine GP in Maroubra | Dr Amanda Henderson",
+    "claim_text": "How far in advance should I book a travel appointment? Ideally six to eight weeks before you travel, as some vaccines need time or several doses. ... Pre-travel consultations covering vaccines, malaria prevention, and staying well abroad - ideally a few weeks before you go.",
+    "category": "clinical / travel medicine",
+    "risk": "LOW",
+    "status": "supported",
+    "wording_acceptable": true,
+    "recommended_wording": null,
+    "primary_source": {
+      "org": "Healthdirect (Australian Government)",
+      "title": "Travel vaccinations",
+      "url": "https://www.healthdirect.gov.au/travel-vaccinations",
+      "date": "2024"
+    },
+    "supporting_source": {
+      "org": "Smartraveller (Australian Government, DFAT)",
+      "title": "Getting vaccinated before you travel",
+      "url": "https://www.smartraveller.gov.au/before-you-go/health/vaccinations",
+      "date": "2024"
+    },
+    "evidence_summary": "The recommendation to see a doctor 6-8 weeks before travel because some vaccines need time or multiple doses aligns with standard Australian travel-health advice.",
+    "limitations": "General timing guidance; individual itineraries vary.",
+    "reviewer_notes": "Supported. No change.",
+    "last_verified": "2026-09-20",
+    "review_due": "2027-09-20"
+  },
+  {
+    "id": "PILLAR-27",
+    "page_url": "https://dramandahenderson.com.au/childrens-health",
+    "page_title": "Children's Health GP in Maroubra | Dr Amanda Henderson",
+    "claim_text": "I provide the routine childhood immunisations on the National Immunisation Program ... Routine childhood immunisations follow the National Immunisation Program schedule, starting from birth and continuing through the early years and school age.",
+    "category": "clinical service / immunisation",
+    "risk": "LOW",
+    "status": "supported",
+    "wording_acceptable": true,
+    "recommended_wording": null,
+    "primary_source": {
+      "org": "Australian Government Department of Health, Disability and Ageing",
+      "title": "National Immunisation Program Schedule",
+      "url": "https://www.health.gov.au/our-work/national-immunisation-program",
+      "date": "2025"
+    },
+    "supporting_source": {
+      "org": "NSW Health",
+      "title": "Immunisation",
+      "url": "https://www.health.nsw.gov.au/immunisation/Pages/default.aspx",
+      "date": "2025"
+    },
+    "evidence_summary": "The NIP schedule runs from birth through childhood and school age; GPs are routine NIP vaccination providers. Accurate factual statement.",
+    "limitations": "Service claim ('I provide') depends on the practice stocking/administering NIP vaccines - standard for general practice.",
+    "reviewer_notes": "Supported. Confirm practice is a registered NIP provider (routine).",
+    "last_verified": "2026-09-20",
+    "review_due": "2027-09-20"
+  },
+  {
+    "id": "PILLAR-28",
+    "page_url": "https://dramandahenderson.com.au/childrens-health",
+    "page_title": "Children's Health GP in Maroubra | Dr Amanda Henderson",
+    "claim_text": "Can a GP help with my child's eczema? Yes. A GP can diagnose eczema, set up a day-to-day plan (including moisturisers and, when needed, other treatments), help you spot and treat flare-ups, and refer on if it's severe or not settling.",
+    "category": "clinical / paediatric eczema",
+    "risk": "LOW",
+    "status": "supported",
+    "wording_acceptable": true,
+    "recommended_wording": null,
+    "primary_source": {
+      "org": "Healthdirect (Australian Government)",
+      "title": "Eczema",
+      "url": "https://www.healthdirect.gov.au/eczema",
+      "date": "2024"
+    },
+    "supporting_source": {
+      "org": "The Royal Children's Hospital Melbourne",
+      "title": "Kids Health Info: Eczema",
+      "url": "https://www.rch.org.au/kidsinfo/fact_sheets/Eczema/",
+      "date": "2023"
+    },
+    "evidence_summary": "GP diagnosis and stepwise management of eczema (emollients, other treatments as needed, flare management, referral if severe) is standard and matches Healthdirect/RCH guidance.",
+    "limitations": "General scope statement; individual management varies.",
+    "reviewer_notes": "Supported. No change.",
+    "last_verified": "2026-09-20",
+    "review_due": "2027-09-20"
+  },
+  {
+    "id": "PILLAR-29",
+    "page_url": "https://dramandahenderson.com.au/teenage-health",
+    "page_title": "Teenage & Adolescent Health GP in Maroubra | Dr Amanda Henderson",
+    "claim_text": "Is what my teenager tells the doctor kept private? Generally yes - a young person's privacy is respected in much the same way as an adult's. There are limits: if I'm seriously concerned about their safety, or someone else's, I may need to involve a parent or another service. If that ever comes up, I'll be upfront about it ... (also privacy narrative: 'In general, what a young person tells their doctor is kept private, in much the same way it is for an adult. There are limits ...')",
+    "category": "confidentiality / consent (adolescent) - legal-clinical",
+    "risk": "HIGH",
+    "status": "needs_review",
+    "wording_acceptable": true,
+    "recommended_wording": null,
+    "primary_source": {
+      "org": "NSW Health",
+      "title": "Consent to Medical and Healthcare Treatment Manual - Section 8: Minors",
+      "url": "https://www.health.nsw.gov.au/policies/manuals/Documents/consent-section-8.pdf",
+      "date": "2020"
+    },
+    "supporting_source": {
+      "org": "Royal Australian College of General Practitioners (RACGP)",
+      "title": "Consent to medical treatment: the mature minor",
+      "url": "https://www.racgp.org.au/getattachment/85c539df-7518-45fc-af6f-c760dd04f8ba/Consent-to-medical-treatment-the-mature-minor.aspx",
+      "date": "2018"
+    },
+    "evidence_summary": "NSW Health and RACGP guidance support that a Gillick-competent/mature minor is entitled to confidentiality about their health information in much the same way as an adult, subject to limits where there are serious safety concerns (risk to self or others), when disclosure may be required. The site's wording ('generally', 'there are limits', 'I'll be upfront') is deliberately non-absolute and aligns with this guidance. It does not assert absolute confidentiality and does not state a fixed consent age.",
+    "limitations": "Confidentiality and consent for minors are legally nuanced and fact-specific (each presentation assessed individually; mandatory reporting and other statutory obligations may apply). This audit is not legal advice.",
+    "reviewer_notes": "FLAG FOR PROFESSIONAL/LEGAL REVIEW (do not assert absolutes). Wording is defensible and cautious as drafted. Recommend Dr Henderson and/or her medical defence organisation (e.g. MDA National/Avant) confirm the confidentiality and mandatory-reporting phrasing suits her NSW practice before publish. No wording change recommended by this audit beyond that sign-off.",
+    "last_verified": "2026-09-20",
+    "review_due": "2027-09-20"
+  },
+  {
+    "id": "PILLAR-30",
+    "page_url": "https://dramandahenderson.com.au/teenage-health",
+    "page_title": "Teenage & Adolescent Health GP in Maroubra | Dr Amanda Henderson",
+    "claim_text": "At what age can a teenager see a GP on their own? There isn't a single birthday where everything changes over. Whether a young person can make their own decisions about care depends on how well they understand what's involved, and that develops at different times for different people. In practice we work it out together, and a parent is usually still part of the picture. (also teenageHealthContent.privacy: 'Whether a young person can make a particular decision about their own care depends on how well they understand what's involved, rather than on reaching a set age.')",
+    "category": "consent / mature minor (adolescent) - legal-clinical",
+    "risk": "HIGH",
+    "status": "needs_review",
+    "wording_acceptable": true,
+    "recommended_wording": null,
+    "primary_source": {
+      "org": "NSW Health",
+      "title": "Consent to Medical and Healthcare Treatment Manual - Section 8: Minors",
+      "url": "https://www.health.nsw.gov.au/policies/manuals/Documents/consent-section-8.pdf",
+      "date": "2020"
+    },
+    "supporting_source": {
+      "org": "MDA National",
+      "title": "Gillick competence and the mature minor",
+      "url": "https://www.mdanational.com.au/advice-and-support/library/articles-and-case-studies/2023/11/gillick-competence-and-the-mature-minor",
+      "date": "2023"
+    },
+    "evidence_summary": "Accurately reflects the 'mature minor'/Gillick-competence principle in NSW: capacity to consent depends on the young person's understanding of what is proposed rather than a fixed age, assessed case by case, with family involvement encouraged where appropriate. The copy explicitly avoids stating a set age - the correct, defensible framing.",
+    "limitations": "Capacity is assessed per decision and per presentation; not a blanket status. Legal nuance means practitioner/legal sign-off is prudent.",
+    "reviewer_notes": "FLAG FOR PROFESSIONAL/LEGAL REVIEW alongside PILLAR-29. As drafted it is consistent with NSW Health/MDA guidance and appropriately avoids absolutes. No wording change recommended beyond sign-off.",
+    "last_verified": "2026-09-20",
+    "review_due": "2027-09-20"
+  },
+  {
+    "id": "PILLAR-31",
+    "page_url": "https://dramandahenderson.com.au/teenage-health",
+    "page_title": "Teenage & Adolescent Health GP in Maroubra | Dr Amanda Henderson",
+    "claim_text": "Can my teenager see the GP without me in the room? ... Seeing a teenager by themselves for a few minutes is a normal piece of adolescent care - it helps them practise speaking up about their own health, and it doesn't mean anything is wrong. (also inBrief: 'Part of a consultation can happen privately between the teenager and doctor - a normal part of adolescent care.')",
+    "category": "clinical practice / adolescent care model",
+    "risk": "MODERATE",
+    "status": "supported",
+    "wording_acceptable": true,
+    "recommended_wording": null,
+    "primary_source": {
+      "org": "Royal Australian College of General Practitioners (RACGP)",
+      "title": "Guidelines for preventive activities in general practice (Red Book) - young people / confidential consultation",
+      "url": "https://www.racgp.org.au/clinical-resources/clinical-guidelines/key-racgp-guidelines/view-all-racgp-guidelines/red-book",
+      "date": "2024"
+    },
+    "supporting_source": {
+      "org": "NSW Health",
+      "title": "Youth Health Resource Kit - Medico-legal issues",
+      "url": "https://www.health.nsw.gov.au/kidsfamilies/youth/Documents/youth-health-resource-kit/youth-health-resource-kit-sect-3-chap-5.pdf",
+      "date": "2014"
+    },
+    "evidence_summary": "Offering part of the consultation privately (time alone with the adolescent) is a recognised, recommended element of adolescent healthcare (e.g. HEADSS/psychosocial assessment; RACGP and NSW Youth Health guidance). Framing it as routine and non-alarming is accurate and reassuring.",
+    "limitations": "General practice model; how it is applied varies with the young person's age and presentation.",
+    "reviewer_notes": "Supported. Consistent with adolescent-care best practice.",
+    "last_verified": "2026-09-20",
+    "review_due": "2027-09-20"
+  },
+  {
+    "id": "PILLAR-32",
+    "page_url": "https://dramandahenderson.com.au/teenage-health",
+    "page_title": "Teenage & Adolescent Health GP in Maroubra | Dr Amanda Henderson",
+    "claim_text": "Skin, especially acne: Acne is common and very treatable, and starting sooner helps prevent scarring and the knock to confidence. There is far more available than the products on the pharmacy shelf.",
+    "category": "clinical / acne (implied prevention benefit)",
+    "risk": "MODERATE",
+    "status": "supported",
+    "wording_acceptable": true,
+    "recommended_wording": null,
+    "primary_source": {
+      "org": "Healthdirect (Australian Government)",
+      "title": "Acne",
+      "url": "https://www.healthdirect.gov.au/acne",
+      "date": "2024"
+    },
+    "supporting_source": {
+      "org": "Royal Australian College of General Practitioners (RACGP)",
+      "title": "Acne - best practice management (AFP)",
+      "url": "https://www.racgp.org.au/afp/2010/september/acne-%E2%80%93-best-practice-management/",
+      "date": "2010"
+    },
+    "evidence_summary": "Healthdirect confirms acne is treatable and that treating it helps prevent scarring; RACGP guidance supports early treatment to reduce scarring risk and that prescription options exist beyond over-the-counter products. 'Helps prevent scarring' is appropriately hedged (not 'prevents scarring').",
+    "limitations": "'Prevents scarring' as an unqualified benefit would breach AHPRA/TGA-style prevention-claim caution; the site's 'helps prevent' is the safe wording. 'Very treatable' is a reasonable general statement.",
+    "reviewer_notes": "Supported. Keep the hedged 'helps prevent' - do not strengthen to 'prevents scarring'.",
+    "last_verified": "2026-09-20",
+    "review_due": "2027-09-20"
+  },
+  {
+    "id": "PILLAR-33",
+    "page_url": "https://dramandahenderson.com.au/teenage-health",
+    "page_title": "Teenage & Adolescent Health GP in Maroubra | Dr Amanda Henderson",
+    "claim_text": "Growing up and puberty: ... Often the reassurance is the treatment, and knowing what to expect makes the rest easier. (also Mood/anxiety: 'A GP is a sensible - and confidential - first stop.')",
+    "category": "clinical framing / reassurance (adolescent)",
+    "risk": "MODERATE",
+    "status": "changed",
+    "wording_acceptable": false,
+    "recommended_wording": "Growing up and puberty: ... Often, once we've checked things over, reassurance is what's needed - and knowing what to expect makes the rest easier.",
+    "primary_source": {
+      "org": "Healthdirect (Australian Government)",
+      "title": "Puberty",
+      "url": "https://www.healthdirect.gov.au/puberty",
+      "date": "2024"
+    },
+    "supporting_source": null,
+    "evidence_summary": "For many normal developmental concerns, assessment followed by reassurance is appropriate. However 'reassurance is the treatment' as an unconditional statement risks implying symptoms will be reassured away without assessment. Reframing it as reassurance AFTER checking preserves the warm message while making clear assessment comes first.",
+    "limitations": "Reassurance is only appropriate once serious causes are excluded; the current phrasing understates the assessment step.",
+    "reviewer_notes": "Recommend tying reassurance to 'once we've checked things over' so it does not read as dismissing the need for assessment. Low-to-moderate concern; primarily a safety-of-framing point. [Implemented 2026-09-20; applied to site - see corresponding IND entry.]",
+    "last_verified": "2026-09-20",
+    "review_due": "2027-09-20"
+  },
+  {
+    "id": "PILLAR-34",
+    "page_url": "https://dramandahenderson.com.au/teenage-health",
+    "page_title": "Teenage & Adolescent Health GP in Maroubra | Dr Amanda Henderson",
+    "claim_text": "When would a GP involve another doctor or service? General practice handles most teenage health concerns from start to finish. When something calls for a paediatrician, a psychologist, a gynaecologist or another specialist, I'll say so ... (also cover: 'Most of this is straightforward to sort in general practice.')",
+    "category": "scope of practice (implied breadth claim)",
+    "risk": "MODERATE",
+    "status": "changed",
+    "wording_acceptable": false,
+    "recommended_wording": "General practice can handle many teenage health concerns from start to finish. When something calls for a paediatrician, a psychologist, a gynaecologist or another specialist, I'll say so ...",
+    "primary_source": {
+      "org": "Royal Australian College of General Practitioners (RACGP)",
+      "title": "What is a GP / role of general practice",
+      "url": "https://www.racgp.org.au/becoming-a-gp/what-is-a-gp",
+      "date": "2024"
+    },
+    "supporting_source": null,
+    "evidence_summary": "General practice does manage a broad range of adolescent presentations, so the sentiment is fair. But 'handles most ... from start to finish' and 'most of this is straightforward to sort' are unquantifiable scope claims better softened to 'many'/'can handle'. Parallel to PILLAR-18.",
+    "limitations": "No source quantifies 'most'; framing should not discourage appropriate escalation.",
+    "reviewer_notes": "Soften 'most' to 'many' and 'handles' to 'can handle', consistent with PILLAR-18. Keeps the reassuring message without an unsubstantiated quantifier. [Implemented 2026-09-20; applied to site - see corresponding IND entry.]",
+    "last_verified": "2026-09-20",
+    "review_due": "2027-09-20"
+  },
+  {
+    "id": "PILLAR-35",
+    "page_url": "https://dramandahenderson.com.au/general-gp-care",
+    "page_title": "General Family Medicine GP in Maroubra | Dr Amanda Henderson",
+    "claim_text": "Men's health: The health check men often put off - heart and diabetes risk, blood pressure, prostate discussion, mental health - in a straightforward, practical visit. (FAQ likewise)",
+    "category": "clinical / men's health check",
+    "risk": "LOW",
+    "status": "supported",
+    "wording_acceptable": true,
+    "recommended_wording": null,
+    "primary_source": {
+      "org": "Healthdirect (Australian Government)",
+      "title": "Men's health",
+      "url": "https://www.healthdirect.gov.au/mens-health",
+      "date": "2024"
+    },
+    "supporting_source": {
+      "org": "Royal Australian College of General Practitioners (RACGP)",
+      "title": "Guidelines for preventive activities in general practice (Red Book)",
+      "url": "https://www.racgp.org.au/clinical-resources/clinical-guidelines/key-racgp-guidelines/view-all-racgp-guidelines/red-book",
+      "date": "2024"
+    },
+    "evidence_summary": "Cardiovascular/diabetes risk assessment, blood pressure and mental health are standard components of a preventive health check. 'Prostate discussion' is correctly framed as a discussion (shared decision-making), not routine PSA screening - consistent with RACGP guidance which does not recommend universal PSA screening.",
+    "limitations": "Prostate/PSA testing is individualised; the 'discussion' framing avoids implying routine screening is recommended.",
+    "reviewer_notes": "Supported. Good that it says 'prostate discussion' rather than promoting routine PSA testing.",
+    "last_verified": "2026-09-20",
+    "review_due": "2027-09-20"
+  },
+  {
+    "id": "PILLAR-36",
+    "page_url": "https://dramandahenderson.com.au/general-gp-care",
+    "page_title": "General Family Medicine GP in Maroubra | Dr Amanda Henderson",
+    "claim_text": "Can a GP help with my mental health? Yes. Stress, anxiety, low mood and sleep are common reasons to see a GP. We can talk it through and make a plan, and where it helps, arrange a mental health care plan or referral. (also teenage: mood/anxiety GP as first stop)",
+    "category": "clinical / mental health (scope + Medicare)",
+    "risk": "LOW",
+    "status": "supported",
+    "wording_acceptable": true,
+    "recommended_wording": null,
+    "primary_source": {
+      "org": "Healthdirect (Australian Government)",
+      "title": "Mental health care plans",
+      "url": "https://www.healthdirect.gov.au/mental-health-care-plan",
+      "date": "2024"
+    },
+    "supporting_source": {
+      "org": "Australian Government Department of Health, Disability and Ageing",
+      "title": "Better Access initiative - mental health treatment plans",
+      "url": "https://www.health.gov.au/our-work/better-access-initiative",
+      "date": "2024"
+    },
+    "evidence_summary": "GPs commonly assess mental health concerns and prepare a GP Mental Health Treatment Plan (mental health care plan) enabling subsidised psychology sessions, or refer. Accurate description of Medicare-supported GP mental health care.",
+    "limitations": "Eligibility/subsidy details not stated but not misrepresented.",
+    "reviewer_notes": "Supported. No change.",
+    "last_verified": "2026-09-20",
+    "review_due": "2027-09-20"
+  },
+  {
+    "id": "PILLAR-37",
+    "page_url": "https://dramandahenderson.com.au/childrens-health",
+    "page_title": "Children's Health GP in Maroubra | Dr Amanda Henderson",
+    "claim_text": "What does a GP check at a baby's six-week appointment? The six-week check reviews your baby's growth, feeding, movement and development, includes a gentle physical examination, and is usually when the first scheduled immunisations are given. ... The six-week check looks after both mother and baby.",
+    "category": "clinical / infant & postnatal check",
+    "risk": "LOW",
+    "status": "supported",
+    "wording_acceptable": true,
+    "recommended_wording": null,
+    "primary_source": {
+      "org": "Pregnancy, Birth and Baby (Australian Government)",
+      "title": "6-week postnatal check",
+      "url": "https://www.pregnancybirthbaby.org.au/6-week-postnatal-check",
+      "date": "2024"
+    },
+    "supporting_source": {
+      "org": "Australian Government Department of Health, Disability and Ageing",
+      "title": "National Immunisation Program Schedule (6 weeks / 2 months)",
+      "url": "https://www.health.gov.au/our-work/national-immunisation-program",
+      "date": "2025"
+    },
+    "evidence_summary": "The 6-week check covers infant growth/feeding/development plus maternal recovery/mood, and the first NIP vaccines are scheduled at 6 weeks (2 months). Accurate.",
+    "limitations": "Timing described as 'usually' the first immunisations - correct (NIP due at 6 weeks).",
+    "reviewer_notes": "Supported. No change.",
+    "last_verified": "2026-09-20",
+    "review_due": "2027-09-20"
+  },
+  {
+    "id": "PILLAR-38",
+    "page_url": "https://dramandahenderson.com.au/childrens-health",
+    "page_title": "Children's Health GP in Maroubra | Dr Amanda Henderson",
+    "claim_text": "I'm worried about my child's development - should I see a GP? Yes - a GP is a good first step. We can talk through what you've noticed, do an initial assessment, and coordinate referral to a paediatrician or allied health if that's the right next step.",
+    "category": "clinical / child development pathway",
+    "risk": "LOW",
+    "status": "supported",
+    "wording_acceptable": true,
+    "recommended_wording": null,
+    "primary_source": {
+      "org": "Healthdirect (Australian Government)",
+      "title": "Child development",
+      "url": "https://www.healthdirect.gov.au/child-development",
+      "date": "2024"
+    },
+    "supporting_source": {
+      "org": "Raising Children Network (Australian Government)",
+      "title": "Development concerns and when to seek help",
+      "url": "https://raisingchildren.net.au/",
+      "date": "2024"
+    },
+    "evidence_summary": "GP as first step for developmental concerns, with assessment and referral to paediatrician/allied health, is standard. Appropriately hedged ('if that's the right next step').",
+    "limitations": "General pathway statement.",
+    "reviewer_notes": "Supported. No change.",
+    "last_verified": "2026-09-20",
+    "review_due": "2027-09-20"
+  },
+  {
+    "id": "PILLAR-39",
+    "page_url": "https://dramandahenderson.com.au/",
+    "page_title": "Dr Amanda Henderson | Family GP, Maroubra Sydney",
+    "claim_text": "Structured data / repeated positioning: 'female family GP', 'particular interest in women's health, pregnancy and preconception care, shared antenatal care, children's health and family medicine' (site.description, meta, knowsAbout arrays).",
+    "category": "positioning / clinical-interest description",
+    "risk": "LOW",
+    "status": "supported",
+    "wording_acceptable": true,
+    "recommended_wording": null,
+    "primary_source": null,
+    "supporting_source": null,
+    "evidence_summary": "Describes areas of interest/experience, not board-recognised sub-specialties. Uses 'interest'/'experience' language rather than 'specialist', which is appropriate under AHPRA rules (the protected title 'specialist' is not claimed).",
+    "limitations": "'Special interest' claims are acceptable provided they do not imply a recognised specialist qualification; the copy stays on the right side of this.",
+    "reviewer_notes": "Acceptable. Ensure the word 'specialist' is never used for these GP interest areas anywhere on the site (it is not, in the audited files).",
+    "last_verified": "2026-09-20",
+    "review_due": "2027-09-20"
+  },
+  {
+    "id": "PILLAR-40",
+    "page_url": "https://dramandahenderson.com.au/womens-health",
+    "page_title": "Women's Health GP in Maroubra | Dr Amanda Henderson",
+    "claim_text": "Cervical screening & sexual health / STI testing and vaginal symptoms are routine parts of general practice. A visit should feel private, unhurried and free of judgement. (and 'without judgement' across women's health)",
+    "category": "clinical service / sexual health (tone)",
+    "risk": "LOW",
+    "status": "supported",
+    "wording_acceptable": true,
+    "recommended_wording": null,
+    "primary_source": {
+      "org": "Healthdirect (Australian Government)",
+      "title": "STI testing",
+      "url": "https://www.healthdirect.gov.au/sexually-transmitted-infections-stis",
+      "date": "2024"
+    },
+    "supporting_source": null,
+    "evidence_summary": "STI testing and assessment of vaginal symptoms are routine general-practice services. The 'private, unhurried, free of judgement' phrasing is a non-clinical service/tone statement, not an outcome claim.",
+    "limitations": "Tone statement, not independently verifiable.",
+    "reviewer_notes": "Supported. No change.",
+    "last_verified": "2026-09-20",
+    "review_due": "2027-09-20"
+  }
+]

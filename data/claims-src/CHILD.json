@@ -1,0 +1,787 @@
+[
+  {
+    "id": "CHILD-01",
+    "page_url": "https://dramandahenderson.com.au/articles/adhd-concerns-in-children-first-steps-with-a-gp",
+    "page_title": "ADHD Concerns in Children: First Steps With a GP",
+    "claim_text": "ADHD assessment is not based on one behaviour or one bad term at school. Sleep problems, anxiety, learning difficulties, hearing or vision issues, trauma, family stress, autism, giftedness, medication effects and other health concerns can overlap.",
+    "category": "diagnosis/assessment",
+    "risk": "MODERATE",
+    "status": "supported",
+    "wording_acceptable": true,
+    "recommended_wording": null,
+    "primary_source": {
+      "org": "AADPA (Australian ADHD Professionals Association)",
+      "title": "Australian Evidence-Based Clinical Practice Guideline for ADHD",
+      "url": "https://adhdguideline.aadpa.com.au/",
+      "date": "2022-10"
+    },
+    "supporting_source": {
+      "org": "Royal Children's Hospital Melbourne",
+      "title": "Kids Health Info: Attention deficit hyperactivity disorder (ADHD)",
+      "url": "https://www.rch.org.au/kidsinfo/fact_sheets/ADHD/",
+      "date": "2023"
+    },
+    "evidence_summary": "The Australian ADHD Guideline requires diagnosis to be based on comprehensive assessment of persistent symptoms causing functional impairment across settings, with explicit consideration and exclusion of differential/co-occurring conditions (sleep disorders, anxiety, learning disorders, sensory deficits, trauma, autism). This directly supports the article's message that ADHD is not diagnosed from a single behaviour and that overlapping causes must be considered.",
+    "limitations": "General educational statement; individual assessment still required.",
+    "reviewer_notes": "Accurate and appropriately cautious. No change needed.",
+    "last_verified": "2026-09-20",
+    "review_due": "2027-09-20"
+  },
+  {
+    "id": "CHILD-02",
+    "page_url": "https://dramandahenderson.com.au/articles/adhd-concerns-in-children-first-steps-with-a-gp",
+    "page_title": "ADHD Concerns in Children: First Steps With a GP",
+    "claim_text": "ADHD: Attention deficit hyperactivity disorder, involving patterns of inattention and/or hyperactivity-impulsivity that affect functioning.",
+    "category": "definition",
+    "risk": "LOW",
+    "status": "supported",
+    "wording_acceptable": true,
+    "recommended_wording": null,
+    "primary_source": {
+      "org": "AADPA (Australian ADHD Professionals Association)",
+      "title": "Australian Evidence-Based Clinical Practice Guideline for ADHD",
+      "url": "https://adhdguideline.aadpa.com.au/",
+      "date": "2022-10"
+    },
+    "supporting_source": null,
+    "evidence_summary": "Matches the DSM-5 based definition used by the Australian ADHD Guideline: a persistent pattern of inattention and/or hyperactivity-impulsivity that interferes with functioning or development.",
+    "limitations": "Simplified plain-language definition.",
+    "reviewer_notes": "Accurate. No change needed.",
+    "last_verified": "2026-09-20",
+    "review_due": "2027-09-20"
+  },
+  {
+    "id": "CHILD-03",
+    "page_url": "https://dramandahenderson.com.au/articles/adhd-concerns-in-children-first-steps-with-a-gp",
+    "page_title": "ADHD Concerns in Children: First Steps With a GP",
+    "claim_text": "Can a GP diagnose ADHD? Assessment pathways vary. A GP can start the process, check for overlapping issues and refer to clinicians who assess and manage ADHD.",
+    "category": "scope of practice",
+    "risk": "HIGH",
+    "status": "supported",
+    "wording_acceptable": true,
+    "recommended_wording": null,
+    "primary_source": {
+      "org": "AADPA (Australian ADHD Professionals Association)",
+      "title": "Australian Evidence-Based Clinical Practice Guideline for ADHD (GP Factsheet)",
+      "url": "https://adhdguideline.aadpa.com.au/wp-content/uploads/2024/02/ADHD-Guideline-Factsheet-Factsheet-for-GPs-C-AADPA.pdf",
+      "date": "2022-10"
+    },
+    "supporting_source": {
+      "org": "RACGP",
+      "title": "Australian evidence-based Clinical Practice Guideline for ADHD",
+      "url": "https://www.racgp.org.au/clinical-resources/clinical-guidelines/guidelines-by-topic/view-all-guidelines-by-topic/disability/australian-evidence-based-clinical-practice-guidel",
+      "date": "2022"
+    },
+    "evidence_summary": "The 2022 Australian ADHD Guideline supports GPs having a role in identification, and in some circumstances diagnosis and prescribing; however, formal diagnosis of children commonly involves paediatricians/psychiatrists and prescribing of stimulants is subject to state/territory authority rules (e.g. NSW stimulant prescribing regulations). The article's cautious wording ('assessment pathways vary', 'a GP can start the process ... and refer') is accurate and does not overstate GP scope.",
+    "limitations": "GP diagnostic/prescribing scope varies by state/territory and individual training; the article intentionally avoids specifics, which is appropriate.",
+    "reviewer_notes": "Wording is deliberately conservative and defensible. If desired, the guideline now permits suitably trained GPs to diagnose/manage in some cases, but leaving this out avoids AHPRA scope-of-practice risk. Keep as is.",
+    "last_verified": "2026-09-20",
+    "review_due": "2027-03-20"
+  },
+  {
+    "id": "CHILD-04",
+    "page_url": "https://dramandahenderson.com.au/articles/adhd-concerns-in-children-first-steps-with-a-gp",
+    "page_title": "ADHD Concerns in Children: First Steps With a GP",
+    "claim_text": "Could sleep problems look like ADHD? Yes. Poor sleep, snoring and tiredness can affect concentration and behaviour, so sleep should be discussed.",
+    "category": "differential/assessment",
+    "risk": "MODERATE",
+    "status": "supported",
+    "wording_acceptable": true,
+    "recommended_wording": null,
+    "primary_source": {
+      "org": "AADPA (Australian ADHD Professionals Association)",
+      "title": "Australian Evidence-Based Clinical Practice Guideline for ADHD",
+      "url": "https://adhdguideline.aadpa.com.au/",
+      "date": "2022-10"
+    },
+    "supporting_source": {
+      "org": "Raising Children Network",
+      "title": "Sleep and children: how sleep affects behaviour and learning",
+      "url": "https://raisingchildren.net.au/",
+      "date": "2024"
+    },
+    "evidence_summary": "Sleep disturbance (including sleep-disordered breathing/snoring/obstructive sleep apnoea) is a well-recognised mimic of, and contributor to, inattention and hyperactivity in children, and the guideline recommends assessing sleep as part of ADHD assessment. Statement is accurate.",
+    "limitations": "General; sleep is one of several factors to assess.",
+    "reviewer_notes": "Accurate. No change needed.",
+    "last_verified": "2026-09-20",
+    "review_due": "2027-09-20"
+  },
+  {
+    "id": "CHILD-05",
+    "page_url": "https://dramandahenderson.com.au/articles/adhd-concerns-in-children-first-steps-with-a-gp",
+    "page_title": "ADHD Concerns in Children: First Steps With a GP",
+    "claim_text": "Seek urgent help if your child is at risk of harming themselves or others, has severe aggression that cannot be safely managed, is expressing suicidal thoughts, or there are serious safety concerns at home or school.",
+    "category": "red-flag/safety",
+    "risk": "HIGH",
+    "status": "changed",
+    "wording_acceptable": false,
+    "recommended_wording": "If your child is in immediate danger, is expressing suicidal thoughts, is at risk of harming themselves or others, or has severe aggression that cannot be safely managed, seek urgent help now: call 000 or go to your nearest emergency department. You can also call the Kids Helpline on 1800 55 1800 (any time) or Lifeline on 13 11 14. If there are serious safety concerns at home or school, please raise them promptly with your GP or the relevant service.",
+    "primary_source": {
+      "org": "Royal Children's Hospital Melbourne",
+      "title": "Kids Health Info: Suicide and self-harm - helping your child",
+      "url": "https://www.rch.org.au/kidsinfo/fact_sheets/",
+      "date": "2024"
+    },
+    "supporting_source": {
+      "org": "healthdirect Australia",
+      "title": "Mental health emergency / crisis support",
+      "url": "https://www.healthdirect.gov.au/mental-health-emergency",
+      "date": "2025"
+    },
+    "evidence_summary": "The red-flag list identifies clinically appropriate situations for urgent escalation. However for suicidal thoughts or acute risk of harm, best practice is to give an unambiguous emergency pathway (call 000 / go to ED) plus named crisis lines rather than only 'seek urgent help', so a distressed parent knows exactly what to do at 2am.",
+    "limitations": "Educational; does not replace clinical assessment.",
+    "reviewer_notes": "Content is correct; strengthen by adding explicit 000/ED instruction and Kids Helpline 1800 55 1800 / Lifeline 13 11 14. Preserves warm first-person practice voice. [Implemented 2026-09-20; applied to site - see corresponding IND entry.]",
+    "last_verified": "2026-09-20",
+    "review_due": "2027-09-20"
+  },
+  {
+    "id": "CHILD-06",
+    "page_url": "https://dramandahenderson.com.au/articles/baby-and-childhood-eczema-getting-the-basics-right",
+    "page_title": "Baby and Childhood Eczema: Getting the Basics Right",
+    "claim_text": "Eczema is usually a skin barrier problem, not a sign that a parent has done something wrong. It can be worsened by heat, soaps, saliva, infections, scratching, irritants and sometimes allergy.",
+    "category": "cause/pathophysiology",
+    "risk": "MODERATE",
+    "status": "supported",
+    "wording_acceptable": true,
+    "recommended_wording": null,
+    "primary_source": {
+      "org": "Royal Children's Hospital Melbourne",
+      "title": "Kids Health Info: Eczema (atopic dermatitis)",
+      "url": "https://www.rch.org.au/kidsinfo/fact_sheets/Eczema_(atopic_dermatitis)/",
+      "date": "2024"
+    },
+    "supporting_source": {
+      "org": "ASCIA",
+      "title": "Eczema (atopic dermatitis)",
+      "url": "https://www.allergy.org.au/patients/skin-allergy/eczema",
+      "date": "2024"
+    },
+    "evidence_summary": "RCH and ASCIA describe eczema as a chronic condition involving a defective skin barrier and inflammation, aggravated by triggers including heat, soap/irritants, dryness, infection, scratching, saliva and sometimes allergens. Statement is accurate and appropriately reassuring.",
+    "limitations": "General; causes are multifactorial.",
+    "reviewer_notes": "Accurate. No change needed.",
+    "last_verified": "2026-09-20",
+    "review_due": "2027-09-20"
+  },
+  {
+    "id": "CHILD-07",
+    "page_url": "https://dramandahenderson.com.au/articles/baby-and-childhood-eczema-getting-the-basics-right",
+    "page_title": "Baby and Childhood Eczema: Getting the Basics Right",
+    "claim_text": "Under-treating inflammation can sometimes prolong the flare and increase scratching.",
+    "category": "treatment",
+    "risk": "MODERATE",
+    "status": "supported",
+    "wording_acceptable": true,
+    "recommended_wording": null,
+    "primary_source": {
+      "org": "Royal Children's Hospital Melbourne",
+      "title": "Clinical Practice Guidelines: Eczema",
+      "url": "https://www.rch.org.au/clinicalguide/guideline_index/eczema/",
+      "date": "2024"
+    },
+    "supporting_source": {
+      "org": "ASCIA",
+      "title": "Eczema (atopic dermatitis)",
+      "url": "https://www.allergy.org.au/patients/skin-allergy/eczema",
+      "date": "2024"
+    },
+    "evidence_summary": "Guidelines emphasise treating flares adequately and early with topical corticosteroids of appropriate strength, and note that under-use (often driven by steroid phobia) leads to poorly controlled, prolonged eczema and ongoing itch/scratch. Statement aligns with guidance.",
+    "limitations": "General; treatment intensity is individualised.",
+    "reviewer_notes": "Accurate and a useful counter to steroid phobia. No change needed.",
+    "last_verified": "2026-09-20",
+    "review_due": "2027-09-20"
+  },
+  {
+    "id": "CHILD-08",
+    "page_url": "https://dramandahenderson.com.au/articles/baby-and-childhood-eczema-getting-the-basics-right",
+    "page_title": "Baby and Childhood Eczema: Getting the Basics Right",
+    "claim_text": "Are steroid creams safe for babies? They can be safe and effective when the right strength is used in the right place for the right time. Ask your GP for a clear plan.",
+    "category": "treatment/medication safety",
+    "risk": "HIGH",
+    "status": "supported",
+    "wording_acceptable": true,
+    "recommended_wording": null,
+    "primary_source": {
+      "org": "Royal Children's Hospital Melbourne",
+      "title": "Kids Health Info: Eczema (atopic dermatitis)",
+      "url": "https://www.rch.org.au/kidsinfo/fact_sheets/Eczema_(atopic_dermatitis)/",
+      "date": "2024"
+    },
+    "supporting_source": {
+      "org": "ASCIA",
+      "title": "Corticosteroids (topical) for eczema",
+      "url": "https://www.allergy.org.au/patients/skin-allergy/eczema",
+      "date": "2024"
+    },
+    "evidence_summary": "RCH states topical corticosteroids are effective and safe for children when used correctly (appropriate strength, site and duration). The article's wording mirrors this and correctly directs parents to obtain an individualised plan, directly addressing steroid-phobia myths without overstating safety.",
+    "limitations": "Safety is conditional on correct strength/site/duration; potent steroids on the face or long unsupervised use carry risk - the article's 'right strength/right place/right time' framing captures this.",
+    "reviewer_notes": "Accurate and safely framed. No change needed.",
+    "last_verified": "2026-09-20",
+    "review_due": "2027-09-20"
+  },
+  {
+    "id": "CHILD-09",
+    "page_url": "https://dramandahenderson.com.au/articles/baby-and-childhood-eczema-getting-the-basics-right",
+    "page_title": "Baby and Childhood Eczema: Getting the Basics Right",
+    "claim_text": "How much moisturiser should I use? Often more than people expect. Regular generous moisturising helps repair the skin barrier.",
+    "category": "treatment",
+    "risk": "MODERATE",
+    "status": "supported",
+    "wording_acceptable": true,
+    "recommended_wording": null,
+    "primary_source": {
+      "org": "Royal Children's Hospital Melbourne",
+      "title": "Kids Health Info: Eczema (atopic dermatitis)",
+      "url": "https://www.rch.org.au/kidsinfo/fact_sheets/Eczema_(atopic_dermatitis)/",
+      "date": "2024"
+    },
+    "supporting_source": null,
+    "evidence_summary": "RCH and ASCIA recommend frequent, generous use of emollients as the mainstay of eczema care to restore and maintain the skin barrier. Statement is accurate.",
+    "limitations": "General; product choice individualised.",
+    "reviewer_notes": "Accurate. No change needed.",
+    "last_verified": "2026-09-20",
+    "review_due": "2027-09-20"
+  },
+  {
+    "id": "CHILD-10",
+    "page_url": "https://dramandahenderson.com.au/articles/baby-and-childhood-eczema-getting-the-basics-right",
+    "page_title": "Baby and Childhood Eczema: Getting the Basics Right",
+    "claim_text": "Is eczema caused by food allergy? Usually not directly, although food allergy can be relevant for some children. Do not remove major foods without medical advice.",
+    "category": "allergy/treatment safety",
+    "risk": "HIGH",
+    "status": "supported",
+    "wording_acceptable": true,
+    "recommended_wording": null,
+    "primary_source": {
+      "org": "ASCIA",
+      "title": "Eczema and food allergy",
+      "url": "https://www.allergy.org.au/patients/skin-allergy/eczema",
+      "date": "2024"
+    },
+    "supporting_source": {
+      "org": "Royal Children's Hospital Melbourne",
+      "title": "Kids Health Info: Eczema (atopic dermatitis)",
+      "url": "https://www.rch.org.au/kidsinfo/fact_sheets/Eczema_(atopic_dermatitis)/",
+      "date": "2024"
+    },
+    "evidence_summary": "ASCIA and RCH advise that eczema is a skin barrier condition not usually caused by food allergy, that food allergy is relevant only for some children, and specifically warn against unsupervised elimination of major foods (risk of nutritional harm and of increasing food allergy through avoidance). The article's warning is accurate and safety-protective.",
+    "limitations": "General; some children do have food-triggered flares warranting assessment.",
+    "reviewer_notes": "Accurate and safe. No change needed.",
+    "last_verified": "2026-09-20",
+    "review_due": "2027-09-20"
+  },
+  {
+    "id": "CHILD-11",
+    "page_url": "https://dramandahenderson.com.au/articles/baby-and-childhood-eczema-getting-the-basics-right",
+    "page_title": "Baby and Childhood Eczema: Getting the Basics Right",
+    "claim_text": "Seek prompt care for fever, rapidly worsening redness, swelling, pus, honey-coloured crusting, painful skin, eczema around the eyes, widespread blisters or a child who seems very unwell.",
+    "category": "red-flag/safety",
+    "risk": "HIGH",
+    "status": "changed",
+    "wording_acceptable": false,
+    "recommended_wording": "Seek prompt medical care if there is fever, rapidly worsening redness, swelling, pus, honey-coloured crusting or painful skin, as this can mean the eczema is infected. Seek same-day medical care for widespread blisters or clustered painful blisters, or eczema around the eyes, as these can be a sign of a serious viral skin infection (eczema herpeticum). If your child seems very unwell, is hard to wake, has trouble breathing or a rash that does not fade when pressed, call 000 or go to your nearest emergency department.",
+    "primary_source": {
+      "org": "Royal Children's Hospital Melbourne",
+      "title": "Clinical Practice Guidelines: Eczema (bacterial infection and eczema herpeticum)",
+      "url": "https://www.rch.org.au/clinicalguide/guideline_index/eczema/",
+      "date": "2024"
+    },
+    "supporting_source": {
+      "org": "NICE",
+      "title": "Atopic eczema in under 12s: diagnosis and management (eczema herpeticum)",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK571009/",
+      "date": "2023"
+    },
+    "evidence_summary": "The listed signs correctly capture bacterial infection (weeping, pus, honey-coloured crusting, pain, fever) and eczema herpeticum (widespread/clustered blisters, eczema around the eyes). Guidelines classify eczema herpeticum as requiring same-day treatment and specialist review; the generic 'seek prompt care' understates the urgency for the herpeticum/eye signs. Adding 'same-day' for those signs and a 000/ED pathway for a very unwell child makes the advice clinically safer.",
+    "limitations": "Educational; clinical assessment still required.",
+    "reviewer_notes": "Facts are correct; qualification strengthens time-critical wording for eczema herpeticum and periocular involvement. Keeps warm voice. [Implemented 2026-09-20; applied to site - see corresponding IND entry.]",
+    "last_verified": "2026-09-20",
+    "review_due": "2027-09-20"
+  },
+  {
+    "id": "CHILD-12",
+    "page_url": "https://dramandahenderson.com.au/articles/baby-and-childhood-eczema-getting-the-basics-right",
+    "page_title": "Baby and Childhood Eczema: Getting the Basics Right",
+    "claim_text": "Infected eczema: Eczema complicated by bacteria or viruses, often causing pain, crusting, weeping or fever.",
+    "category": "definition",
+    "risk": "MODERATE",
+    "status": "supported",
+    "wording_acceptable": true,
+    "recommended_wording": null,
+    "primary_source": {
+      "org": "Royal Children's Hospital Melbourne",
+      "title": "Clinical Practice Guidelines: Eczema",
+      "url": "https://www.rch.org.au/clinicalguide/guideline_index/eczema/",
+      "date": "2024"
+    },
+    "supporting_source": null,
+    "evidence_summary": "Consistent with RCH: infected eczema may be bacterial (commonly Staphylococcus aureus - weeping, crusting, pain) or viral (herpes simplex/eczema herpeticum), sometimes with fever. Accurate definition.",
+    "limitations": "Plain-language summary.",
+    "reviewer_notes": "Accurate. No change needed.",
+    "last_verified": "2026-09-20",
+    "review_due": "2027-09-20"
+  },
+  {
+    "id": "CHILD-13",
+    "page_url": "https://dramandahenderson.com.au/articles/childhood-immunisations-and-development-checks-with-a-gp",
+    "page_title": "Childhood Immunisations and Development Checks With a GP",
+    "claim_text": "Catch-up schedule: A plan to safely update missed or delayed vaccines. ... Catch-up schedules should be tailored to the child's age and vaccine history.",
+    "category": "immunisation",
+    "risk": "MODERATE",
+    "status": "supported",
+    "wording_acceptable": true,
+    "recommended_wording": null,
+    "primary_source": {
+      "org": "Australian Government Department of Health (Australian Immunisation Handbook)",
+      "title": "Catch-up vaccination",
+      "url": "https://immunisationhandbook.health.gov.au/contents/catch-up-vaccination",
+      "date": "2025"
+    },
+    "supporting_source": null,
+    "evidence_summary": "The Australian Immunisation Handbook provides catch-up schedules individualised by the person's age, doses already received and interval requirements. The article's statement accurately reflects that catch-up must be tailored to age and vaccine history.",
+    "limitations": "General; actual catch-up calculated per Handbook/state provider.",
+    "reviewer_notes": "Accurate. No change needed.",
+    "last_verified": "2026-09-20",
+    "review_due": "2027-09-20"
+  },
+  {
+    "id": "CHILD-14",
+    "page_url": "https://dramandahenderson.com.au/articles/childhood-immunisations-and-development-checks-with-a-gp",
+    "page_title": "Childhood Immunisations and Development Checks With a GP",
+    "claim_text": "Blue book: The NSW personal health record for a child.",
+    "category": "factual/administrative",
+    "risk": "LOW",
+    "status": "supported",
+    "wording_acceptable": true,
+    "recommended_wording": null,
+    "primary_source": {
+      "org": "NSW Health",
+      "title": "My Personal Health Record (the blue book)",
+      "url": "https://www.health.nsw.gov.au/kidsfamilies/MCFhealth/child/Pages/personal-health-record.aspx",
+      "date": "2025"
+    },
+    "supporting_source": null,
+    "evidence_summary": "NSW Health issues the 'My Personal Health Record', widely known as the blue book, to record a child's growth, development and immunisations. Accurate; correctly localised to NSW (South Maroubra practice).",
+    "limitations": "Terminology is state-specific; correct for NSW patients.",
+    "reviewer_notes": "Accurate. No change needed.",
+    "last_verified": "2026-09-20",
+    "review_due": "2027-09-20"
+  },
+  {
+    "id": "CHILD-15",
+    "page_url": "https://dramandahenderson.com.au/articles/childhood-immunisations-and-development-checks-with-a-gp",
+    "page_title": "Childhood Immunisations and Development Checks With a GP",
+    "claim_text": "Can my child be vaccinated with a mild cold? Often yes, but it depends on symptoms and how unwell the child is. Your GP or nurse can assess on the day.",
+    "category": "immunisation/contraindication",
+    "risk": "HIGH",
+    "status": "supported",
+    "wording_acceptable": true,
+    "recommended_wording": null,
+    "primary_source": {
+      "org": "Australian Government Department of Health (Australian Immunisation Handbook)",
+      "title": "Preparing for vaccination / Table: Responses to conditions identified through pre-vaccination screening",
+      "url": "https://immunisationhandbook.health.gov.au/resources/tables/table-responses-to-conditions-or-circumstances-identified-through-the-pre-vaccination-screening-checklist",
+      "date": "2025"
+    },
+    "supporting_source": null,
+    "evidence_summary": "The Australian Immunisation Handbook states minor illness (e.g. mild upper respiratory infection with or without low-grade fever) is NOT a contraindication and vaccination can proceed; a moderate or severe acute illness (with or without fever) is a precaution and may warrant deferral. The article's 'often yes, depends on symptoms/how unwell, GP or nurse can assess' accurately reflects this.",
+    "limitations": "On-the-day clinical judgement required.",
+    "reviewer_notes": "Accurate and safely hedged. No change needed.",
+    "last_verified": "2026-09-20",
+    "review_due": "2027-03-20"
+  },
+  {
+    "id": "CHILD-16",
+    "page_url": "https://dramandahenderson.com.au/articles/childhood-immunisations-and-development-checks-with-a-gp",
+    "page_title": "Childhood Immunisations and Development Checks With a GP",
+    "claim_text": "What side effects are common after vaccines? Mild fever, tiredness, irritability or soreness can occur. Your GP should explain what is expected and what is not.",
+    "category": "immunisation/side effects",
+    "risk": "MODERATE",
+    "status": "supported",
+    "wording_acceptable": true,
+    "recommended_wording": null,
+    "primary_source": {
+      "org": "Australian Government Department of Health (Australian Immunisation Handbook)",
+      "title": "After vaccination / adverse events following immunisation",
+      "url": "https://immunisationhandbook.health.gov.au/contents/vaccination-procedures/after-vaccination",
+      "date": "2025"
+    },
+    "supporting_source": {
+      "org": "Raising Children Network",
+      "title": "Immunisation side effects",
+      "url": "https://raisingchildren.net.au/",
+      "date": "2024"
+    },
+    "evidence_summary": "Common expected reactions listed by the Handbook and Raising Children Network include low-grade fever, irritability, tiredness/drowsiness and local injection-site soreness/redness/swelling. Accurate.",
+    "limitations": "General; specific reactions vary by vaccine.",
+    "reviewer_notes": "Accurate. No change needed.",
+    "last_verified": "2026-09-20",
+    "review_due": "2027-09-20"
+  },
+  {
+    "id": "CHILD-17",
+    "page_url": "https://dramandahenderson.com.au/articles/childhood-immunisations-and-development-checks-with-a-gp",
+    "page_title": "Childhood Immunisations and Development Checks With a GP",
+    "claim_text": "Seek urgent care for breathing difficulty, a baby under three months with fever, a child who is very drowsy or floppy, a non-blanching rash, dehydration, a seizure, severe allergic reaction or if your instinct says your child is seriously unwell.",
+    "category": "red-flag/safety",
+    "risk": "HIGH",
+    "status": "changed",
+    "wording_acceptable": false,
+    "recommended_wording": "Call 000 for breathing difficulty, a seizure, a severe allergic reaction (anaphylaxis), a non-blanching rash (one that does not fade when you press on it), or a child who is very drowsy, floppy or hard to wake. See a doctor urgently, on the same day, for a baby under three months with a fever (38C or higher), signs of dehydration, or if your instinct says your child is seriously unwell. If in doubt, it is always okay to seek help.",
+    "primary_source": {
+      "org": "Royal Children's Hospital Melbourne",
+      "title": "Kids Health Info: Fever in children",
+      "url": "https://www.rch.org.au/kidsinfo/fact_sheets/fever_in_children/",
+      "date": "2024"
+    },
+    "supporting_source": {
+      "org": "healthdirect Australia",
+      "title": "Fever and high temperature in children and babies - when to see a doctor",
+      "url": "https://www.healthdirect.gov.au/fever-and-high-temperature-in-children",
+      "date": "2025"
+    },
+    "evidence_summary": "All listed red flags are clinically correct. RCH advises calling an ambulance (000) for a child struggling to breathe/blue/pale, a first seizure or a seizure over five minutes or one after which the child does not wake, and going to hospital for a non-blanching rash or a baby under one month with fever, and seeing a doctor for a baby under three months with fever. Grouping the most time-critical signs (breathing difficulty, seizure, anaphylaxis, non-blanching rash, unrousable/floppy child) under an explicit 'call 000' instruction, and the rest under 'same-day doctor', makes the advice safer and matches RCH. The article's conservative treatment of under-3-months fever as urgent is appropriate.",
+    "limitations": "Educational; not a substitute for assessment.",
+    "reviewer_notes": "Facts correct but the single 'seek urgent care' verb blurs 000-level from same-day-GP-level emergencies. Split as recommended. Consider adding fever threshold (38C) for the under-3-months trigger, consistent with RCH. [Implemented 2026-09-20; applied to site - see corresponding IND entry.]",
+    "last_verified": "2026-09-20",
+    "review_due": "2027-09-20"
+  },
+  {
+    "id": "CHILD-18",
+    "page_url": "https://dramandahenderson.com.au/articles/childhood-immunisations-and-development-checks-with-a-gp",
+    "page_title": "Childhood Immunisations and Development Checks With a GP",
+    "claim_text": "Milestones: Skills many children develop around certain ages, such as sitting, walking, talking and social interaction. ... development concerns (speech, movement, feeding, sleep, behaviour) are worth raising at a vaccine visit.",
+    "category": "development",
+    "risk": "MODERATE",
+    "status": "supported",
+    "wording_acceptable": true,
+    "recommended_wording": null,
+    "primary_source": {
+      "org": "Raising Children Network",
+      "title": "Developmental milestones",
+      "url": "https://raisingchildren.net.au/",
+      "date": "2024"
+    },
+    "supporting_source": {
+      "org": "NSW Health",
+      "title": "Child health checks / My Personal Health Record",
+      "url": "https://www.health.nsw.gov.au/kidsfamilies/MCFhealth/child/Pages/personal-health-record.aspx",
+      "date": "2025"
+    },
+    "evidence_summary": "Accurate plain-language description of developmental milestones; aligns with Raising Children Network and the schedule of child health/development checks. Encouraging parents to raise concerns early is consistent with best-practice developmental surveillance.",
+    "limitations": "Milestones are ranges, not fixed ages; article correctly says 'around certain ages'.",
+    "reviewer_notes": "Accurate. No change needed.",
+    "last_verified": "2026-09-20",
+    "review_due": "2027-09-20"
+  },
+  {
+    "id": "CHILD-19",
+    "page_url": "https://dramandahenderson.com.au/articles/childhood-immunisations-and-development-checks-with-a-gp",
+    "page_title": "Childhood Immunisations and Development Checks With a GP",
+    "claim_text": "Dr Amanda Henderson undertakes development checks with scheduled immunisations and takes parental concerns seriously.",
+    "category": "service description",
+    "risk": "LOW",
+    "status": "needs_review",
+    "wording_acceptable": true,
+    "recommended_wording": null,
+    "primary_source": {
+      "org": "N/A",
+      "title": "Practice service description - not an external clinical claim",
+      "url": "",
+      "date": ""
+    },
+    "supporting_source": null,
+    "evidence_summary": "This is a statement of services offered by the practice, not a clinical/scientific claim, so it cannot be verified against an external authority. It should be confirmed as accurate by Dr Henderson/practice. Undertaking developmental surveillance at immunisation visits is consistent with RACGP Red Book preventive-care practice.",
+    "limitations": "Accuracy is a matter of practice fact; verify internally.",
+    "reviewer_notes": "Confirm with the practice that this reflects actual service provision (AHPRA advertising must be truthful). No safety issue with the wording itself.",
+    "last_verified": "2026-09-20",
+    "review_due": "2027-09-20"
+  },
+  {
+    "id": "CHILD-20",
+    "page_url": "https://dramandahenderson.com.au/articles/starting-solids-and-allergy-foods-calm-advice-for-parents",
+    "page_title": "Starting Solids and Allergy Foods: Calm Advice for Parents",
+    "claim_text": "Current Australian advice generally supports introducing solids when a baby is developmentally ready, around six months but not before four months, while continuing breastfeeding if possible.",
+    "category": "infant feeding/allergy prevention",
+    "risk": "HIGH",
+    "status": "supported",
+    "wording_acceptable": true,
+    "recommended_wording": null,
+    "primary_source": {
+      "org": "ASCIA",
+      "title": "ASCIA Guideline: Infant Feeding for Food Allergy Prevention",
+      "url": "https://www.allergy.org.au/hp/papers/infant-feeding-and-allergy-prevention",
+      "date": "2026-01"
+    },
+    "supporting_source": {
+      "org": "ASCIA",
+      "title": "How to Introduce Solid Foods to Babies",
+      "url": "https://www.allergy.org.au/patients/allergy-prevention/ascia-how-to-introduce-solid-foods-to-babies",
+      "date": "2026-01"
+    },
+    "evidence_summary": "The updated ASCIA Guideline (published January 2026) states solids should be introduced when the baby shows signs of developmental readiness, usually around 6 months and not before 4 months, and that breastfeeding should continue if possible while introducing solids. The article's wording matches the current guideline almost verbatim.",
+    "limitations": "Timing individualised for some babies; article correctly adds 'some babies need individual advice'.",
+    "reviewer_notes": "Accurate and current (verified against the Jan 2026 ASCIA update). No change needed.",
+    "last_verified": "2026-09-20",
+    "review_due": "2027-03-20"
+  },
+  {
+    "id": "CHILD-21",
+    "page_url": "https://dramandahenderson.com.au/articles/starting-solids-and-allergy-foods-calm-advice-for-parents",
+    "page_title": "Starting Solids and Allergy Foods: Calm Advice for Parents",
+    "claim_text": "Allergenic foods are usually introduced in age-appropriate forms during the first year, but some babies need individual advice.",
+    "category": "infant feeding/allergy prevention",
+    "risk": "HIGH",
+    "status": "supported",
+    "wording_acceptable": true,
+    "recommended_wording": null,
+    "primary_source": {
+      "org": "ASCIA",
+      "title": "ASCIA Guideline: Infant Feeding for Food Allergy Prevention",
+      "url": "https://www.allergy.org.au/hp/papers/infant-feeding-and-allergy-prevention",
+      "date": "2026-01"
+    },
+    "supporting_source": null,
+    "evidence_summary": "ASCIA recommends introducing all common allergenic foods (including well-cooked egg and smooth peanut butter/paste, dairy, wheat) in age-appropriate forms in the first year of life (by 12 months), which reduces the risk of food allergy. The article's wording is accurate, and appropriately notes some babies need individual advice.",
+    "limitations": "High-risk infants (severe eczema, existing food allergy) may need medical guidance first - covered separately in the article.",
+    "reviewer_notes": "Accurate and current. No change needed.",
+    "last_verified": "2026-09-20",
+    "review_due": "2027-03-20"
+  },
+  {
+    "id": "CHILD-22",
+    "page_url": "https://dramandahenderson.com.au/articles/starting-solids-and-allergy-foods-calm-advice-for-parents",
+    "page_title": "Starting Solids and Allergy Foods: Calm Advice for Parents",
+    "claim_text": "Should allergy foods be delayed? For most babies, delaying common allergy foods is not recommended.",
+    "category": "infant feeding/allergy prevention",
+    "risk": "HIGH",
+    "status": "supported",
+    "wording_acceptable": true,
+    "recommended_wording": null,
+    "primary_source": {
+      "org": "ASCIA",
+      "title": "ASCIA Guideline: Infant Feeding for Food Allergy Prevention",
+      "url": "https://www.allergy.org.au/hp/papers/infant-feeding-and-allergy-prevention",
+      "date": "2026-01"
+    },
+    "supporting_source": {
+      "org": "ASCIA",
+      "title": "How to Introduce Solid Foods to Babies",
+      "url": "https://www.allergy.org.au/patients/allergy-prevention/ascia-how-to-introduce-solid-foods-to-babies",
+      "date": "2026-01"
+    },
+    "evidence_summary": "ASCIA explicitly advises NOT delaying introduction of allergenic foods, as introducing them in the first year reduces allergy risk; the 2026 update encourages introducing well-cooked egg and peanut soon after starting solids. The article's wording is accurate and aligns with the strongest current evidence.",
+    "limitations": "Applies to most babies; high-risk infants need individual advice (covered elsewhere in article).",
+    "reviewer_notes": "Accurate and current. No change needed.",
+    "last_verified": "2026-09-20",
+    "review_due": "2027-03-20"
+  },
+  {
+    "id": "CHILD-23",
+    "page_url": "https://dramandahenderson.com.au/articles/starting-solids-and-allergy-foods-calm-advice-for-parents",
+    "page_title": "Starting Solids and Allergy Foods: Calm Advice for Parents",
+    "claim_text": "Allergenic foods: Foods such as egg, peanut, dairy, wheat, fish and others that commonly cause allergy.",
+    "category": "definition/allergy",
+    "risk": "MODERATE",
+    "status": "supported",
+    "wording_acceptable": true,
+    "recommended_wording": null,
+    "primary_source": {
+      "org": "ASCIA",
+      "title": "ASCIA Guideline: Infant Feeding for Food Allergy Prevention",
+      "url": "https://www.allergy.org.au/hp/papers/infant-feeding-and-allergy-prevention",
+      "date": "2026-01"
+    },
+    "supporting_source": null,
+    "evidence_summary": "ASCIA lists the most common allergy-causing foods as cow's milk (dairy), egg, peanut, tree nuts, wheat, soy, sesame, fish and shellfish. The article's examples are a correct subset ('and others' covers the rest). Accurate.",
+    "limitations": "Illustrative list, not exhaustive; article says 'and others'.",
+    "reviewer_notes": "Accurate. Optional: could add tree nuts, soy, sesame, shellfish for completeness. Not required.",
+    "last_verified": "2026-09-20",
+    "review_due": "2027-09-20"
+  },
+  {
+    "id": "CHILD-24",
+    "page_url": "https://dramandahenderson.com.au/articles/starting-solids-and-allergy-foods-calm-advice-for-parents",
+    "page_title": "Starting Solids and Allergy Foods: Calm Advice for Parents",
+    "claim_text": "Iron-rich foods are important early. The exact first food is less important than safe texture, variety over time and responsive feeding.",
+    "category": "infant nutrition",
+    "risk": "MODERATE",
+    "status": "supported",
+    "wording_acceptable": true,
+    "recommended_wording": null,
+    "primary_source": {
+      "org": "ASCIA",
+      "title": "How to Introduce Solid Foods to Babies",
+      "url": "https://www.allergy.org.au/patients/allergy-prevention/ascia-how-to-introduce-solid-foods-to-babies",
+      "date": "2026-01"
+    },
+    "supporting_source": {
+      "org": "NHMRC / Australian Government",
+      "title": "Infant Feeding Guidelines",
+      "url": "https://www.eatforhealth.gov.au/guidelines/infant-feeding-guidelines",
+      "date": "2012"
+    },
+    "evidence_summary": "ASCIA and the NHMRC Infant Feeding Guidelines recommend iron-rich foods (e.g. iron-fortified cereals, pureed meat, well-cooked legumes) as among the first foods because infant iron stores decline around 6 months. Emphasis on texture progression, variety and responsive feeding is consistent with guidance. Accurate.",
+    "limitations": "General nutrition advice.",
+    "reviewer_notes": "Accurate. No change needed.",
+    "last_verified": "2026-09-20",
+    "review_due": "2027-09-20"
+  },
+  {
+    "id": "CHILD-25",
+    "page_url": "https://dramandahenderson.com.au/articles/starting-solids-and-allergy-foods-calm-advice-for-parents",
+    "page_title": "Starting Solids and Allergy Foods: Calm Advice for Parents",
+    "claim_text": "They can discuss ... safe forms of peanut and egg, choking hazards ...",
+    "category": "choking safety/allergy",
+    "risk": "MODERATE",
+    "status": "supported",
+    "wording_acceptable": true,
+    "recommended_wording": null,
+    "primary_source": {
+      "org": "ASCIA",
+      "title": "How to Introduce Solid Foods to Babies",
+      "url": "https://www.allergy.org.au/patients/allergy-prevention/ascia-how-to-introduce-solid-foods-to-babies",
+      "date": "2026-01"
+    },
+    "supporting_source": {
+      "org": "Raising Children Network",
+      "title": "Choking: first aid and prevention / safe foods for babies",
+      "url": "https://raisingchildren.net.au/",
+      "date": "2024"
+    },
+    "evidence_summary": "ASCIA advises giving allergenic foods in safe forms (e.g. smooth peanut butter/paste rather than whole nuts, well-cooked egg) and avoiding choking hazards such as whole nuts, hard/round foods for infants. Accurate.",
+    "limitations": "General.",
+    "reviewer_notes": "Accurate. No change needed.",
+    "last_verified": "2026-09-20",
+    "review_due": "2027-09-20"
+  },
+  {
+    "id": "CHILD-26",
+    "page_url": "https://dramandahenderson.com.au/articles/starting-solids-and-allergy-foods-calm-advice-for-parents",
+    "page_title": "Starting Solids and Allergy Foods: Calm Advice for Parents",
+    "claim_text": "What is gagging versus choking? Gagging is noisy and part of learning textures. Choking may be silent or associated with inability to breathe, cough or cry, and requires urgent action.",
+    "category": "choking safety/red-flag",
+    "risk": "HIGH",
+    "status": "supported",
+    "wording_acceptable": true,
+    "recommended_wording": null,
+    "primary_source": {
+      "org": "Raising Children Network",
+      "title": "Choking: first aid",
+      "url": "https://raisingchildren.net.au/",
+      "date": "2024"
+    },
+    "supporting_source": {
+      "org": "Royal Children's Hospital Melbourne",
+      "title": "Kids Health Info: Choking",
+      "url": "https://www.rch.org.au/kidsinfo/fact_sheets/",
+      "date": "2024"
+    },
+    "evidence_summary": "Consistent with authoritative first-aid guidance: gagging is a normal, often noisy protective reflex as babies learn textures, whereas choking (airway obstruction) may be silent or show inability to breathe, cry or cough effectively and needs immediate first aid. Accurate and safety-appropriate.",
+    "limitations": "Educational; parents should learn infant choking first aid (e.g. via an accredited course).",
+    "reviewer_notes": "Accurate. Optional enhancement: add 'call 000 and start back blows/chest thrusts if your baby is choking'. Not required for accuracy.",
+    "last_verified": "2026-09-20",
+    "review_due": "2027-09-20"
+  },
+  {
+    "id": "CHILD-27",
+    "page_url": "https://dramandahenderson.com.au/articles/starting-solids-and-allergy-foods-calm-advice-for-parents",
+    "page_title": "Starting Solids and Allergy Foods: Calm Advice for Parents",
+    "claim_text": "Call 000 for signs of anaphylaxis such as breathing difficulty, swelling of the tongue or throat, collapse, persistent dizziness or a severe widespread reaction. Seek prompt medical care for repeated vomiting, poor feeding, dehydration, blood in stools or poor weight gain.",
+    "category": "red-flag/safety",
+    "risk": "HIGH",
+    "status": "supported",
+    "wording_acceptable": true,
+    "recommended_wording": null,
+    "primary_source": {
+      "org": "ASCIA",
+      "title": "ASCIA First Aid Plan for Anaphylaxis / signs of anaphylaxis",
+      "url": "https://www.allergy.org.au/hp/anaphylaxis/first-aid-for-anaphylaxis",
+      "date": "2024"
+    },
+    "supporting_source": {
+      "org": "healthdirect Australia",
+      "title": "Anaphylaxis",
+      "url": "https://www.healthdirect.gov.au/anaphylaxis",
+      "date": "2025"
+    },
+    "evidence_summary": "ASCIA lists signs of anaphylaxis including difficult/noisy breathing, swelling of the tongue, swelling/tightness in the throat, persistent dizziness or collapse, and (in young children) pale and floppy appearance, and directs to call an ambulance (000) and give adrenaline. The article's anaphylaxis red flags and 000 instruction match ASCIA. The additional 'seek prompt care' signs (repeated vomiting, poor feeding, dehydration, blood in stools, poor weight gain) are appropriate escalation triggers.",
+    "limitations": "Educational; families with known allergy should have an ASCIA Action Plan and adrenaline device.",
+    "reviewer_notes": "Accurate and correctly triaged to 000. No change needed.",
+    "last_verified": "2026-09-20",
+    "review_due": "2027-09-20"
+  },
+  {
+    "id": "CHILD-28",
+    "page_url": "https://dramandahenderson.com.au/articles/starting-solids-and-allergy-foods-calm-advice-for-parents",
+    "page_title": "Starting Solids and Allergy Foods: Calm Advice for Parents",
+    "claim_text": "For babies with severe eczema or previous reactions, the plan may need to be more cautious and coordinated. ... Can a GP help with eczema before solids? Yes. Improving eczema control can make feeding and allergy planning easier.",
+    "category": "infant feeding/allergy prevention (high-risk infant)",
+    "risk": "HIGH",
+    "status": "supported",
+    "wording_acceptable": true,
+    "recommended_wording": null,
+    "primary_source": {
+      "org": "ASCIA",
+      "title": "ASCIA Guideline: Infant Feeding for Food Allergy Prevention",
+      "url": "https://www.allergy.org.au/hp/papers/infant-feeding-and-allergy-prevention",
+      "date": "2026-01"
+    },
+    "supporting_source": null,
+    "evidence_summary": "ASCIA identifies infants with severe eczema and/or existing food allergy as higher risk and recommends they still introduce allergenic foods in the first year but may need medical advice/individualised plans before doing so. Managing eczema is part of good allergy-prevention care. The article's cautious, coordinated approach for these infants is accurate and safe, and correctly does NOT advise blanket delay or avoidance.",
+    "limitations": "High-risk infants should be individually assessed; article appropriately signposts GP involvement.",
+    "reviewer_notes": "Accurate and safe. No change needed.",
+    "last_verified": "2026-09-20",
+    "review_due": "2027-03-20"
+  },
+  {
+    "id": "CHILD-29",
+    "page_url": "https://dramandahenderson.com.au/articles/starting-solids-and-allergy-foods-calm-advice-for-parents",
+    "page_title": "Starting Solids and Allergy Foods: Calm Advice for Parents",
+    "claim_text": "Readiness signs: Signs a baby may be ready for solids, such as sitting with support and showing interest in food. Responsive feeding: Following a baby's cues for interest, hunger and fullness.",
+    "category": "definition/infant feeding",
+    "risk": "LOW",
+    "status": "supported",
+    "wording_acceptable": true,
+    "recommended_wording": null,
+    "primary_source": {
+      "org": "ASCIA",
+      "title": "How to Introduce Solid Foods to Babies",
+      "url": "https://www.allergy.org.au/patients/allergy-prevention/ascia-how-to-introduce-solid-foods-to-babies",
+      "date": "2026-01"
+    },
+    "supporting_source": {
+      "org": "Raising Children Network",
+      "title": "Introducing solids: why, when, what and how",
+      "url": "https://raisingchildren.net.au/",
+      "date": "2024"
+    },
+    "evidence_summary": "Readiness signs (able to sit with support and hold head steady, showing interest in food, reaching/opening mouth) and responsive feeding (following the baby's hunger/fullness cues) are standard descriptions consistent with ASCIA and Raising Children Network. Accurate.",
+    "limitations": "Plain-language definitions.",
+    "reviewer_notes": "Accurate. No change needed.",
+    "last_verified": "2026-09-20",
+    "review_due": "2027-09-20"
+  },
+  {
+    "id": "CHILD-30",
+    "page_url": "https://dramandahenderson.com.au/articles/baby-and-childhood-eczema-getting-the-basics-right",
+    "page_title": "Baby and Childhood Eczema: Getting the Basics Right",
+    "claim_text": "Emollient: A moisturiser used to repair and protect the skin barrier. Wet dressing: A technique sometimes used for more severe eczema under medical guidance.",
+    "category": "definition/treatment",
+    "risk": "LOW",
+    "status": "supported",
+    "wording_acceptable": true,
+    "recommended_wording": null,
+    "primary_source": {
+      "org": "Royal Children's Hospital Melbourne",
+      "title": "Clinical Practice Guidelines: Eczema (wet dressings)",
+      "url": "https://www.rch.org.au/clinicalguide/guideline_index/eczema/",
+      "date": "2024"
+    },
+    "supporting_source": null,
+    "evidence_summary": "Accurate: emollients repair/protect the skin barrier and are first-line; wet dressings (wet wraps) are used for more severe or resistant eczema and should be done with clinical guidance. Consistent with RCH.",
+    "limitations": "Plain-language definitions.",
+    "reviewer_notes": "Accurate. No change needed.",
+    "last_verified": "2026-09-20",
+    "review_due": "2027-09-20"
+  }
+]

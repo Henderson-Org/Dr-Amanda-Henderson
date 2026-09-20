@@ -1,0 +1,1006 @@
+[
+  {
+    "id": "PREG-01",
+    "page_url": "https://dramandahenderson.com.au/articles/perinatal-mental-health-when-pregnancy-or-new-parenthood-feels-hard",
+    "page_title": "Perinatal Mental Health: When Pregnancy or New Parenthood Feels Hard",
+    "claim_text": "Perinatal mental health concerns are common and can affect anyone, including people who usually cope well.",
+    "category": "perinatal mental health / prevalence",
+    "risk": "MODERATE",
+    "status": "supported",
+    "wording_acceptable": true,
+    "recommended_wording": null,
+    "primary_source": {
+      "org": "PANDA (Perinatal Anxiety & Depression Australia)",
+      "title": "About perinatal anxiety and depression",
+      "url": "https://www.panda.org.au/",
+      "date": "2025"
+    },
+    "supporting_source": {
+      "org": "Gidget Foundation Australia",
+      "title": "Perinatal depression and anxiety explained",
+      "url": "https://www.gidgetfoundation.org.au/what-is-pnda/perinatal-depression-and-anxiety-explained",
+      "date": "2025"
+    },
+    "evidence_summary": "Australian perinatal mental health bodies report perinatal anxiety and depression affect around 1 in 5 mothers and 1 in 10 fathers, i.e. common and able to affect anyone. The article's non-numeric framing ('common', 'can affect anyone') is well within the evidence.",
+    "limitations": "Article makes no numeric prevalence claim, so no specific statistic requires policing; exact rates vary by definition and screening tool.",
+    "reviewer_notes": "Voice and hedging appropriate; no change needed.",
+    "last_verified": "2026-09-20",
+    "review_due": "2028-09-20"
+  },
+  {
+    "id": "PREG-02",
+    "page_url": "https://dramandahenderson.com.au/articles/perinatal-mental-health-when-pregnancy-or-new-parenthood-feels-hard",
+    "page_title": "Perinatal Mental Health: When Pregnancy or New Parenthood Feels Hard",
+    "claim_text": "Medication decisions in pregnancy or breastfeeding should be individual and balanced; untreated illness also has risks. ... Can medication be used in pregnancy or breastfeeding? Sometimes. A GP can discuss risks and benefits and may involve a psychiatrist, obstetrician or perinatal mental health service.",
+    "category": "medication safety in pregnancy / perinatal mental health",
+    "risk": "HIGH",
+    "status": "supported",
+    "wording_acceptable": true,
+    "recommended_wording": null,
+    "primary_source": {
+      "org": "COPE (Centre of Perinatal Excellence)",
+      "title": "Mental Health Care in the Perinatal Period: Australian Clinical Practice Guideline",
+      "url": "https://www.cope.org.au/health-professionals/health-professionals-3/review-of-new-perinatal-mental-health-guidelines/",
+      "date": "2023"
+    },
+    "supporting_source": {
+      "org": "Pregnancy, Birth and Baby (Healthdirect)",
+      "title": "Mental health and pregnancy / medicines in pregnancy",
+      "url": "https://www.pregnancybirthbaby.org.au/",
+      "date": "2025"
+    },
+    "evidence_summary": "The article avoids naming specific drugs and correctly frames medication as an individualised risk-benefit decision to be made with a GP/specialist, and notes untreated illness also carries risk - consistent with COPE perinatal guideline principles. This is the safe, defensible way to phrase perinatal psychotropic use.",
+    "limitations": "No specific medication named, so no drug-level safety claim to verify. If future edits add named medications, each would need individual verification against Therapeutic Guidelines / product information.",
+    "reviewer_notes": "Strong, appropriately non-prescriptive wording. 'Discuss with your GP' framing already present.",
+    "last_verified": "2026-09-20",
+    "review_due": "2028-09-20"
+  },
+  {
+    "id": "PREG-03",
+    "page_url": "https://dramandahenderson.com.au/articles/perinatal-mental-health-when-pregnancy-or-new-parenthood-feels-hard",
+    "page_title": "Perinatal Mental Health: When Pregnancy or New Parenthood Feels Hard",
+    "claim_text": "Partners can also experience depression, anxiety and stress during pregnancy and after birth, and they should seek help too.",
+    "category": "perinatal mental health / prevalence",
+    "risk": "LOW",
+    "status": "supported",
+    "wording_acceptable": true,
+    "recommended_wording": null,
+    "primary_source": {
+      "org": "PANDA (Perinatal Anxiety & Depression Australia)",
+      "title": "About perinatal anxiety and depression - impact on dads/partners",
+      "url": "https://www.panda.org.au/",
+      "date": "2025"
+    },
+    "supporting_source": null,
+    "evidence_summary": "Australian data indicate around 1 in 10 new fathers experience postnatal depression; partners are recognised as affected by perinatal mental illness. Claim is accurate.",
+    "limitations": "None material.",
+    "reviewer_notes": "No change needed.",
+    "last_verified": "2026-09-20",
+    "review_due": "2028-09-20"
+  },
+  {
+    "id": "PREG-04",
+    "page_url": "https://dramandahenderson.com.au/articles/perinatal-mental-health-when-pregnancy-or-new-parenthood-feels-hard",
+    "page_title": "Perinatal Mental Health: When Pregnancy or New Parenthood Feels Hard",
+    "claim_text": "Seek urgent help now if you may harm yourself or your baby, ... you are hearing or seeing things others cannot, you feel extremely agitated or confused, or you have thoughts that command you to do things. Call 000 in an emergency or attend the nearest emergency department.",
+    "category": "safety-netting / red flags",
+    "risk": "MODERATE",
+    "status": "supported",
+    "wording_acceptable": true,
+    "recommended_wording": null,
+    "primary_source": {
+      "org": "COPE (Centre of Perinatal Excellence)",
+      "title": "Mental Health Care in the Perinatal Period: Australian Clinical Practice Guideline (postpartum psychosis / risk red flags)",
+      "url": "https://www.cope.org.au/",
+      "date": "2023"
+    },
+    "supporting_source": {
+      "org": "Healthdirect Australia",
+      "title": "Postnatal psychosis / when to get help",
+      "url": "https://www.healthdirect.gov.au/",
+      "date": "2025"
+    },
+    "evidence_summary": "The listed red flags (thoughts of self/infant harm, hallucinations, severe agitation/confusion, command thoughts) map to warning signs of postpartum psychosis and acute perinatal mental health emergencies; directing to 000/ED is correct.",
+    "limitations": "None material.",
+    "reviewer_notes": "Appropriate safety-netting.",
+    "last_verified": "2026-09-20",
+    "review_due": "2028-09-20"
+  },
+  {
+    "id": "PREG-05",
+    "page_url": "https://dramandahenderson.com.au/articles/perinatal-mental-health-when-pregnancy-or-new-parenthood-feels-hard",
+    "page_title": "Perinatal Mental Health: When Pregnancy or New Parenthood Feels Hard",
+    "claim_text": "A GP can ask about ... medical causes such as thyroid problems or iron deficiency.",
+    "category": "clinical assessment",
+    "risk": "LOW",
+    "status": "supported",
+    "wording_acceptable": true,
+    "recommended_wording": null,
+    "primary_source": {
+      "org": "RACGP",
+      "title": "Postnatal / perinatal mental health assessment (consideration of organic contributors)",
+      "url": "https://www.racgp.org.au/",
+      "date": "2024"
+    },
+    "supporting_source": null,
+    "evidence_summary": "Considering thyroid dysfunction and iron deficiency as physical contributors to perinatal low mood/fatigue is standard GP practice. Framed as things a GP 'can ask about', not a diagnosis.",
+    "limitations": "None material.",
+    "reviewer_notes": "No change needed.",
+    "last_verified": "2026-09-20",
+    "review_due": "2028-09-20"
+  },
+  {
+    "id": "PREG-06",
+    "page_url": "https://dramandahenderson.com.au/articles/positive-pregnancy-test-what-happens-at-the-first-gp-visit",
+    "page_title": "Positive Pregnancy Test: What Happens at the First GP Visit",
+    "claim_text": "Ectopic pregnancy: A pregnancy outside the uterus, which can be dangerous and needs urgent care if suspected.",
+    "category": "clinical definition / red flag",
+    "risk": "HIGH",
+    "status": "supported",
+    "wording_acceptable": true,
+    "recommended_wording": null,
+    "primary_source": {
+      "org": "Pregnancy, Birth and Baby (Healthdirect)",
+      "title": "Ectopic pregnancy",
+      "url": "https://www.pregnancybirthbaby.org.au/ectopic-pregnancy",
+      "date": "2025"
+    },
+    "supporting_source": null,
+    "evidence_summary": "Definition (implantation outside the uterine cavity) and characterisation as a potentially life-threatening emergency requiring urgent care are accurate.",
+    "limitations": "None material.",
+    "reviewer_notes": "No change needed.",
+    "last_verified": "2026-09-20",
+    "review_due": "2028-09-20"
+  },
+  {
+    "id": "PREG-07",
+    "page_url": "https://dramandahenderson.com.au/articles/positive-pregnancy-test-what-happens-at-the-first-gp-visit",
+    "page_title": "Positive Pregnancy Test: What Happens at the First GP Visit",
+    "claim_text": "Not every positive pregnancy test needs an immediate scan. Timing depends on dates, symptoms and risk factors. ... Often a home pregnancy test is enough to start care, but blood tests may be useful depending on symptoms, dates, risk factors.",
+    "category": "early pregnancy management",
+    "risk": "MODERATE",
+    "status": "supported",
+    "wording_acceptable": true,
+    "recommended_wording": null,
+    "primary_source": {
+      "org": "RANZCOG",
+      "title": "Pre-pregnancy / early pregnancy care guidance",
+      "url": "https://ranzcog.edu.au/",
+      "date": "2024"
+    },
+    "supporting_source": {
+      "org": "Pregnancy, Birth and Baby (Healthdirect)",
+      "title": "Ultrasound scans in pregnancy / dating scan",
+      "url": "https://www.pregnancybirthbaby.org.au/",
+      "date": "2025"
+    },
+    "evidence_summary": "Not all early pregnancies require immediate ultrasound; timing of dating scans and early bloods is individualised to dates, symptoms and risk. Consistent with standard AU antenatal practice.",
+    "limitations": "None material.",
+    "reviewer_notes": "Appropriately hedged ('may be useful', 'depends on').",
+    "last_verified": "2026-09-20",
+    "review_due": "2028-09-20"
+  },
+  {
+    "id": "PREG-08",
+    "page_url": "https://dramandahenderson.com.au/articles/positive-pregnancy-test-what-happens-at-the-first-gp-visit",
+    "page_title": "Positive Pregnancy Test: What Happens at the First GP Visit",
+    "claim_text": "Some medicines need to be stopped, changed or continued carefully. ... Do I need to stop my regular medicine? Do not stop important medication without advice.",
+    "category": "medication safety in pregnancy",
+    "risk": "HIGH",
+    "status": "supported",
+    "wording_acceptable": true,
+    "recommended_wording": null,
+    "primary_source": {
+      "org": "Therapeutic Guidelines / RACGP",
+      "title": "Prescribing in pregnancy - general principles",
+      "url": "https://www.tg.org.au/",
+      "date": "2024"
+    },
+    "supporting_source": {
+      "org": "Pregnancy, Birth and Baby (Healthdirect)",
+      "title": "Medicines during pregnancy",
+      "url": "https://www.pregnancybirthbaby.org.au/medicines-during-pregnancy",
+      "date": "2025"
+    },
+    "evidence_summary": "Advising patients not to stop important medication abruptly and to seek review is the correct, safe message; abrupt cessation of some drugs (e.g. antiepileptics, thyroid, antihypertensives) can be more dangerous than continuation. No specific drug named.",
+    "limitations": "General principle only; drug-specific advice would need individual verification if added.",
+    "reviewer_notes": "Excellent safe framing already present.",
+    "last_verified": "2026-09-20",
+    "review_due": "2028-09-20"
+  },
+  {
+    "id": "PREG-09",
+    "page_url": "https://dramandahenderson.com.au/articles/positive-pregnancy-test-what-happens-at-the-first-gp-visit",
+    "page_title": "Positive Pregnancy Test: What Happens at the First GP Visit",
+    "claim_text": "Seek urgent care for severe one-sided pelvic pain, shoulder-tip pain, dizziness or fainting, heavy bleeding, severe vomiting with dehydration, fever, chest pain, shortness of breath or feeling seriously unwell.",
+    "category": "safety-netting / red flags",
+    "risk": "MODERATE",
+    "status": "supported",
+    "wording_acceptable": true,
+    "recommended_wording": null,
+    "primary_source": {
+      "org": "Pregnancy, Birth and Baby (Healthdirect)",
+      "title": "Ectopic pregnancy / early pregnancy warning signs",
+      "url": "https://www.pregnancybirthbaby.org.au/ectopic-pregnancy",
+      "date": "2025"
+    },
+    "supporting_source": null,
+    "evidence_summary": "One-sided pelvic pain, shoulder-tip pain, syncope and heavy bleeding are classic ectopic/early-pregnancy emergency signs; hyperemesis with dehydration and systemic red flags correctly listed. Accurate.",
+    "limitations": "None material.",
+    "reviewer_notes": "No change needed.",
+    "last_verified": "2026-09-20",
+    "review_due": "2028-09-20"
+  },
+  {
+    "id": "PREG-10",
+    "page_url": "https://dramandahenderson.com.au/articles/positive-pregnancy-test-what-happens-at-the-first-gp-visit",
+    "page_title": "Positive Pregnancy Test: What Happens at the First GP Visit",
+    "claim_text": "Many people can continue appropriate exercise in pregnancy, but advice depends on your health, symptoms and pregnancy risk. Ask your GP if you are unsure.",
+    "category": "lifestyle in pregnancy",
+    "risk": "LOW",
+    "status": "supported",
+    "wording_acceptable": true,
+    "recommended_wording": null,
+    "primary_source": {
+      "org": "RANZCOG",
+      "title": "Exercise during pregnancy",
+      "url": "https://ranzcog.edu.au/womens-health/patient-information-resources/",
+      "date": "2024"
+    },
+    "supporting_source": null,
+    "evidence_summary": "RANZCOG supports regular appropriate physical activity in most uncomplicated pregnancies with individualised advice. Claim is well hedged.",
+    "limitations": "None material.",
+    "reviewer_notes": "No change needed.",
+    "last_verified": "2026-09-20",
+    "review_due": "2028-09-20"
+  },
+  {
+    "id": "PREG-11",
+    "page_url": "https://dramandahenderson.com.au/articles/pregnancy-safety-food-medicines-vaccines-and-everyday-questions",
+    "page_title": "Pregnancy Safety: Food, Medicines, Vaccines and Everyday Questions",
+    "claim_text": "Listeria: A bacteria that can cause foodborne illness and is more concerning in pregnancy.",
+    "category": "food safety in pregnancy",
+    "risk": "HIGH",
+    "status": "supported",
+    "wording_acceptable": true,
+    "recommended_wording": null,
+    "primary_source": {
+      "org": "Food Standards Australia New Zealand (FSANZ)",
+      "title": "Listeria in food",
+      "url": "https://www.foodstandards.gov.au/consumer/prevention-of-foodborne-illness/bacteria-foodborne-illness/listeria",
+      "date": "2025"
+    },
+    "supporting_source": {
+      "org": "NSW Food Authority",
+      "title": "Listeria and pregnancy",
+      "url": "https://www.foodauthority.nsw.gov.au/",
+      "date": "2024"
+    },
+    "evidence_summary": "FSANZ confirms Listeria monocytogenes is a foodborne bacterium of particular concern in pregnancy (risk of miscarriage, preterm birth, stillbirth). The article's general definition is accurate and does not overstate.",
+    "limitations": "Article gives no specific food list, deferring to 'current Australian guidance' - which is the safest approach as lists are periodically updated by FSANZ.",
+    "reviewer_notes": "Deferring the specific avoid-list to current AU guidance is the right call; no change needed.",
+    "last_verified": "2026-09-20",
+    "review_due": "2028-09-20"
+  },
+  {
+    "id": "PREG-12",
+    "page_url": "https://dramandahenderson.com.au/articles/pregnancy-safety-food-medicines-vaccines-and-everyday-questions",
+    "page_title": "Pregnancy Safety: Food, Medicines, Vaccines and Everyday Questions",
+    "claim_text": "Some vaccines are recommended in pregnancy because they protect the pregnant person and baby. ... You want to discuss influenza, COVID or whooping cough vaccination.",
+    "category": "vaccine recommendations in pregnancy",
+    "risk": "HIGH",
+    "status": "supported",
+    "wording_acceptable": true,
+    "recommended_wording": null,
+    "primary_source": {
+      "org": "Australian Immunisation Handbook (Dept of Health, Disability & Ageing / ATAGI)",
+      "title": "Vaccination for women who are planning pregnancy, pregnant or breastfeeding",
+      "url": "https://immunisationhandbook.health.gov.au/vaccination-for-women-who-are-planning-pregnancy-pregnant-or-breastfeeding",
+      "date": "2025"
+    },
+    "supporting_source": {
+      "org": "Dept of Health, Disability & Ageing",
+      "title": "Immunisation for pregnancy",
+      "url": "https://www.health.gov.au/topics/immunisation/when-to-get-vaccinated/immunisation-for-pregnancy",
+      "date": "2025"
+    },
+    "evidence_summary": "Influenza, pertussis (dTpa) and COVID-19 are recommended in pregnancy; RSV (Abrysvo) added to the NIP for pregnant women in 2025. Article's general statement that some vaccines are recommended to protect parent and baby is accurate.",
+    "limitations": "WebFetch of handbook returned transient HTTP 503; content and URL validity confirmed via NCIRS 2025 pertussis factsheet and health.gov.au. Recommendations change - re-verify at review.",
+    "reviewer_notes": "Article wisely defers timing to 'your GP', avoiding date-specific claims.",
+    "last_verified": "2026-09-20",
+    "review_due": "2027-09-20"
+  },
+  {
+    "id": "PREG-13",
+    "page_url": "https://dramandahenderson.com.au/articles/pregnancy-safety-food-medicines-vaccines-and-everyday-questions",
+    "page_title": "Pregnancy Safety: Food, Medicines, Vaccines and Everyday Questions",
+    "claim_text": "They can also advise on recommended vaccines in pregnancy, timing of whooping cough vaccination, and what to do if you are exposed to chickenpox, rubella, COVID, influenza or gastroenteritis.",
+    "category": "vaccine recommendations in pregnancy",
+    "risk": "MODERATE",
+    "status": "supported",
+    "wording_acceptable": true,
+    "recommended_wording": null,
+    "primary_source": {
+      "org": "NCIRS",
+      "title": "Pertussis vaccines for Australians (factsheet)",
+      "url": "https://ncirs.org.au/sites/default/files/2025-03/Pertussis%20factsheet_3%20March%202025.pdf",
+      "date": "2025-03"
+    },
+    "supporting_source": {
+      "org": "Australian Immunisation Handbook",
+      "title": "Pertussis (whooping cough)",
+      "url": "https://immunisationhandbook.health.gov.au/contents/vaccine-preventable-diseases/pertussis-whooping-cough",
+      "date": "2025"
+    },
+    "evidence_summary": "Whooping cough (dTpa) is recommended as a single dose every pregnancy, ideally 20-32 weeks' gestation, to maximise antibody transfer. Article correctly refers only to 'timing' without stating specific weeks, so cannot become outdated.",
+    "limitations": "Timing (20-32 weeks) is current as of 2025; if the article ever states specific weeks, re-verify against the Handbook.",
+    "reviewer_notes": "No change; deferring exact timing to the GP is defensible and durable.",
+    "last_verified": "2026-09-20",
+    "review_due": "2027-09-20"
+  },
+  {
+    "id": "PREG-14",
+    "page_url": "https://dramandahenderson.com.au/articles/pregnancy-safety-food-medicines-vaccines-and-everyday-questions",
+    "page_title": "Pregnancy Safety: Food, Medicines, Vaccines and Everyday Questions",
+    "claim_text": "Can I take over-the-counter medicine in pregnancy? Do not assume it is safe just because it is sold without a prescription. Check with a GP or pharmacist, especially in early pregnancy.",
+    "category": "medication safety in pregnancy",
+    "risk": "HIGH",
+    "status": "supported",
+    "wording_acceptable": true,
+    "recommended_wording": null,
+    "primary_source": {
+      "org": "Therapeutic Guidelines",
+      "title": "Medicines in pregnancy - general principles",
+      "url": "https://www.tg.org.au/",
+      "date": "2024"
+    },
+    "supporting_source": {
+      "org": "Pregnancy, Birth and Baby (Healthdirect)",
+      "title": "Medicines during pregnancy",
+      "url": "https://www.pregnancybirthbaby.org.au/medicines-during-pregnancy",
+      "date": "2025"
+    },
+    "evidence_summary": "Correctly warns that OTC status does not equal pregnancy safety (e.g. NSAIDs contraindicated later in pregnancy) and directs to GP/pharmacist. Ideal 'discuss with your GP or pharmacist' framing.",
+    "limitations": "None material.",
+    "reviewer_notes": "Model wording for medication-safety pages.",
+    "last_verified": "2026-09-20",
+    "review_due": "2028-09-20"
+  },
+  {
+    "id": "PREG-15",
+    "page_url": "https://dramandahenderson.com.au/articles/pregnancy-safety-food-medicines-vaccines-and-everyday-questions",
+    "page_title": "Pregnancy Safety: Food, Medicines, Vaccines and Everyday Questions",
+    "claim_text": "Should I stop my regular medicine when I find out I am pregnant? Do not stop important medication without advice unless you have been told to. Some untreated conditions are riskier than the medicine itself.",
+    "category": "medication safety in pregnancy",
+    "risk": "HIGH",
+    "status": "supported",
+    "wording_acceptable": true,
+    "recommended_wording": null,
+    "primary_source": {
+      "org": "Therapeutic Guidelines / RACGP",
+      "title": "Prescribing in pregnancy",
+      "url": "https://www.tg.org.au/",
+      "date": "2024"
+    },
+    "supporting_source": null,
+    "evidence_summary": "Accurate and important safety message; abrupt cessation of medication for conditions such as epilepsy, asthma, thyroid disease or mental illness can pose greater risk than continuation. Balanced.",
+    "limitations": "None material.",
+    "reviewer_notes": "No change needed.",
+    "last_verified": "2026-09-20",
+    "review_due": "2028-09-20"
+  },
+  {
+    "id": "PREG-16",
+    "page_url": "https://dramandahenderson.com.au/articles/pregnancy-safety-food-medicines-vaccines-and-everyday-questions",
+    "page_title": "Pregnancy Safety: Food, Medicines, Vaccines and Everyday Questions",
+    "claim_text": "Seek urgent help for ... reduced fetal movements later in pregnancy.",
+    "category": "safety-netting / red flags",
+    "risk": "MODERATE",
+    "status": "supported",
+    "wording_acceptable": true,
+    "recommended_wording": null,
+    "primary_source": {
+      "org": "RANZCOG / Safer Baby (Stillbirth CRE)",
+      "title": "Decreased fetal movements",
+      "url": "https://ranzcog.edu.au/",
+      "date": "2024"
+    },
+    "supporting_source": {
+      "org": "Pregnancy, Birth and Baby (Healthdirect)",
+      "title": "Your baby's movements during pregnancy",
+      "url": "https://www.pregnancybirthbaby.org.au/",
+      "date": "2025"
+    },
+    "evidence_summary": "Reduced fetal movements later in pregnancy is an established red flag warranting urgent assessment; correctly listed. Accurate.",
+    "limitations": "None material.",
+    "reviewer_notes": "No change needed.",
+    "last_verified": "2026-09-20",
+    "review_due": "2028-09-20"
+  },
+  {
+    "id": "PREG-17",
+    "page_url": "https://dramandahenderson.com.au/articles/pregnancy-safety-food-medicines-vaccines-and-everyday-questions",
+    "page_title": "Pregnancy Safety: Food, Medicines, Vaccines and Everyday Questions",
+    "claim_text": "What foods should I avoid? Food safety advice focuses on reducing infection risk. Your GP can point you to current Australian guidance and help with practical swaps.",
+    "category": "food safety in pregnancy",
+    "risk": "MODERATE",
+    "status": "supported",
+    "wording_acceptable": true,
+    "recommended_wording": null,
+    "primary_source": {
+      "org": "Food Standards Australia New Zealand (FSANZ)",
+      "title": "Listeria and food / pregnancy and food safety",
+      "url": "https://www.foodstandards.gov.au/consumer/prevention-of-foodborne-illness/bacteria-foodborne-illness/listeria",
+      "date": "2025"
+    },
+    "supporting_source": null,
+    "evidence_summary": "By deferring to 'current Australian guidance' rather than listing specific foods, the article avoids stating an out-of-date avoid-list - the safest approach for a durable page.",
+    "limitations": "None material.",
+    "reviewer_notes": "No change; deferral to current guidance is best practice.",
+    "last_verified": "2026-09-20",
+    "review_due": "2028-09-20"
+  },
+  {
+    "id": "PREG-18",
+    "page_url": "https://dramandahenderson.com.au/articles/shared-antenatal-care-with-a-gp-and-the-royal-hospital-for-women",
+    "page_title": "Shared Antenatal Care With a GP and the Royal Hospital for Women",
+    "claim_text": "Dr Amanda Henderson provides shared pregnancy care with the Royal Hospital for Women in Randwick.",
+    "category": "practitioner affiliation / service claim",
+    "risk": "HIGH",
+    "status": "needs_review",
+    "wording_acceptable": false,
+    "recommended_wording": "Only retain this exact wording if Dr Henderson is a currently registered/accredited GP in the Royal Hospital for Women GP Shared Antenatal Care program. If registration is pending or not held, use: 'Dr Amanda Henderson can provide GP shared antenatal care and can discuss the Royal Hospital for Women shared care pathway with you.'",
+    "primary_source": {
+      "org": "SESLHD - Royal Hospital for Women",
+      "title": "Royal Hospital for Women (Midwives Clinic and GP Shared Care)",
+      "url": "https://www.seslhd.health.nsw.gov.au/royal-hospital-for-women",
+      "date": "2025"
+    },
+    "supporting_source": null,
+    "evidence_summary": "The RHW page loads and RHW operates a recognised GP Shared Care model. However, whether Dr Henderson is individually registered/accredited in that specific program is a factual business claim that cannot be verified from public sources and must be confirmed internally.",
+    "limitations": "This is a verifiable factual/credentialing claim, not a clinical one. If she is not an accredited RHW shared-care GP, an unqualified 'provides shared care with RHW' statement risks being misleading under AHPRA advertising guidelines and Australian Consumer Law.",
+    "reviewer_notes": "AHPRA/ACL FLAG: confirm current RHW GP Shared Care accreditation and keep documentary proof on file; otherwise soften to a capability statement. Same claim repeated in intro and closing paragraph of this page.",
+    "last_verified": "2026-09-20",
+    "review_due": "2027-09-20"
+  },
+  {
+    "id": "PREG-19",
+    "page_url": "https://dramandahenderson.com.au/articles/shared-antenatal-care-with-a-gp-and-the-royal-hospital-for-women",
+    "page_title": "Shared Antenatal Care With a GP and the Royal Hospital for Women",
+    "claim_text": "It is not suitable for every pregnancy, and some women need obstetric, specialist or hospital-led care from the start or if complications develop. ... Some medical histories or pregnancy complications mean hospital-led or specialist care is safer.",
+    "category": "model-of-care suitability",
+    "risk": "MODERATE",
+    "status": "supported",
+    "wording_acceptable": true,
+    "recommended_wording": null,
+    "primary_source": {
+      "org": "RANZCOG",
+      "title": "Antenatal care / risk assessment and models of care",
+      "url": "https://ranzcog.edu.au/",
+      "date": "2024"
+    },
+    "supporting_source": {
+      "org": "Pregnancy, Birth and Baby (Healthdirect)",
+      "title": "Shared antenatal care",
+      "url": "https://www.pregnancybirthbaby.org.au/",
+      "date": "2025"
+    },
+    "evidence_summary": "Correctly states GP shared care is only appropriate for low-risk pregnancies and that higher-risk pregnancies need obstetric/hospital-led care - consistent with RANZCOG risk-stratified models of care.",
+    "limitations": "None material.",
+    "reviewer_notes": "Good, safety-conscious hedging.",
+    "last_verified": "2026-09-20",
+    "review_due": "2028-09-20"
+  },
+  {
+    "id": "PREG-20",
+    "page_url": "https://dramandahenderson.com.au/articles/shared-antenatal-care-with-a-gp-and-the-royal-hospital-for-women",
+    "page_title": "Shared Antenatal Care With a GP and the Royal Hospital for Women",
+    "claim_text": "Does shared care mean my GP delivers the baby? No. With shared care, your GP provides some antenatal care, but labour and birth care are provided by the hospital maternity team.",
+    "category": "model-of-care description",
+    "risk": "LOW",
+    "status": "supported",
+    "wording_acceptable": true,
+    "recommended_wording": null,
+    "primary_source": {
+      "org": "Pregnancy, Birth and Baby (Healthdirect)",
+      "title": "Shared antenatal care",
+      "url": "https://www.pregnancybirthbaby.org.au/",
+      "date": "2025"
+    },
+    "supporting_source": null,
+    "evidence_summary": "Accurate description of GP shared care: GP shares antenatal visits; labour and birth are managed by the hospital team.",
+    "limitations": "None material.",
+    "reviewer_notes": "No change needed.",
+    "last_verified": "2026-09-20",
+    "review_due": "2028-09-20"
+  },
+  {
+    "id": "PREG-21",
+    "page_url": "https://dramandahenderson.com.au/articles/shared-antenatal-care-with-a-gp-and-the-royal-hospital-for-women",
+    "page_title": "Shared Antenatal Care With a GP and the Royal Hospital for Women",
+    "claim_text": "Your GP can help confirm dates, request early blood tests, review medications, discuss nausea and fatigue, check blood pressure, organise referrals, talk about vaccines, screen for mental health concerns, and explain early warning symptoms. ... measure your abdomen when appropriate.",
+    "category": "scope of GP antenatal care",
+    "risk": "LOW",
+    "status": "supported",
+    "wording_acceptable": true,
+    "recommended_wording": null,
+    "primary_source": {
+      "org": "RACGP",
+      "title": "GP antenatal shared care - scope",
+      "url": "https://www.racgp.org.au/",
+      "date": "2024"
+    },
+    "supporting_source": null,
+    "evidence_summary": "Describes standard, in-scope GP antenatal tasks (dating, bloods, BP, symphysis-fundal measurement, mental health screening, vaccines, referrals). Accurate and appropriately hedged ('when appropriate').",
+    "limitations": "None material.",
+    "reviewer_notes": "No change needed.",
+    "last_verified": "2026-09-20",
+    "review_due": "2028-09-20"
+  },
+  {
+    "id": "PREG-22",
+    "page_url": "https://dramandahenderson.com.au/articles/the-six-week-postnatal-check-looking-after-mother-and-baby",
+    "page_title": "The Six-Week Postnatal Check: Looking After Mother and Baby",
+    "claim_text": "When should contraception be discussed? At the postnatal check or earlier if needed. Fertility can return before periods restart, including during breastfeeding for some people.",
+    "category": "postnatal contraception / fertility",
+    "risk": "MODERATE",
+    "status": "supported",
+    "wording_acceptable": true,
+    "recommended_wording": null,
+    "primary_source": {
+      "org": "Family Planning Australia / RACGP",
+      "title": "Contraception after having a baby",
+      "url": "https://www.fpnsw.org.au/",
+      "date": "2024"
+    },
+    "supporting_source": {
+      "org": "Pregnancy, Birth and Baby (Healthdirect)",
+      "title": "Contraception after birth",
+      "url": "https://www.pregnancybirthbaby.org.au/contraception-after-having-a-baby",
+      "date": "2025"
+    },
+    "evidence_summary": "Correct: ovulation can precede the first postpartum period, and lactational amenorrhoea is not fully reliable, so fertility can return during breastfeeding. Well hedged ('for some people').",
+    "limitations": "None material.",
+    "reviewer_notes": "No change needed.",
+    "last_verified": "2026-09-20",
+    "review_due": "2028-09-20"
+  },
+  {
+    "id": "PREG-23",
+    "page_url": "https://dramandahenderson.com.au/articles/the-six-week-postnatal-check-looking-after-mother-and-baby",
+    "page_title": "The Six-Week Postnatal Check: Looking After Mother and Baby",
+    "claim_text": "Seek urgent help for heavy bleeding, fever, severe abdominal pain, worsening wound redness or discharge, chest pain, shortness of breath, calf swelling, severe headache, thoughts of self-harm, thoughts of harming the baby, or a baby who is floppy, blue, very difficult to wake, not feeding, dehydrated or having breathing difficulty.",
+    "category": "safety-netting / red flags",
+    "risk": "MODERATE",
+    "status": "supported",
+    "wording_acceptable": true,
+    "recommended_wording": null,
+    "primary_source": {
+      "org": "Pregnancy, Birth and Baby (Healthdirect)",
+      "title": "Your body after birth / postnatal warning signs",
+      "url": "https://www.pregnancybirthbaby.org.au/",
+      "date": "2025"
+    },
+    "supporting_source": {
+      "org": "Raising Children Network",
+      "title": "Newborn warning signs / when to seek help",
+      "url": "https://raisingchildren.net.au/",
+      "date": "2025"
+    },
+    "evidence_summary": "Maternal red flags (postpartum haemorrhage, sepsis, VTE signs - calf swelling/chest pain/SOB, pre-eclampsia headache, self/infant-harm thoughts) and neonatal red flags (floppy, cyanosis, poor feeding, respiratory distress) are all appropriate. Accurate.",
+    "limitations": "None material.",
+    "reviewer_notes": "Thorough and accurate safety-netting.",
+    "last_verified": "2026-09-20",
+    "review_due": "2028-09-20"
+  },
+  {
+    "id": "PREG-24",
+    "page_url": "https://dramandahenderson.com.au/articles/the-six-week-postnatal-check-looking-after-mother-and-baby",
+    "page_title": "The Six-Week Postnatal Check: Looking After Mother and Baby",
+    "claim_text": "For the baby, it may cover feeding, weight, growth, jaundice, skin, hips, eyes, heart, development, sleep, unsettled behaviour and immunisations.",
+    "category": "infant health check scope",
+    "risk": "LOW",
+    "status": "supported",
+    "wording_acceptable": true,
+    "recommended_wording": null,
+    "primary_source": {
+      "org": "NSW Health",
+      "title": "Personal Health Record (blue book) - child health checks",
+      "url": "https://www.health.nsw.gov.au/kidsfamilies/MCFhealth/Pages/child-blue-book.aspx",
+      "date": "2024"
+    },
+    "supporting_source": {
+      "org": "Raising Children Network",
+      "title": "Health checks for babies",
+      "url": "https://raisingchildren.net.au/",
+      "date": "2025"
+    },
+    "evidence_summary": "Standard 6-8 week infant review components (growth, jaundice, hip check, red reflex/eyes, heart auscultation, development, immunisations) are correctly described as things the check 'may cover'.",
+    "limitations": "None material.",
+    "reviewer_notes": "No change needed.",
+    "last_verified": "2026-09-20",
+    "review_due": "2028-09-20"
+  },
+  {
+    "id": "PREG-25",
+    "page_url": "https://dramandahenderson.com.au/articles/the-six-week-postnatal-check-looking-after-mother-and-baby",
+    "page_title": "The Six-Week Postnatal Check: Looking After Mother and Baby",
+    "claim_text": "Can I talk about mental health at the postnatal check? Yes. Anxiety, depression, intrusive thoughts and feeling overwhelmed are common and treatable. You do not need to wait until you are in crisis.",
+    "category": "perinatal mental health",
+    "risk": "MODERATE",
+    "status": "supported",
+    "wording_acceptable": true,
+    "recommended_wording": null,
+    "primary_source": {
+      "org": "COPE (Centre of Perinatal Excellence)",
+      "title": "Perinatal mental health - postnatal",
+      "url": "https://www.cope.org.au/",
+      "date": "2023"
+    },
+    "supporting_source": {
+      "org": "PANDA",
+      "title": "Postnatal anxiety and depression",
+      "url": "https://www.panda.org.au/",
+      "date": "2025"
+    },
+    "evidence_summary": "Postnatal anxiety/depression and intrusive thoughts are common and treatable; encouraging early help-seeking aligns with COPE guidance and universal perinatal screening recommendations.",
+    "limitations": "None material.",
+    "reviewer_notes": "No change needed.",
+    "last_verified": "2026-09-20",
+    "review_due": "2028-09-20"
+  },
+  {
+    "id": "PREG-26",
+    "page_url": "https://dramandahenderson.com.au/articles/when-should-i-see-a-gp-before-trying-for-a-baby",
+    "page_title": "When Should I See a GP Before Trying for a Baby?",
+    "claim_text": "You should ideally see a GP 3 to 6 months before trying for a baby ... The best time to book is usually 3 to 6 months before trying to conceive, but it is still worthwhile even if you are already trying.",
+    "category": "preconception care timing",
+    "risk": "MODERATE",
+    "status": "supported",
+    "wording_acceptable": true,
+    "recommended_wording": null,
+    "primary_source": {
+      "org": "RANZCOG",
+      "title": "Planning for Pregnancy",
+      "url": "https://ranzcog.edu.au/wp-content/uploads/Planning-for-Pregnancy.pdf",
+      "date": "2016"
+    },
+    "supporting_source": {
+      "org": "Pregnancy, Birth and Baby (Healthdirect)",
+      "title": "Planning for pregnancy / preconception health",
+      "url": "https://www.pregnancybirthbaby.org.au/planning-for-pregnancy",
+      "date": "2025"
+    },
+    "evidence_summary": "A preconception review a few months ahead (commonly framed as at least 3 months, allowing folate/vaccine/medication optimisation) is standard AU advice; '3 to 6 months' is a reasonable, non-absolute range and the article softens it with 'ideally' and notes it is still worthwhile if already trying.",
+    "limitations": "The precise '3 to 6 months' figure is a reasonable convention rather than a single fixed guideline number; the surrounding hedging keeps it defensible.",
+    "reviewer_notes": "'Ideally' framing already appropriate; no change needed.",
+    "last_verified": "2026-09-20",
+    "review_due": "2028-09-20"
+  },
+  {
+    "id": "PREG-27",
+    "page_url": "https://dramandahenderson.com.au/articles/when-should-i-see-a-gp-before-trying-for-a-baby",
+    "page_title": "When Should I See a GP Before Trying for a Baby?",
+    "claim_text": "Many women are advised to start folic acid before conception and continue it in early pregnancy. ... Your GP can advise on dose and whether you need a higher-dose folic acid plan based on your personal risk factors.",
+    "category": "supplement dosing (folate)",
+    "risk": "HIGH",
+    "status": "supported",
+    "wording_acceptable": true,
+    "recommended_wording": null,
+    "primary_source": {
+      "org": "Queensland Health",
+      "title": "Before the baby bump - supplements (folic acid and iodine)",
+      "url": "https://hw.qld.gov.au/beforethebabybump/supplements/",
+      "date": "2025"
+    },
+    "supporting_source": {
+      "org": "RANZCOG",
+      "title": "Pre-Pregnancy Counselling (C-Obs 3a)",
+      "url": "https://ranzcog.edu.au/wp-content/uploads/Pre-Pregnancy-Counselling.pdf",
+      "date": "2019"
+    },
+    "evidence_summary": "Standard AU advice: folic acid 400-500 micrograms daily from at least 1 month (ideally ~3 months) before conception through the first trimester, with a higher dose (commonly 5 mg) for higher-NTD-risk women (e.g. previous NTD, diabetes, some antiepileptics, higher BMI, B12 deficiency). Article deliberately gives no numeric dose and refers dose decisions to the GP - fully defensible and cannot become outdated.",
+    "limitations": "Article states no specific microgram/mg figure, so there is nothing to over-state; if a specific dose is ever added, verify against current QLD Health / RANZCOG values.",
+    "reviewer_notes": "Deferring exact dose to the GP is the safest approach for a high-risk supplement claim. No change needed.",
+    "last_verified": "2026-09-20",
+    "review_due": "2028-09-20"
+  },
+  {
+    "id": "PREG-28",
+    "page_url": "https://dramandahenderson.com.au/articles/when-should-i-see-a-gp-before-trying-for-a-baby",
+    "page_title": "When Should I See a GP Before Trying for a Baby?",
+    "claim_text": "Iodine is also commonly recommended before and during pregnancy, although people with thyroid disease should seek medical advice before taking iodine.",
+    "category": "supplement dosing (iodine)",
+    "risk": "HIGH",
+    "status": "supported",
+    "wording_acceptable": true,
+    "recommended_wording": null,
+    "primary_source": {
+      "org": "Queensland Health",
+      "title": "Before the baby bump - supplements (iodine 150 micrograms)",
+      "url": "https://hw.qld.gov.au/beforethebabybump/supplements/",
+      "date": "2025"
+    },
+    "supporting_source": {
+      "org": "RANZCOG",
+      "title": "Pre-Pregnancy Counselling (C-Obs 3a) / iodine 150 micrograms daily",
+      "url": "https://ranzcog.edu.au/wp-content/uploads/Pre-Pregnancy-Counselling.pdf",
+      "date": "2019"
+    },
+    "evidence_summary": "Iodine 150 micrograms daily is recommended before, during and after pregnancy in Australia; the caveat that people with thyroid disease should seek medical advice first is correct and clinically important. Accurate and appropriately caveated.",
+    "limitations": "Article gives no numeric dose, so no figure to over-state; the thyroid caveat is the key safety element and is present.",
+    "reviewer_notes": "Thyroid caveat correctly included - important AHPRA-safe detail. No change needed.",
+    "last_verified": "2026-09-20",
+    "review_due": "2028-09-20"
+  },
+  {
+    "id": "PREG-29",
+    "page_url": "https://dramandahenderson.com.au/articles/when-should-i-see-a-gp-before-trying-for-a-baby",
+    "page_title": "When Should I See a GP Before Trying for a Baby?",
+    "claim_text": "Some vaccines are ideally given before pregnancy, and pregnancy may need to be avoided for a short time after certain live vaccines.",
+    "category": "vaccine recommendations (live vaccines, preconception)",
+    "risk": "HIGH",
+    "status": "supported",
+    "wording_acceptable": true,
+    "recommended_wording": null,
+    "primary_source": {
+      "org": "Australian Immunisation Handbook (ATAGI)",
+      "title": "Vaccination for women who are planning pregnancy, pregnant or breastfeeding",
+      "url": "https://immunisationhandbook.health.gov.au/vaccination-for-women-who-are-planning-pregnancy-pregnant-or-breastfeeding",
+      "date": "2025"
+    },
+    "supporting_source": {
+      "org": "Australian Immunisation Handbook",
+      "title": "Table: live attenuated vaccines contraindicated in pregnancy / 28-day interval",
+      "url": "https://immunisationhandbook.health.gov.au/resources/tables/table-vaccines-that-are-contraindicated-in-pregnancy-live-attenuated-vaccines",
+      "date": "2025"
+    },
+    "evidence_summary": "MMR and varicella are live vaccines contraindicated in pregnancy; ATAGI advises avoiding pregnancy for 28 days after these vaccines. Article's phrase 'a short time' is accurate and durable (does not state the exact interval).",
+    "limitations": "WebFetch of the Handbook returned transient HTTP 503; URL validity and 28-day interval confirmed via Handbook varicella/rubella pages and search indexing. Re-verify interval at review.",
+    "reviewer_notes": "'A short time' avoids stating a number that could change; defensible. No change needed.",
+    "last_verified": "2026-09-20",
+    "review_due": "2027-09-20"
+  },
+  {
+    "id": "PREG-30",
+    "page_url": "https://dramandahenderson.com.au/articles/when-should-i-see-a-gp-before-trying-for-a-baby",
+    "page_title": "When Should I See a GP Before Trying for a Baby?",
+    "claim_text": "Your GP can also discuss pregnancy vaccines that are recommended later in pregnancy, including influenza, pertussis, COVID-19, and RSV where relevant.",
+    "category": "vaccine recommendations in pregnancy",
+    "risk": "HIGH",
+    "status": "changed",
+    "wording_acceptable": false,
+    "recommended_wording": "Your GP can also discuss vaccines recommended in pregnancy. Some, such as whooping cough (pertussis) and RSV, are given at particular times later in pregnancy, while influenza and COVID-19 can be given at any stage. Your GP can advise on what is recommended for you and when.",
+    "primary_source": {
+      "org": "Australian Immunisation Handbook (ATAGI)",
+      "title": "Vaccination for women who are planning pregnancy, pregnant or breastfeeding",
+      "url": "https://immunisationhandbook.health.gov.au/vaccination-for-women-who-are-planning-pregnancy-pregnant-or-breastfeeding",
+      "date": "2025"
+    },
+    "supporting_source": {
+      "org": "NCIRS",
+      "title": "Pertussis vaccines for Australians (factsheet, dTpa 20-32 weeks; RSV from 28 weeks)",
+      "url": "https://ncirs.org.au/sites/default/files/2025-03/Pertussis%20factsheet_3%20March%202025.pdf",
+      "date": "2025-03"
+    },
+    "evidence_summary": "Pertussis (dTpa, ideally 20-32 weeks) and RSV (Abrysvo, from 28 weeks, ideally before 36 weeks) are indeed given 'later in pregnancy'. However, influenza and COVID-19 are recommended at ANY stage of pregnancy, not specifically 'later'. Grouping influenza and COVID-19 under 'recommended later in pregnancy' is imprecise and could lead someone to delay flu/COVID vaccination.",
+    "limitations": "All four vaccines are correctly identified as recommended in pregnancy; the only issue is the timing qualifier 'later in pregnancy' being over-applied to influenza and COVID-19. RSV maternal vaccine (Abrysvo) was added to the NIP in 2025 - re-verify at review.",
+    "reviewer_notes": "Low-severity but genuine timing overstatement. Suggested rewrite separates any-stage vaccines (flu, COVID) from later-pregnancy vaccines (pertussis, RSV) while keeping the warm, GP-referring voice. [Implemented 2026-09-20; applied to site - see corresponding IND entry.]",
+    "last_verified": "2026-09-20",
+    "review_due": "2027-09-20"
+  },
+  {
+    "id": "PREG-31",
+    "page_url": "https://dramandahenderson.com.au/articles/when-should-i-see-a-gp-before-trying-for-a-baby",
+    "page_title": "When Should I See a GP Before Trying for a Baby?",
+    "claim_text": "As a general guide, speak with your GP if: you are under 35 and have been trying for 12 months without conceiving; you are 35 or older and have been trying for 6 months without conceiving.",
+    "category": "fertility timing / when to seek advice",
+    "risk": "HIGH",
+    "status": "supported",
+    "wording_acceptable": true,
+    "recommended_wording": null,
+    "primary_source": {
+      "org": "RANZCOG",
+      "title": "Pre-Pregnancy Counselling (C-Obs 3a) / fertility assessment thresholds",
+      "url": "https://ranzcog.edu.au/wp-content/uploads/Pre-Pregnancy-Counselling.pdf",
+      "date": "2019"
+    },
+    "supporting_source": {
+      "org": "Pregnancy, Birth and Baby (Healthdirect)",
+      "title": "Trying for pregnancy after 35 / infertility",
+      "url": "https://www.pregnancybirthbaby.org.au/trying-for-pregnancy-after-35",
+      "date": "2025"
+    },
+    "evidence_summary": "Standard AU/international thresholds for infertility assessment: 12 months of trying if under 35, 6 months if 35 or older (and earlier if known risk factors). Article matches guidance and frames it as 'a general guide'. Accurate.",
+    "limitations": "None material; thresholds are stable and widely endorsed (RANZCOG, ASRM, NICE).",
+    "reviewer_notes": "Correct and well-framed as a general guide. No change needed.",
+    "last_verified": "2026-09-20",
+    "review_due": "2028-09-20"
+  },
+  {
+    "id": "PREG-32",
+    "page_url": "https://dramandahenderson.com.au/articles/when-should-i-see-a-gp-before-trying-for-a-baby",
+    "page_title": "When Should I See a GP Before Trying for a Baby?",
+    "claim_text": "You are over 35 ... Many women conceive naturally after 35, but age can affect fertility, pregnancy risks, and the timing of when to seek help if conception is taking longer than expected.",
+    "category": "fertility / maternal age",
+    "risk": "MODERATE",
+    "status": "supported",
+    "wording_acceptable": true,
+    "recommended_wording": null,
+    "primary_source": {
+      "org": "Pregnancy, Birth and Baby (Healthdirect)",
+      "title": "Trying for pregnancy after 35",
+      "url": "https://www.pregnancybirthbaby.org.au/trying-for-pregnancy-after-35",
+      "date": "2025"
+    },
+    "supporting_source": {
+      "org": "RANZCOG",
+      "title": "Age and fertility",
+      "url": "https://ranzcog.edu.au/womens-health/patient-information-resources/",
+      "date": "2024"
+    },
+    "evidence_summary": "Balanced statement: fertility declines and pregnancy risks (e.g. chromosomal, gestational diabetes, hypertensive disorders) rise with maternal age, while many women over 35 still conceive naturally. Avoids alarmism and avoids false reassurance. Accurate.",
+    "limitations": "None material.",
+    "reviewer_notes": "Well-balanced age wording; no change needed.",
+    "last_verified": "2026-09-20",
+    "review_due": "2028-09-20"
+  },
+  {
+    "id": "PREG-33",
+    "page_url": "https://dramandahenderson.com.au/articles/when-should-i-see-a-gp-before-trying-for-a-baby",
+    "page_title": "When Should I See a GP Before Trying for a Baby?",
+    "claim_text": "Do not stop prescribed medication without medical advice. Some medications need to be continued, some changed, and some avoided before pregnancy. This is particularly important for medications used for: epilepsy, migraine, acne, mental health conditions, autoimmune disease ... blood thinning ... weight loss, ADHD.",
+    "category": "medication safety / preconception",
+    "risk": "HIGH",
+    "status": "supported",
+    "wording_acceptable": true,
+    "recommended_wording": null,
+    "primary_source": {
+      "org": "Therapeutic Guidelines / RACGP",
+      "title": "Prescribing in pregnancy - general principles and high-risk drug classes",
+      "url": "https://www.tg.org.au/",
+      "date": "2024"
+    },
+    "supporting_source": {
+      "org": "RANZCOG",
+      "title": "Pre-Pregnancy Counselling (C-Obs 3a)",
+      "url": "https://ranzcog.edu.au/wp-content/uploads/Pre-Pregnancy-Counselling.pdf",
+      "date": "2019"
+    },
+    "evidence_summary": "The named categories are exactly the classes where preconception review matters most (e.g. valproate/antiepileptics, isotretinoin for acne, some autoimmune/anticoagulant/weight-loss agents). Crucially, the article says not to stop medication without advice rather than telling patients to stop - the correct, safe message. No specific drug named or condemned.",
+    "limitations": "General class-level statement only; individual drug decisions require clinical review, which the article defers to the GP.",
+    "reviewer_notes": "Strong safe framing. No change needed.",
+    "last_verified": "2026-09-20",
+    "review_due": "2028-09-20"
+  },
+  {
+    "id": "PREG-34",
+    "page_url": "https://dramandahenderson.com.au/articles/when-should-i-see-a-gp-before-trying-for-a-baby",
+    "page_title": "When Should I See a GP Before Trying for a Baby?",
+    "claim_text": "Your GP may check whether you are protected against infections that can matter in pregnancy, such as rubella and varicella.",
+    "category": "immunity screening / preconception",
+    "risk": "MODERATE",
+    "status": "supported",
+    "wording_acceptable": true,
+    "recommended_wording": null,
+    "primary_source": {
+      "org": "Australian Immunisation Handbook (ATAGI)",
+      "title": "Vaccination for women who are planning pregnancy, pregnant or breastfeeding",
+      "url": "https://immunisationhandbook.health.gov.au/vaccination-for-women-who-are-planning-pregnancy-pregnant-or-breastfeeding",
+      "date": "2025"
+    },
+    "supporting_source": null,
+    "evidence_summary": "Checking rubella and varicella immunity before pregnancy (and vaccinating non-immune women pre-pregnancy, since these are live vaccines) is standard preconception care. Accurate.",
+    "limitations": "WebFetch of Handbook returned transient 503; URL and content confirmed via search indexing and cross-references.",
+    "reviewer_notes": "No change needed.",
+    "last_verified": "2026-09-20",
+    "review_due": "2027-09-20"
+  },
+  {
+    "id": "PREG-35",
+    "page_url": "https://dramandahenderson.com.au/articles/when-should-i-see-a-gp-before-trying-for-a-baby",
+    "page_title": "When Should I See a GP Before Trying for a Baby?",
+    "claim_text": "Depending on your history, your GP may recommend blood tests such as: full blood count, iron studies, thyroid function, vitamin D, blood group and antibodies, rubella immunity, varicella immunity, hepatitis B, hepatitis C, HIV, and syphilis screening, diabetes screening if indicated ... Not everyone needs every test.",
+    "category": "preconception investigations",
+    "risk": "MODERATE",
+    "status": "supported",
+    "wording_acceptable": true,
+    "recommended_wording": null,
+    "primary_source": {
+      "org": "RANZCOG",
+      "title": "Pre-Pregnancy Counselling (C-Obs 3a) / preconception screening",
+      "url": "https://ranzcog.edu.au/wp-content/uploads/Pre-Pregnancy-Counselling.pdf",
+      "date": "2019"
+    },
+    "supporting_source": {
+      "org": "RACGP",
+      "title": "Preventive activities prior to pregnancy (Red Book)",
+      "url": "https://www.racgp.org.au/clinical-resources/clinical-guidelines/key-racgp-guidelines/view-all-racgp-guidelines/guidelines-for-preventive-activities-in-general-pr",
+      "date": "2024"
+    },
+    "evidence_summary": "The listed tests are standard preconception/early-antenatal investigations (FBC, iron, TFT, vitamin D, blood group/antibodies, rubella/varicella serology, BBV screening, diabetes if indicated). The explicit 'not everyone needs every test' caveat is correct and appropriate.",
+    "limitations": "None material; presented as 'may recommend' and tailored to history.",
+    "reviewer_notes": "Well qualified. No change needed.",
+    "last_verified": "2026-09-20",
+    "review_due": "2028-09-20"
+  },
+  {
+    "id": "PREG-36",
+    "page_url": "https://dramandahenderson.com.au/articles/when-should-i-see-a-gp-before-trying-for-a-baby",
+    "page_title": "When Should I See a GP Before Trying for a Baby?",
+    "claim_text": "If you or your partner have a family history of inherited conditions, or if you are from a higher-risk background for certain genetic conditions, your GP can discuss genetic carrier screening and referral options.",
+    "category": "genetic carrier screening",
+    "risk": "MODERATE",
+    "status": "supported",
+    "wording_acceptable": true,
+    "recommended_wording": null,
+    "primary_source": {
+      "org": "RANZCOG",
+      "title": "Genetic carrier screening",
+      "url": "https://ranzcog.edu.au/",
+      "date": "2024"
+    },
+    "supporting_source": {
+      "org": "Dept of Health / MBS",
+      "title": "Reproductive carrier screening (three-condition MBS item)",
+      "url": "https://www.health.gov.au/",
+      "date": "2023"
+    },
+    "evidence_summary": "GP discussion of reproductive/genetic carrier screening is appropriate; since Nov 2023 a Medicare-funded three-condition carrier screen (CF, SMA, fragile X) is available to all couples, with expanded panels for higher-risk backgrounds. Article's wording (offered to those with family history or higher-risk background) is accurate, if slightly narrower than current universal-offer availability.",
+    "limitations": "Universal three-condition carrier screening is now offered to all couples, not only higher-risk ones; article is not wrong but could optionally mention screening is available to anyone who wishes it. Not a safety issue.",
+    "reviewer_notes": "Optional enhancement only: could note carrier screening is available to all couples via Medicare, not just higher-risk backgrounds. No safety concern.",
+    "last_verified": "2026-09-20",
+    "review_due": "2028-09-20"
+  },
+  {
+    "id": "PREG-37",
+    "page_url": "https://dramandahenderson.com.au/articles/when-should-i-see-a-gp-before-trying-for-a-baby",
+    "page_title": "When Should I See a GP Before Trying for a Baby?",
+    "claim_text": "If you are pregnant or might be pregnant, seek urgent medical care if you have: heavy vaginal bleeding, severe abdominal or pelvic pain, shoulder tip pain, fainting ... severe one-sided pelvic pain, fever with pelvic pain, severe vomiting and inability to keep fluids down, thoughts of harming yourself or feeling unsafe.",
+    "category": "safety-netting / red flags",
+    "risk": "MODERATE",
+    "status": "supported",
+    "wording_acceptable": true,
+    "recommended_wording": null,
+    "primary_source": {
+      "org": "Pregnancy, Birth and Baby (Healthdirect)",
+      "title": "Ectopic pregnancy / early pregnancy emergencies",
+      "url": "https://www.pregnancybirthbaby.org.au/ectopic-pregnancy",
+      "date": "2025"
+    },
+    "supporting_source": null,
+    "evidence_summary": "Correctly captures ectopic/early-pregnancy emergency signs (one-sided pain, shoulder-tip pain, syncope, heavy bleeding), hyperemesis, pelvic infection and acute mental health risk. Accurate.",
+    "limitations": "None material.",
+    "reviewer_notes": "No change needed.",
+    "last_verified": "2026-09-20",
+    "review_due": "2028-09-20"
+  },
+  {
+    "id": "PREG-38",
+    "page_url": "https://dramandahenderson.com.au/articles/when-should-i-see-a-gp-before-trying-for-a-baby",
+    "page_title": "When Should I See a GP Before Trying for a Baby?",
+    "claim_text": "Can a GP check if I am fertile? A GP can assess factors that may affect fertility, such as cycle regularity, age, medical history, medications, and previous conditions. If needed, your GP can organise initial tests or refer you to a fertility specialist.",
+    "category": "fertility assessment",
+    "risk": "MODERATE",
+    "status": "supported",
+    "wording_acceptable": true,
+    "recommended_wording": null,
+    "primary_source": {
+      "org": "RACGP",
+      "title": "Infertility - initial GP assessment",
+      "url": "https://www.racgp.org.au/",
+      "date": "2024"
+    },
+    "supporting_source": {
+      "org": "Pregnancy, Birth and Baby (Healthdirect)",
+      "title": "Fertility and infertility",
+      "url": "https://www.pregnancybirthbaby.org.au/",
+      "date": "2025"
+    },
+    "evidence_summary": "Correctly avoids implying a GP can 'confirm fertility'; instead states a GP can assess contributing factors and arrange initial tests/referral. Accurate and appropriately modest.",
+    "limitations": "None material.",
+    "reviewer_notes": "Careful wording ('assess factors', not 'confirm you are fertile'). No change needed.",
+    "last_verified": "2026-09-20",
+    "review_due": "2028-09-20"
+  }
+]

@@ -231,7 +231,7 @@ export default function HomePage() {
             <p className="mt-4 text-lg leading-8 text-muted">
               The Midlife Health Check is a comprehensive, GP-led review for your
               40s, 50s and beyond - bringing together your history, screening,
-              appropriate tests and results, so you know where your health stands
+              appropriate tests and results, to help you understand where your health stands
               and what to focus on next.
             </p>
             <div className="mt-7">

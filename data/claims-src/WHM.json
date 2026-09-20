@@ -1,0 +1,963 @@
+[
+  {
+    "id": "WHM-01",
+    "page_url": "https://dramandahenderson.com.au/articles/perimenopause-and-menopause-questions-to-bring-to-your-gp",
+    "page_title": "Perimenopause and Menopause: Questions to Bring to Your GP",
+    "claim_text": "Hot flushes, night sweats, sleep disruption, mood changes, brain fog, joint aches, vaginal dryness, low libido and heavier or more irregular periods can all affect quality of life.",
+    "category": "symptom/association",
+    "risk": "MODERATE",
+    "status": "supported",
+    "wording_acceptable": true,
+    "recommended_wording": null,
+    "primary_source": {
+      "org": "Jean Hailes for Women's Health",
+      "title": "Menopause: more than hot flushes",
+      "url": "https://www.jeanhailes.org.au/articles/menopause-more-than-hot-flushes/",
+      "date": "n.d."
+    },
+    "supporting_source": {
+      "org": "healthdirect Australia",
+      "title": "Perimenopause",
+      "url": "https://www.healthdirect.gov.au/perimenopause",
+      "date": "n.d."
+    },
+    "evidence_summary": "Australian sources list hot flushes, night sweats, sleep problems, mood changes, brain fog/concentration, joint aches, vaginal dryness, reduced libido and menstrual changes among recognised perimenopausal/menopausal symptoms. The claim is appropriately hedged ('can').",
+    "limitations": "Symptoms vary between individuals and some overlap with other conditions; the article correctly frames these as possible rather than universal.",
+    "reviewer_notes": "Well-hedged symptom list. No overstatement.",
+    "last_verified": "2026-09-20",
+    "review_due": "2028-09"
+  },
+  {
+    "id": "WHM-02",
+    "page_url": "https://dramandahenderson.com.au/articles/perimenopause-and-menopause-questions-to-bring-to-your-gp",
+    "page_title": "Perimenopause and Menopause: Questions to Bring to Your GP",
+    "claim_text": "Menopause: Defined after 12 months without a period, when not explained by another cause.",
+    "category": "diagnosis/definition",
+    "risk": "LOW",
+    "status": "supported",
+    "wording_acceptable": true,
+    "recommended_wording": null,
+    "primary_source": {
+      "org": "healthdirect Australia",
+      "title": "Perimenopause",
+      "url": "https://www.healthdirect.gov.au/perimenopause",
+      "date": "n.d."
+    },
+    "supporting_source": {
+      "org": "Jean Hailes for Women's Health",
+      "title": "Menopause: Symptoms, Causes And Management",
+      "url": "https://www.jeanhailes.org.au/resources/menopause-management",
+      "date": "n.d."
+    },
+    "evidence_summary": "The standard clinical definition of menopause is 12 consecutive months of amenorrhoea in the absence of another physiological or pathological cause; consistent with Australian consumer and clinical guidance.",
+    "limitations": "None material.",
+    "reviewer_notes": "Broad, well-established definition.",
+    "last_verified": "2026-09-20",
+    "review_due": "2028-09"
+  },
+  {
+    "id": "WHM-03",
+    "page_url": "https://dramandahenderson.com.au/articles/perimenopause-and-menopause-questions-to-bring-to-your-gp",
+    "page_title": "Perimenopause and Menopause: Questions to Bring to Your GP",
+    "claim_text": "MHT: Menopausal hormone therapy, sometimes used for symptoms after individual risk discussion.",
+    "category": "treatment/hormones",
+    "risk": "HIGH",
+    "status": "supported",
+    "wording_acceptable": true,
+    "recommended_wording": null,
+    "primary_source": {
+      "org": "Jean Hailes for Women's Health",
+      "title": "Treatments for menopause",
+      "url": "https://www.jeanhailes.org.au/health-topics/menopause/treatments-for-menopause/",
+      "date": "n.d."
+    },
+    "supporting_source": {
+      "org": "healthdirect Australia",
+      "title": "Hormone replacement therapy (HRT)",
+      "url": "https://www.healthdirect.gov.au/hormone-replacement-therapy",
+      "date": "n.d."
+    },
+    "evidence_summary": "Jean Hailes states MHT is the most effective medicine for hot flushes, night sweats and vaginal dryness, and that risks and benefits depend on personal health, history and symptoms - supporting the article's framing that MHT is 'sometimes used' after individual risk discussion. The article does not overstate benefit or make a superiority claim.",
+    "limitations": "MHT carries risks (breast, ovarian and endometrial cancer, stroke, VTE) that increase with duration; the article's downstream FAQ addresses the risk-benefit balance.",
+    "reviewer_notes": "Appropriately conservative wording. No AHPRA/TGA issue: generic drug class described educationally, not a specific prescription product promoted to the public.",
+    "last_verified": "2026-09-20",
+    "review_due": "2027-06"
+  },
+  {
+    "id": "WHM-04",
+    "page_url": "https://dramandahenderson.com.au/articles/perimenopause-and-menopause-questions-to-bring-to-your-gp",
+    "page_title": "Perimenopause and Menopause: Questions to Bring to Your GP",
+    "claim_text": "Blood tests are not always helpful in typical perimenopause, but they may be needed if symptoms are early, unusual or there are other concerns.",
+    "category": "diagnosis/screening",
+    "risk": "MODERATE",
+    "status": "supported",
+    "wording_acceptable": true,
+    "recommended_wording": null,
+    "primary_source": {
+      "org": "healthdirect Australia",
+      "title": "Perimenopause",
+      "url": "https://www.healthdirect.gov.au/perimenopause",
+      "date": "n.d."
+    },
+    "supporting_source": {
+      "org": "Australasian Menopause Society",
+      "title": "Diagnosing Menopause (Information Sheet)",
+      "url": "https://www.menopause.org.au/hp/information-sheets",
+      "date": "n.d."
+    },
+    "evidence_summary": "healthdirect states tests are usually not needed to confirm perimenopause, and that FSH testing may help mainly in women under 45. Australian/AMS guidance recommends FSH in women under 45 (and 40-45 with symptoms) but not routinely in women over 45 in the expected age range, because a single FSH is unreliable in the menopause transition.",
+    "limitations": "AMS information-sheet index URL used for the supporting source; the specific diagnosing-menopause sheet is behind the hub index. healthdirect fully supports the claim.",
+    "reviewer_notes": "Accurate and aligned with current Australian practice.",
+    "last_verified": "2026-09-20",
+    "review_due": "2028-03"
+  },
+  {
+    "id": "WHM-05",
+    "page_url": "https://dramandahenderson.com.au/articles/perimenopause-and-menopause-questions-to-bring-to-your-gp",
+    "page_title": "Perimenopause and Menopause: Questions to Bring to Your GP",
+    "claim_text": "If bleeding is unusual, especially after menopause, investigation may be needed before assuming it is just hormones.",
+    "category": "screening/cancer",
+    "risk": "HIGH",
+    "status": "supported",
+    "wording_acceptable": true,
+    "recommended_wording": null,
+    "primary_source": {
+      "org": "healthdirect Australia",
+      "title": "Bleeding after menopause",
+      "url": "https://www.healthdirect.gov.au/bleeding-after-menopause",
+      "date": "n.d."
+    },
+    "supporting_source": {
+      "org": "RACGP",
+      "title": "The woman with postmenopausal bleeding",
+      "url": "https://www.racgp.org.au/getattachment/f759bd34-1266-4d94-bf7c-4e80ce0c788f/attachment.aspx",
+      "date": "n.d."
+    },
+    "evidence_summary": "healthdirect: 'Bleeding after menopause is common, but it is never normal' and 'Always see your doctor'; postmenopausal bleeding must be investigated to exclude endometrial cancer (the most common gynaecological cancer in Australia). The claim is protective and correctly directs patients toward care.",
+    "limitations": "None material - this is safety-positive messaging.",
+    "reviewer_notes": "Encourages timely assessment; reduces risk of patients dismissing red-flag bleeding.",
+    "last_verified": "2026-09-20",
+    "review_due": "2027-09"
+  },
+  {
+    "id": "WHM-06",
+    "page_url": "https://dramandahenderson.com.au/articles/perimenopause-and-menopause-questions-to-bring-to-your-gp",
+    "page_title": "Perimenopause and Menopause: Questions to Bring to Your GP",
+    "claim_text": "Do I need a blood test to diagnose menopause? Often no, especially in the usual age range with typical symptoms.",
+    "category": "diagnosis",
+    "risk": "MODERATE",
+    "status": "supported",
+    "wording_acceptable": true,
+    "recommended_wording": null,
+    "primary_source": {
+      "org": "healthdirect Australia",
+      "title": "Perimenopause",
+      "url": "https://www.healthdirect.gov.au/perimenopause",
+      "date": "n.d."
+    },
+    "supporting_source": null,
+    "evidence_summary": "healthdirect confirms tests are usually not needed and FSH testing applies mainly to women under 45; for women in the expected age range (approximately 45-55) menopause is a clinical diagnosis based on age, symptoms and period changes.",
+    "limitations": "None material.",
+    "reviewer_notes": "Consistent with WHM-04. Accurate.",
+    "last_verified": "2026-09-20",
+    "review_due": "2028-03"
+  },
+  {
+    "id": "WHM-07",
+    "page_url": "https://dramandahenderson.com.au/articles/perimenopause-and-menopause-questions-to-bring-to-your-gp",
+    "page_title": "Perimenopause and Menopause: Questions to Bring to Your GP",
+    "claim_text": "Is MHT safe? It depends on your age, time since menopause, symptoms, medical history and type of treatment. A GP can discuss your personal risks and benefits.",
+    "category": "treatment/hormones",
+    "risk": "HIGH",
+    "status": "supported",
+    "wording_acceptable": true,
+    "recommended_wording": null,
+    "primary_source": {
+      "org": "Jean Hailes for Women's Health",
+      "title": "Treatments for menopause",
+      "url": "https://www.jeanhailes.org.au/health-topics/menopause/treatments-for-menopause/",
+      "date": "n.d."
+    },
+    "supporting_source": {
+      "org": "healthdirect Australia",
+      "title": "Hormone replacement therapy (HRT)",
+      "url": "https://www.healthdirect.gov.au/hormone-replacement-therapy",
+      "date": "n.d."
+    },
+    "evidence_summary": "Jean Hailes: MHT risks and benefits 'depend on your personal health, your medical history, your family's medical history and your symptoms'; for healthy women within 10 years of menopause benefits usually outweigh risks, with more caution for women over 60 or more than 10 years postmenopausal. The article's individualised, non-committal framing matches guidance and avoids over-reassurance.",
+    "limitations": "The article does not quantify the '10-year window'; this is acceptable for a general-information page that defers to individual GP assessment.",
+    "reviewer_notes": "Balanced. Neither overstates benefit nor understates risk. No superiority/guarantee language.",
+    "last_verified": "2026-09-20",
+    "review_due": "2027-06"
+  },
+  {
+    "id": "WHM-08",
+    "page_url": "https://dramandahenderson.com.au/articles/perimenopause-and-menopause-questions-to-bring-to-your-gp",
+    "page_title": "Perimenopause and Menopause: Questions to Bring to Your GP",
+    "claim_text": "Do I still need contraception in perimenopause? Possibly. Periods can be irregular while ovulation still occurs. Ask your GP before stopping contraception.",
+    "category": "contraception/fertility",
+    "risk": "MODERATE",
+    "status": "supported",
+    "wording_acceptable": true,
+    "recommended_wording": null,
+    "primary_source": {
+      "org": "healthdirect Australia",
+      "title": "Perimenopause",
+      "url": "https://www.healthdirect.gov.au/perimenopause",
+      "date": "n.d."
+    },
+    "supporting_source": null,
+    "evidence_summary": "healthdirect: 'You can still become pregnant until you reach menopause' and advises discussing contraception because ovulatory cycles can continue during perimenopause. The claim is accurate.",
+    "limitations": "None material.",
+    "reviewer_notes": "Accurate and safety-positive.",
+    "last_verified": "2026-09-20",
+    "review_due": "2028-09"
+  },
+  {
+    "id": "WHM-09",
+    "page_url": "https://dramandahenderson.com.au/articles/perimenopause-and-menopause-questions-to-bring-to-your-gp",
+    "page_title": "Perimenopause and Menopause: Questions to Bring to Your GP",
+    "claim_text": "Can menopause affect mood and sleep? Yes. Hormonal changes, life stress and poor sleep can all interact.",
+    "category": "symptom/mental-health",
+    "risk": "MODERATE",
+    "status": "supported",
+    "wording_acceptable": true,
+    "recommended_wording": null,
+    "primary_source": {
+      "org": "Jean Hailes for Women's Health",
+      "title": "Menopause: more than hot flushes",
+      "url": "https://www.jeanhailes.org.au/articles/menopause-more-than-hot-flushes/",
+      "date": "n.d."
+    },
+    "supporting_source": {
+      "org": "healthdirect Australia",
+      "title": "Perimenopause",
+      "url": "https://www.healthdirect.gov.au/perimenopause",
+      "date": "n.d."
+    },
+    "evidence_summary": "Mood changes and sleep disturbance are recognised features of the menopause transition, with a multifactorial contribution from hormonal change, vasomotor symptoms, sleep disruption and life stressors. The article correctly frames these as interacting rather than purely hormonal.",
+    "limitations": "Causation is multifactorial; the article does not claim menopause causes clinical depression, which is appropriate.",
+    "reviewer_notes": "Well-hedged. No overstatement of a hormone-mood causal link.",
+    "last_verified": "2026-09-20",
+    "review_due": "2028-09"
+  },
+  {
+    "id": "WHM-10",
+    "page_url": "https://dramandahenderson.com.au/articles/understanding-what-causes-heavy-periods",
+    "page_title": "Understanding What Causes Heavy Periods",
+    "claim_text": "Heavy periods can be caused by many different things, including hormonal changes, fibroids, adenomyosis, endometriosis, polyps, thyroid problems, bleeding disorders, some medications, contraception changes, pregnancy-related issues, and changes around perimenopause.",
+    "category": "cause/association",
+    "risk": "MODERATE",
+    "status": "supported",
+    "wording_acceptable": true,
+    "recommended_wording": null,
+    "primary_source": {
+      "org": "healthdirect Australia",
+      "title": "Heavy periods (menorrhagia)",
+      "url": "https://www.healthdirect.gov.au/heavy-periods",
+      "date": "n.d."
+    },
+    "supporting_source": null,
+    "evidence_summary": "healthdirect lists fibroids, polyps, endometrial hyperplasia, adenomyosis, endometriosis, endometrial cancer, PCOS, hypothyroidism, perimenopause, hormone-based medicines/contraception and bleeding disorders (e.g. von Willebrand disease) as causes of heavy periods - matching the article's list.",
+    "limitations": "The article's list is broad; each cause's likelihood varies by age and history, which the article acknowledges downstream.",
+    "reviewer_notes": "Comprehensive and accurate causal list.",
+    "last_verified": "2026-09-20",
+    "review_due": "2028-09"
+  },
+  {
+    "id": "WHM-11",
+    "page_url": "https://dramandahenderson.com.au/articles/understanding-what-causes-heavy-periods",
+    "page_title": "Understanding What Causes Heavy Periods",
+    "claim_text": "A period may be considered heavy if it interferes with your normal activities, requires very frequent pad or tampon changes, causes flooding or large clots, or leads to iron deficiency or anaemia.",
+    "category": "definition/symptom",
+    "risk": "LOW",
+    "status": "supported",
+    "wording_acceptable": true,
+    "recommended_wording": null,
+    "primary_source": {
+      "org": "healthdirect Australia",
+      "title": "Heavy periods (menorrhagia)",
+      "url": "https://www.healthdirect.gov.au/heavy-periods",
+      "date": "n.d."
+    },
+    "supporting_source": null,
+    "evidence_summary": "Contemporary (NICE/Australian) definitions of heavy menstrual bleeding are patient-centred: excessive bleeding that interferes with physical, social, emotional or material quality of life, including flooding, clots and iron deficiency. Consistent with the article.",
+    "limitations": "The older '80 mL per cycle' volumetric definition is now secondary to the impact-based definition; the article uses the current impact-based framing.",
+    "reviewer_notes": "Aligned with current impact-based definition of HMB.",
+    "last_verified": "2026-09-20",
+    "review_due": "2028-09"
+  },
+  {
+    "id": "WHM-12",
+    "page_url": "https://dramandahenderson.com.au/articles/understanding-what-causes-heavy-periods",
+    "page_title": "Understanding What Causes Heavy Periods",
+    "claim_text": "Fibroids are non-cancerous growths of the muscle of the uterus. They are common and can vary in size and position.",
+    "category": "condition/cause",
+    "risk": "LOW",
+    "status": "supported",
+    "wording_acceptable": true,
+    "recommended_wording": null,
+    "primary_source": {
+      "org": "healthdirect Australia",
+      "title": "Heavy periods (menorrhagia)",
+      "url": "https://www.healthdirect.gov.au/heavy-periods",
+      "date": "n.d."
+    },
+    "supporting_source": null,
+    "evidence_summary": "Uterine fibroids (leiomyomas) are benign smooth-muscle tumours of the uterus, common in reproductive-age women, varying in size and location, and a recognised cause of heavy/prolonged bleeding and pressure symptoms. Consistent with Australian consumer guidance.",
+    "limitations": "None material.",
+    "reviewer_notes": "Broad, well-established. 'Non-cancerous' is accurate; malignant transformation is very rare.",
+    "last_verified": "2026-09-20",
+    "review_due": "2028-09"
+  },
+  {
+    "id": "WHM-13",
+    "page_url": "https://dramandahenderson.com.au/articles/understanding-what-causes-heavy-periods",
+    "page_title": "Understanding What Causes Heavy Periods",
+    "claim_text": "Adenomyosis is more common in women in their 30s and 40s, but it can occur at other ages too.",
+    "category": "prevalence/population",
+    "risk": "MODERATE",
+    "status": "supported",
+    "wording_acceptable": true,
+    "recommended_wording": null,
+    "primary_source": {
+      "org": "Mayo Clinic",
+      "title": "Adenomyosis - Symptoms & causes",
+      "url": "https://www.mayoclinic.org/diseases-conditions/adenomyosis/symptoms-causes/syc-20369138",
+      "date": "n.d."
+    },
+    "supporting_source": null,
+    "evidence_summary": "Adenomyosis most often presents in women in their 30s to 50s (classically 40s-50s), and is increasingly recognised in the 30s; it can occur at other ages. The article's 'more common in 30s and 40s, but can occur at other ages' is a reasonable and appropriately hedged statement.",
+    "limitations": "Peak prevalence is often cited as 40s-50s; the article's lower age framing slightly under-emphasises the 50s but is not misleading. No resolving Australian consumer page dedicated to adenomyosis age distribution was located; an international authoritative source is used.",
+    "reviewer_notes": "Adjacent list item 'pain that worsens over time' is a mild prognosis phrasing; consider softening to 'pain that may worsen over time' for consistency with the article's hedged voice.",
+    "last_verified": "2026-09-20",
+    "review_due": "2027-09"
+  },
+  {
+    "id": "WHM-14",
+    "page_url": "https://dramandahenderson.com.au/articles/understanding-what-causes-heavy-periods",
+    "page_title": "Understanding What Causes Heavy Periods",
+    "claim_text": "Endometriosis... is often associated with pain, but some people also experience heavy bleeding.",
+    "category": "symptom/association",
+    "risk": "MODERATE",
+    "status": "supported",
+    "wording_acceptable": true,
+    "recommended_wording": null,
+    "primary_source": {
+      "org": "healthdirect Australia",
+      "title": "Endometriosis - symptoms and treatment",
+      "url": "https://www.healthdirect.gov.au/endometriosis",
+      "date": "n.d."
+    },
+    "supporting_source": null,
+    "evidence_summary": "Endometriosis is predominantly associated with pain (dysmenorrhoea, pelvic pain, dyspareunia) and infertility; heavy/irregular bleeding occurs in some patients but is not a defining feature. The article correctly foregrounds pain and hedges heavy bleeding as occurring in 'some people'.",
+    "limitations": "Heavy bleeding in endometriosis may partly reflect co-existing adenomyosis or fibroids; the article's caution is appropriate.",
+    "reviewer_notes": "Correctly avoids over-attributing heavy bleeding to endometriosis.",
+    "last_verified": "2026-09-20",
+    "review_due": "2028-09"
+  },
+  {
+    "id": "WHM-15",
+    "page_url": "https://dramandahenderson.com.au/articles/understanding-what-causes-heavy-periods",
+    "page_title": "Understanding What Causes Heavy Periods",
+    "claim_text": "Less commonly, heavy or abnormal bleeding can be related to pre-cancerous changes or cancer of the uterus or cervix. Most heavy periods are not caused by cancer, but certain bleeding patterns should always be assessed. These include: bleeding after menopause, bleeding after sex, bleeding between periods, new heavy bleeding after age 45...",
+    "category": "cancer/screening",
+    "risk": "HIGH",
+    "status": "supported",
+    "wording_acceptable": true,
+    "recommended_wording": null,
+    "primary_source": {
+      "org": "healthdirect Australia",
+      "title": "Bleeding after menopause",
+      "url": "https://www.healthdirect.gov.au/bleeding-after-menopause",
+      "date": "n.d."
+    },
+    "supporting_source": {
+      "org": "healthdirect Australia",
+      "title": "Heavy periods (menorrhagia)",
+      "url": "https://www.healthdirect.gov.au/heavy-periods",
+      "date": "n.d."
+    },
+    "evidence_summary": "Postmenopausal bleeding, postcoital bleeding and intermenstrual bleeding are recognised red flags warranting assessment to exclude endometrial/cervical pathology; healthdirect confirms postmenopausal bleeding is 'never normal' and endometrial cancer is the most common gynaecological cancer in Australia. New abnormal bleeding after 45 is a widely used age threshold prompting investigation. Reassurance that most heavy periods are not cancer is accurate.",
+    "limitations": "'New heavy bleeding after age 45' is a pragmatic threshold rather than an absolute rule; assessment thresholds may be earlier with other risk factors.",
+    "reviewer_notes": "Balanced: flags red flags without causing undue alarm. Safety-positive.",
+    "last_verified": "2026-09-20",
+    "review_due": "2027-09"
+  },
+  {
+    "id": "WHM-16",
+    "page_url": "https://dramandahenderson.com.au/articles/understanding-what-causes-heavy-periods",
+    "page_title": "Understanding What Causes Heavy Periods",
+    "claim_text": "Heavy periods are a common cause of iron deficiency and anaemia.",
+    "category": "cause/association",
+    "risk": "MODERATE",
+    "status": "supported",
+    "wording_acceptable": true,
+    "recommended_wording": null,
+    "primary_source": {
+      "org": "healthdirect Australia",
+      "title": "Heavy periods (menorrhagia)",
+      "url": "https://www.healthdirect.gov.au/heavy-periods",
+      "date": "n.d."
+    },
+    "supporting_source": {
+      "org": "Medicine Today",
+      "title": "Heavy menstrual bleeding and iron deficiency: breaking the vicious cycle",
+      "url": "https://medicinetoday.com.au/mt/2026/april/regular-series/heavy-menstrual-bleeding-and-iron-deficiency-breaking-vicious-cycle",
+      "date": "2026-04"
+    },
+    "evidence_summary": "healthdirect: 'Blood loss from heavy periods can lower your levels of iron and red blood cells. This can cause iron deficiency and anaemia.' Heavy menstrual bleeding is described in the literature as the single most common cause of iron-deficiency anaemia in reproductive-age women. Fully supports the claim.",
+    "limitations": "None material.",
+    "reviewer_notes": "Well-established.",
+    "last_verified": "2026-09-20",
+    "review_due": "2028-09"
+  },
+  {
+    "id": "WHM-17",
+    "page_url": "https://dramandahenderson.com.au/articles/understanding-what-causes-heavy-periods",
+    "page_title": "Understanding What Causes Heavy Periods",
+    "claim_text": "An underactive or overactive thyroid may contribute to heavy periods, irregular periods, fatigue, weight changes, temperature sensitivity, mood changes, changes in hair or skin.",
+    "category": "cause/association",
+    "risk": "MODERATE",
+    "status": "supported",
+    "wording_acceptable": true,
+    "recommended_wording": null,
+    "primary_source": {
+      "org": "healthdirect Australia",
+      "title": "Heavy periods (menorrhagia)",
+      "url": "https://www.healthdirect.gov.au/heavy-periods",
+      "date": "n.d."
+    },
+    "supporting_source": null,
+    "evidence_summary": "healthdirect lists hypothyroidism among causes of heavy periods; both hypo- and hyperthyroidism are recognised causes of menstrual disturbance and the systemic symptoms listed. The claim uses 'may contribute', which is appropriately hedged.",
+    "limitations": "Thyroid disease is a less common cause of HMB than structural/hormonal causes; the article correctly recommends a blood test rather than assuming thyroid cause.",
+    "reviewer_notes": "Accurate and hedged.",
+    "last_verified": "2026-09-20",
+    "review_due": "2028-09"
+  },
+  {
+    "id": "WHM-18",
+    "page_url": "https://dramandahenderson.com.au/articles/understanding-what-causes-heavy-periods",
+    "page_title": "Understanding What Causes Heavy Periods",
+    "claim_text": "Heavy or irregular bleeding can occur with... a copper intrauterine device... [and] some long-acting contraceptive methods, especially in the early months.",
+    "category": "cause/treatment-effect",
+    "risk": "MODERATE",
+    "status": "supported",
+    "wording_acceptable": true,
+    "recommended_wording": null,
+    "primary_source": {
+      "org": "healthdirect Australia",
+      "title": "Heavy periods (menorrhagia)",
+      "url": "https://www.healthdirect.gov.au/heavy-periods",
+      "date": "n.d."
+    },
+    "supporting_source": null,
+    "evidence_summary": "healthdirect lists hormone-based medicines/contraception among causes of altered bleeding. The copper IUD is well recognised to increase menstrual blood loss and cramping, and long-acting hormonal methods commonly cause irregular bleeding in early months. Consistent with established contraceptive counselling.",
+    "limitations": "The article does not distinguish copper (typically heavier) from hormonal IUD (typically lighter); this is clarified elsewhere in the cluster (hormonal IUD listed as a treatment to reduce bleeding).",
+    "reviewer_notes": "Accurate. Note contrast with hormonal IUD as HMB treatment (WHM-19/WHM-24) is handled correctly elsewhere.",
+    "last_verified": "2026-09-20",
+    "review_due": "2028-09"
+  },
+  {
+    "id": "WHM-19",
+    "page_url": "https://dramandahenderson.com.au/articles/understanding-what-causes-heavy-periods",
+    "page_title": "Understanding What Causes Heavy Periods",
+    "claim_text": "Options may include: iron replacement if iron is low, anti-inflammatory medication for some people, non-hormonal medication to reduce bleeding, hormonal contraception, hormonal intrauterine device, treatment of thyroid or other medical conditions...",
+    "category": "treatment",
+    "risk": "MODERATE",
+    "status": "supported",
+    "wording_acceptable": true,
+    "recommended_wording": null,
+    "primary_source": {
+      "org": "healthdirect Australia",
+      "title": "Heavy periods (menorrhagia)",
+      "url": "https://www.healthdirect.gov.au/heavy-periods",
+      "date": "n.d."
+    },
+    "supporting_source": {
+      "org": "Royal Children's Hospital Melbourne",
+      "title": "Clinical Practice Guidelines: Adolescent gynaecology - heavy menstrual bleeding",
+      "url": "https://www.rch.org.au/clinicalguide/guideline_index/adolescent_gynaecology_menorrhagia/",
+      "date": "n.d."
+    },
+    "evidence_summary": "Standard HMB management includes iron replacement, NSAIDs, tranexamic acid (non-hormonal antifibrinolytic), the combined pill/progestogens and the levonorgestrel IUD (often first-line), plus treating underlying causes - consistent with Australian and NICE guidance. The article uses 'may include', which is appropriately non-prescriptive.",
+    "limitations": "The article does not rank options; this is appropriate for general information deferring to individualised care.",
+    "reviewer_notes": "Educational description of treatment classes; no specific brand promotion (TGA-safe). Levonorgestrel IUS is commonly first-line - could be noted but not required.",
+    "last_verified": "2026-09-20",
+    "review_due": "2027-09"
+  },
+  {
+    "id": "WHM-20",
+    "page_url": "https://dramandahenderson.com.au/articles/understanding-what-causes-heavy-periods",
+    "page_title": "Understanding What Causes Heavy Periods",
+    "claim_text": "Your GP may recommend: pregnancy test, full blood count to check for anaemia, iron studies or ferritin, thyroid function test, cervical screening test if due, STI testing if relevant, pelvic ultrasound, further hormonal tests in selected cases...",
+    "category": "diagnosis/investigation",
+    "risk": "MODERATE",
+    "status": "supported",
+    "wording_acceptable": true,
+    "recommended_wording": null,
+    "primary_source": {
+      "org": "healthdirect Australia",
+      "title": "Heavy periods (menorrhagia)",
+      "url": "https://www.healthdirect.gov.au/heavy-periods",
+      "date": "n.d."
+    },
+    "supporting_source": null,
+    "evidence_summary": "Recommended investigations for HMB routinely include pregnancy test, full blood count, ferritin/iron studies, thyroid function where indicated, cervical screening if due, STI testing where relevant and pelvic ultrasound - consistent with Australian primary-care practice. The article appropriately states 'not everyone needs every test'.",
+    "limitations": "None material.",
+    "reviewer_notes": "Accurate, tailored framing.",
+    "last_verified": "2026-09-20",
+    "review_due": "2028-09"
+  },
+  {
+    "id": "WHM-21",
+    "page_url": "https://dramandahenderson.com.au/articles/heavy-periods-and-iron-deficiency-how-a-gp-can-help",
+    "page_title": "Heavy Periods and Iron Deficiency: How a GP Can Help",
+    "claim_text": "Iron deficiency: Low iron stores, which can cause fatigue even before anaemia is present.",
+    "category": "symptom/pathophysiology",
+    "risk": "MODERATE",
+    "status": "supported",
+    "wording_acceptable": true,
+    "recommended_wording": null,
+    "primary_source": {
+      "org": "healthdirect Australia",
+      "title": "Heavy periods (menorrhagia)",
+      "url": "https://www.healthdirect.gov.au/heavy-periods",
+      "date": "n.d."
+    },
+    "supporting_source": {
+      "org": "PMC / postgraduate review",
+      "title": "Iron deficiency without anaemia: a diagnosis that matters",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8002799/",
+      "date": "2021"
+    },
+    "evidence_summary": "Iron deficiency without anaemia (low ferritin, normal haemoglobin) is well described and can cause fatigue, poor concentration and other symptoms because iron has roles beyond haemoglobin (muscle, brain, energy metabolism). The claim is supported.",
+    "limitations": "The strength of the fatigue-without-anaemia association varies between studies; the article uses 'can cause', which is appropriately hedged.",
+    "reviewer_notes": "Accurate; supports appropriate testing (ferritin, not haemoglobin alone).",
+    "last_verified": "2026-09-20",
+    "review_due": "2027-09"
+  },
+  {
+    "id": "WHM-22",
+    "page_url": "https://dramandahenderson.com.au/articles/heavy-periods-and-iron-deficiency-how-a-gp-can-help",
+    "page_title": "Heavy Periods and Iron Deficiency: How a GP Can Help",
+    "claim_text": "Tranexamic acid: A medicine sometimes used to reduce heavy menstrual bleeding when suitable.",
+    "category": "treatment/effectiveness",
+    "risk": "HIGH",
+    "status": "supported",
+    "wording_acceptable": true,
+    "recommended_wording": null,
+    "primary_source": {
+      "org": "Royal Children's Hospital Melbourne",
+      "title": "Clinical Practice Guidelines: Adolescent gynaecology - heavy menstrual bleeding",
+      "url": "https://www.rch.org.au/clinicalguide/guideline_index/adolescent_gynaecology_menorrhagia/",
+      "date": "n.d."
+    },
+    "supporting_source": {
+      "org": "International Journal of Women's Health (review)",
+      "title": "Tranexamic acid for the treatment of heavy menstrual bleeding: efficacy and safety",
+      "url": "https://www.tandfonline.com/doi/full/10.2147/IJWH.S13840",
+      "date": "n.d."
+    },
+    "evidence_summary": "Tranexamic acid is an established non-hormonal treatment that reduces menstrual blood loss (approximately 25-60% in trials) and is used for HMB. The article's wording ('sometimes used... when suitable') is conservative and does not overstate effectiveness or omit the need for clinical suitability.",
+    "limitations": "Contraindicated in active thromboembolic disease; the article defers suitability to the GP rather than promoting the drug.",
+    "reviewer_notes": "Generic drug class described educationally, not a branded prescription product advertised to the public (TGA-safe). No effectiveness figure quoted, so no risk of overstatement.",
+    "last_verified": "2026-09-20",
+    "review_due": "2027-06"
+  },
+  {
+    "id": "WHM-23",
+    "page_url": "https://dramandahenderson.com.au/articles/heavy-periods-and-iron-deficiency-how-a-gp-can-help",
+    "page_title": "Heavy Periods and Iron Deficiency: How a GP Can Help",
+    "claim_text": "Can low iron happen even if haemoglobin is normal? Yes. Iron stores can be low before anaemia develops, and symptoms can still occur.",
+    "category": "diagnosis/pathophysiology",
+    "risk": "MODERATE",
+    "status": "supported",
+    "wording_acceptable": true,
+    "recommended_wording": null,
+    "primary_source": {
+      "org": "PMC / postgraduate review",
+      "title": "Iron deficiency without anaemia: a diagnosis that matters",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8002799/",
+      "date": "2021"
+    },
+    "supporting_source": null,
+    "evidence_summary": "Iron deficiency without anaemia (low ferritin with normal haemoglobin) is common and can be symptomatic; ferritin is the key test to detect it. Fully supports the claim and encourages appropriate testing.",
+    "limitations": "Ferritin can be falsely normal/raised as an acute-phase reactant; not material to this consumer-level claim.",
+    "reviewer_notes": "Accurate; clinically useful message.",
+    "last_verified": "2026-09-20",
+    "review_due": "2028-03"
+  },
+  {
+    "id": "WHM-24",
+    "page_url": "https://dramandahenderson.com.au/articles/heavy-periods-and-iron-deficiency-how-a-gp-can-help",
+    "page_title": "Heavy Periods and Iron Deficiency: How a GP Can Help",
+    "claim_text": "Can contraception be used as treatment? Yes, some hormonal options can reduce bleeding. The best choice depends on your health, side effects and pregnancy plans.",
+    "category": "treatment",
+    "risk": "MODERATE",
+    "status": "supported",
+    "wording_acceptable": true,
+    "recommended_wording": null,
+    "primary_source": {
+      "org": "healthdirect Australia",
+      "title": "Heavy periods (menorrhagia)",
+      "url": "https://www.healthdirect.gov.au/heavy-periods",
+      "date": "n.d."
+    },
+    "supporting_source": {
+      "org": "Royal Children's Hospital Melbourne",
+      "title": "Clinical Practice Guidelines: Adolescent gynaecology - heavy menstrual bleeding",
+      "url": "https://www.rch.org.au/clinicalguide/guideline_index/adolescent_gynaecology_menorrhagia/",
+      "date": "n.d."
+    },
+    "evidence_summary": "Hormonal methods (combined pill, oral progestogens, levonorgestrel IUS) reduce menstrual blood loss and are standard HMB treatments. The article correctly notes 'some' hormonal options and that choice is individualised.",
+    "limitations": "Not all hormonal methods reduce bleeding equally; the copper IUD increases it (addressed in WHM-18). The article's 'some' wording is appropriate.",
+    "reviewer_notes": "Accurate and appropriately hedged.",
+    "last_verified": "2026-09-20",
+    "review_due": "2028-03"
+  },
+  {
+    "id": "WHM-25",
+    "page_url": "https://dramandahenderson.com.au/articles/heavy-periods-and-iron-deficiency-how-a-gp-can-help",
+    "page_title": "Heavy Periods and Iron Deficiency: How a GP Can Help",
+    "claim_text": "Heavy periods are also a common cause of iron deficiency and anaemia, which can leave you tired and run down.",
+    "category": "cause/association",
+    "risk": "MODERATE",
+    "status": "supported",
+    "wording_acceptable": true,
+    "recommended_wording": null,
+    "primary_source": {
+      "org": "healthdirect Australia",
+      "title": "Heavy periods (menorrhagia)",
+      "url": "https://www.healthdirect.gov.au/heavy-periods",
+      "date": "n.d."
+    },
+    "supporting_source": null,
+    "evidence_summary": "As in WHM-16, healthdirect confirms heavy periods can cause iron deficiency and anaemia, with fatigue among the recognised symptoms. Supported.",
+    "limitations": "None material.",
+    "reviewer_notes": "Consistent with WHM-16.",
+    "last_verified": "2026-09-20",
+    "review_due": "2028-09"
+  },
+  {
+    "id": "WHM-26",
+    "page_url": "https://dramandahenderson.com.au/articles/pcos-and-irregular-periods-what-a-gp-can-check-first",
+    "page_title": "PCOS and Irregular Periods: What a GP Can Check First",
+    "claim_text": "Polycystic ovary syndrome represents one potential cause among several possibilities... irregular periods do not necessarily indicate PCOS.",
+    "category": "cause/diagnosis",
+    "risk": "MODERATE",
+    "status": "supported",
+    "wording_acceptable": true,
+    "recommended_wording": null,
+    "primary_source": {
+      "org": "healthdirect Australia",
+      "title": "Polycystic ovary syndrome (PCOS)",
+      "url": "https://www.healthdirect.gov.au/polycystic-ovarian-syndrome-pcos",
+      "date": "n.d."
+    },
+    "supporting_source": {
+      "org": "Monash University / MJA",
+      "title": "2023 International Evidence-based Guideline for PCOS (recommendations)",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10505534/",
+      "date": "2023"
+    },
+    "evidence_summary": "Irregular cycles have many causes (thyroid disease, hyperprolactinaemia, hypothalamic dysfunction, perimenopause, pregnancy, etc.); PCOS is a diagnosis of exclusion requiring defined criteria. The article's message that irregular periods do not necessarily mean PCOS is accurate and reduces over-diagnosis.",
+    "limitations": "None material.",
+    "reviewer_notes": "Accurate and protective against self-misdiagnosis.",
+    "last_verified": "2026-09-20",
+    "review_due": "2028-03"
+  },
+  {
+    "id": "WHM-27",
+    "page_url": "https://dramandahenderson.com.au/articles/pcos-and-irregular-periods-what-a-gp-can-check-first",
+    "page_title": "PCOS and Irregular Periods: What a GP Can Check First",
+    "claim_text": "ultrasound findings of polycystic ovaries alone cannot confirm diagnosis. A comprehensive clinical picture is essential.",
+    "category": "diagnosis",
+    "risk": "MODERATE",
+    "status": "supported",
+    "wording_acceptable": true,
+    "recommended_wording": null,
+    "primary_source": {
+      "org": "Monash University / MJA (2023 international guideline)",
+      "title": "Recommendations from the 2023 International Evidence-based Guideline for PCOS",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10505534/",
+      "date": "2023"
+    },
+    "supporting_source": {
+      "org": "healthdirect Australia",
+      "title": "Polycystic ovary syndrome (PCOS)",
+      "url": "https://www.healthdirect.gov.au/polycystic-ovarian-syndrome-pcos",
+      "date": "n.d."
+    },
+    "evidence_summary": "The 2023 guideline requires at least two of: hyperandrogenism, ovulatory dysfunction/irregular cycles, and polycystic ovarian morphology (ultrasound or AMH), after excluding other causes. Polycystic ovarian morphology alone is not diagnostic (it is common in the general population). Fully supports the claim.",
+    "limitations": "None material.",
+    "reviewer_notes": "Accurate reflection of current diagnostic criteria.",
+    "last_verified": "2026-09-20",
+    "review_due": "2028-03"
+  },
+  {
+    "id": "WHM-28",
+    "page_url": "https://dramandahenderson.com.au/articles/pcos-and-irregular-periods-what-a-gp-can-check-first",
+    "page_title": "PCOS and Irregular Periods: What a GP Can Check First",
+    "claim_text": "Insulin resistance: A state where the body requires increased insulin for blood sugar management, sometimes associated with PCOS.",
+    "category": "pathophysiology/association",
+    "risk": "MODERATE",
+    "status": "supported",
+    "wording_acceptable": true,
+    "recommended_wording": null,
+    "primary_source": {
+      "org": "Monash University / MJA (2023 international guideline)",
+      "title": "Recommendations from the 2023 International Evidence-based Guideline for PCOS",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10505534/",
+      "date": "2023"
+    },
+    "supporting_source": {
+      "org": "healthdirect Australia",
+      "title": "Polycystic ovary syndrome (PCOS)",
+      "url": "https://www.healthdirect.gov.au/polycystic-ovarian-syndrome-pcos",
+      "date": "n.d."
+    },
+    "evidence_summary": "Insulin resistance is a recognised feature of PCOS pathophysiology and contributes to increased metabolic risk. The article's 'sometimes associated with' is appropriately hedged; the definition of insulin resistance is accurate.",
+    "limitations": "The 2023 guideline notes clinically available insulin-resistance assays have limited clinical relevance; the article does not recommend testing insulin resistance, which is appropriate.",
+    "reviewer_notes": "Accurate lay definition; hedged association.",
+    "last_verified": "2026-09-20",
+    "review_due": "2028-03"
+  },
+  {
+    "id": "WHM-29",
+    "page_url": "https://dramandahenderson.com.au/articles/pcos-and-irregular-periods-what-a-gp-can-check-first",
+    "page_title": "PCOS and Irregular Periods: What a GP Can Check First",
+    "claim_text": "Do I need an ultrasound for PCOS? Not necessarily. Diagnosis depends on age, symptomatology, blood test results and established criteria.",
+    "category": "diagnosis",
+    "risk": "MODERATE",
+    "status": "supported",
+    "wording_acceptable": true,
+    "recommended_wording": null,
+    "primary_source": {
+      "org": "Monash University / MJA (2023 international guideline)",
+      "title": "Recommendations from the 2023 International Evidence-based Guideline for PCOS",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10505534/",
+      "date": "2023"
+    },
+    "supporting_source": null,
+    "evidence_summary": "The 2023 guideline explicitly states that in patients with irregular menstrual cycles and hyperandrogenism, ovarian ultrasound (and AMH) is not necessary for PCOS diagnosis. Ultrasound is also not recommended for diagnosis within 8 years of menarche. Fully supports the claim.",
+    "limitations": "Ultrasound remains relevant when only one of the two other criteria is present. The article's 'not necessarily' captures this correctly.",
+    "reviewer_notes": "Accurate and reflects the significant 2023 shift reducing unnecessary imaging.",
+    "last_verified": "2026-09-20",
+    "review_due": "2028-03"
+  },
+  {
+    "id": "WHM-30",
+    "page_url": "https://dramandahenderson.com.au/articles/pcos-and-irregular-periods-what-a-gp-can-check-first",
+    "page_title": "PCOS and Irregular Periods: What a GP Can Check First",
+    "claim_text": "Why does PCOS need long-term follow-up? The condition associates with increased diabetes risk, cholesterol alterations, sleep disturbances and endometrial protection needs when menstruation becomes infrequent.",
+    "category": "risk/prognosis",
+    "risk": "HIGH",
+    "status": "supported",
+    "wording_acceptable": true,
+    "recommended_wording": null,
+    "primary_source": {
+      "org": "Monash University / MJA (2023 international guideline)",
+      "title": "Recommendations from the 2023 International Evidence-based Guideline for PCOS",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10505534/",
+      "date": "2023"
+    },
+    "supporting_source": {
+      "org": "healthdirect Australia",
+      "title": "Polycystic ovary syndrome (PCOS)",
+      "url": "https://www.healthdirect.gov.au/polycystic-ovarian-syndrome-pcos",
+      "date": "n.d."
+    },
+    "evidence_summary": "The 2023 guideline documents increased risk of impaired glucose tolerance and type 2 diabetes, cardiovascular disease/dyslipidaemia, higher prevalence of obstructive sleep apnoea, and markedly higher risk of endometrial hyperplasia and endometrial cancer (supporting endometrial protection with infrequent menstruation). healthdirect corroborates. The article's careful verb 'associates with' avoids overstating causation.",
+    "limitations": "These are population-level associations, not individual certainties; the article frames them as risks needing follow-up rather than inevitabilities.",
+    "reviewer_notes": "Correctly uses correlational language ('associates with') for a HIGH-risk composite claim. No overstatement.",
+    "last_verified": "2026-09-20",
+    "review_due": "2027-06"
+  },
+  {
+    "id": "WHM-31",
+    "page_url": "https://dramandahenderson.com.au/articles/pcos-and-irregular-periods-what-a-gp-can-check-first",
+    "page_title": "PCOS and Irregular Periods: What a GP Can Check First",
+    "claim_text": "Does PCOS mean I cannot get pregnant? No. Many individuals with this condition successfully conceive, sometimes supported by lifestyle modifications, cycle monitoring, medications or fertility interventions.",
+    "category": "fertility/prognosis",
+    "risk": "HIGH",
+    "status": "changed",
+    "wording_acceptable": false,
+    "recommended_wording": "Does PCOS mean I cannot get pregnant? No. PCOS is a common cause of reduced fertility because ovulation can be irregular, but many people with PCOS do conceive - sometimes with lifestyle changes, cycle tracking, medications or fertility support. Your GP can outline the initial approaches.",
+    "primary_source": {
+      "org": "healthdirect Australia",
+      "title": "Polycystic ovary syndrome (PCOS)",
+      "url": "https://www.healthdirect.gov.au/polycystic-ovarian-syndrome-pcos",
+      "date": "n.d."
+    },
+    "supporting_source": {
+      "org": "Monash University / MJA (2023 international guideline)",
+      "title": "Recommendations from the 2023 International Evidence-based Guideline for PCOS",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10505534/",
+      "date": "2023"
+    },
+    "evidence_summary": "The reassurance is correct - many people with PCOS conceive, with or without treatment. However healthdirect describes PCOS as 'one of the most common causes of infertility in females'. The claim as written is accurate but omits that PCOS commonly reduces fertility (via anovulation), which is relevant context for someone weighing whether to seek timely help.",
+    "limitations": "Fertility outcomes depend on age, ovulatory status, BMI and other factors; a general page cannot individualise prognosis.",
+    "reviewer_notes": "Suggested minor addition keeps the warm, reassuring first-person-clinic voice while adding balancing context so the reassurance is not read as 'PCOS does not affect fertility'. en-AU, hyphens. Not an AHPRA guarantee issue as phrased, but the added nuance reduces the chance a patient delays fertility assessment. [Implemented 2026-09-20; applied to site - see corresponding IND entry.]",
+    "last_verified": "2026-09-20",
+    "review_due": "2027-06"
+  },
+  {
+    "id": "WHM-32",
+    "page_url": "https://dramandahenderson.com.au/articles/pcos-and-irregular-periods-what-a-gp-can-check-first",
+    "page_title": "PCOS and Irregular Periods: What a GP Can Check First",
+    "claim_text": "The condition extends beyond reproductive organs, potentially affecting menstrual cycles, skin health, hair growth, fertility, insulin sensitivity, cholesterol levels, emotional wellbeing and long-term metabolic functioning.",
+    "category": "condition/association",
+    "risk": "MODERATE",
+    "status": "supported",
+    "wording_acceptable": true,
+    "recommended_wording": null,
+    "primary_source": {
+      "org": "healthdirect Australia",
+      "title": "Polycystic ovary syndrome (PCOS)",
+      "url": "https://www.healthdirect.gov.au/polycystic-ovarian-syndrome-pcos",
+      "date": "n.d."
+    },
+    "supporting_source": {
+      "org": "Monash University / MJA (2023 international guideline)",
+      "title": "Recommendations from the 2023 International Evidence-based Guideline for PCOS",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10505534/",
+      "date": "2023"
+    },
+    "evidence_summary": "PCOS is recognised as a multisystem condition affecting menstrual/reproductive function, skin and hair (hyperandrogenism), metabolic health (insulin sensitivity, lipids) and psychological wellbeing (the 2023 guideline highlights higher rates of anxiety and depression). The verb 'potentially affecting' is appropriately hedged.",
+    "limitations": "Severity and which domains are affected vary widely between individuals.",
+    "reviewer_notes": "Accurate multisystem framing.",
+    "last_verified": "2026-09-20",
+    "review_due": "2028-03"
+  },
+  {
+    "id": "WHM-33",
+    "page_url": "https://dramandahenderson.com.au/articles/endometriosis-symptoms-starting-the-conversation-with-your-gp",
+    "page_title": "Endometriosis Symptoms: Starting the Conversation With Your GP",
+    "claim_text": "Endometriosis can cause pelvic pain, painful periods, pain with sex, bowel or bladder symptoms, fatigue and fertility concerns.",
+    "category": "symptom/association",
+    "risk": "MODERATE",
+    "status": "supported",
+    "wording_acceptable": true,
+    "recommended_wording": null,
+    "primary_source": {
+      "org": "healthdirect Australia",
+      "title": "Endometriosis - symptoms and treatment",
+      "url": "https://www.healthdirect.gov.au/endometriosis",
+      "date": "n.d."
+    },
+    "supporting_source": {
+      "org": "Jean Hailes for Women's Health",
+      "title": "Endometriosis",
+      "url": "https://www.jeanhailes.org.au/health-topics/endometriosis/",
+      "date": "n.d."
+    },
+    "evidence_summary": "Australian sources list severe period pain, chronic pelvic pain, dyspareunia, bowel/bladder symptoms (often cyclical), fatigue and infertility (around 1 in 3 affected have fertility difficulty) among endometriosis features. Fully supports the claim.",
+    "limitations": "Symptom severity does not correlate with disease extent (see WHM-34); the article addresses this.",
+    "reviewer_notes": "Accurate symptom list.",
+    "last_verified": "2026-09-20",
+    "review_due": "2028-09"
+  },
+  {
+    "id": "WHM-34",
+    "page_url": "https://dramandahenderson.com.au/articles/endometriosis-symptoms-starting-the-conversation-with-your-gp",
+    "page_title": "Endometriosis Symptoms: Starting the Conversation With Your GP",
+    "claim_text": "Endometriosis cannot always be seen on a standard ultrasound, and symptoms do not always match the amount of disease.",
+    "category": "diagnosis",
+    "risk": "HIGH",
+    "status": "supported",
+    "wording_acceptable": true,
+    "recommended_wording": null,
+    "primary_source": {
+      "org": "RANZCOG",
+      "title": "Australian Living Evidence Guideline: Endometriosis (Clinical Practice Guideline)",
+      "url": "https://ranzcog.edu.au/wp-content/uploads/Endometriosis-Clinical-Practice-Guideline.pdf",
+      "date": "n.d."
+    },
+    "supporting_source": {
+      "org": "Safer Care Victoria",
+      "title": "The use of less invasive methods, including ultrasound, for the diagnosis of endometriosis",
+      "url": "https://www.safercare.vic.gov.au/publications/the-use-of-less-invasive-methods-including-ultrasound-for-the-diagnosis-of-endometriosis",
+      "date": "n.d."
+    },
+    "evidence_summary": "RANZCOG/Australian guidance states a negative ultrasound (or MRI) does not exclude endometriosis, particularly superficial peritoneal disease, and that symptom severity does not correlate with disease stage. Fully supports the claim.",
+    "limitations": "Specialist-performed dedicated transvaginal ultrasound detects deep endometriosis better than routine imaging; the article's 'standard ultrasound' framing captures this distinction.",
+    "reviewer_notes": "Accurate and clinically important - prevents false reassurance from a normal scan.",
+    "last_verified": "2026-09-20",
+    "review_due": "2027-09"
+  },
+  {
+    "id": "WHM-35",
+    "page_url": "https://dramandahenderson.com.au/articles/endometriosis-symptoms-starting-the-conversation-with-your-gp",
+    "page_title": "Endometriosis Symptoms: Starting the Conversation With Your GP",
+    "claim_text": "Can a normal ultrasound rule out endometriosis? No. Some forms of endometriosis may not be seen on standard imaging. A normal scan does not automatically mean symptoms are not real.",
+    "category": "diagnosis/certainty",
+    "risk": "HIGH",
+    "status": "supported",
+    "wording_acceptable": true,
+    "recommended_wording": null,
+    "primary_source": {
+      "org": "RANZCOG",
+      "title": "Australian Living Evidence Guideline: Endometriosis (Clinical Practice Guideline)",
+      "url": "https://ranzcog.edu.au/wp-content/uploads/Endometriosis-Clinical-Practice-Guideline.pdf",
+      "date": "n.d."
+    },
+    "supporting_source": null,
+    "evidence_summary": "RANZCOG guidance: a negative ultrasound does not exclude endometriosis and patients should continue to be managed under a presumptive diagnosis; laparoscopy can be considered when imaging is negative but suspicion persists. Fully supports the claim.",
+    "limitations": "None material.",
+    "reviewer_notes": "Accurate; safety-positive by validating ongoing symptoms despite a normal scan.",
+    "last_verified": "2026-09-20",
+    "review_due": "2027-09"
+  },
+  {
+    "id": "WHM-36",
+    "page_url": "https://dramandahenderson.com.au/articles/endometriosis-symptoms-starting-the-conversation-with-your-gp",
+    "page_title": "Endometriosis Symptoms: Starting the Conversation With Your GP",
+    "claim_text": "Can a GP treat symptoms before diagnosis? Yes. Pain management and hormonal options may be discussed while investigation or referral is underway.",
+    "category": "treatment",
+    "risk": "MODERATE",
+    "status": "supported",
+    "wording_acceptable": true,
+    "recommended_wording": null,
+    "primary_source": {
+      "org": "RANZCOG",
+      "title": "Australian Living Evidence Guideline: Endometriosis (Clinical Practice Guideline)",
+      "url": "https://ranzcog.edu.au/wp-content/uploads/Endometriosis-Clinical-Practice-Guideline.pdf",
+      "date": "n.d."
+    },
+    "supporting_source": {
+      "org": "healthdirect Australia",
+      "title": "Endometriosis - symptoms and treatment",
+      "url": "https://www.healthdirect.gov.au/endometriosis",
+      "date": "n.d."
+    },
+    "evidence_summary": "Australian guidance supports empirical/presumptive management of suspected endometriosis - analgesia (including NSAIDs) and hormonal therapies (combined pill, progestogens, levonorgestrel IUS) - without waiting for surgical confirmation. Fully supports the claim.",
+    "limitations": "Empirical hormonal therapy is a management, not a diagnostic, step; the article frames it correctly as treatment 'while investigation or referral is underway'.",
+    "reviewer_notes": "Accurate; consistent with early symptom management.",
+    "last_verified": "2026-09-20",
+    "review_due": "2028-03"
+  },
+  {
+    "id": "WHM-37",
+    "page_url": "https://dramandahenderson.com.au/articles/endometriosis-symptoms-starting-the-conversation-with-your-gp",
+    "page_title": "Endometriosis Symptoms: Starting the Conversation With Your GP",
+    "claim_text": "Endometriosis: A condition where tissue similar to the uterine lining grows outside the uterus and can cause pain or other symptoms.",
+    "category": "definition",
+    "risk": "LOW",
+    "status": "supported",
+    "wording_acceptable": true,
+    "recommended_wording": null,
+    "primary_source": {
+      "org": "healthdirect Australia",
+      "title": "Endometriosis - symptoms and treatment",
+      "url": "https://www.healthdirect.gov.au/endometriosis",
+      "date": "n.d."
+    },
+    "supporting_source": null,
+    "evidence_summary": "Standard definition: endometriosis is tissue similar to the endometrium growing outside the uterus. The article correctly uses 'tissue similar to' (current preferred phrasing) rather than 'endometrial tissue'. Supported.",
+    "limitations": "None material.",
+    "reviewer_notes": "Uses up-to-date 'tissue similar to the lining' phrasing.",
+    "last_verified": "2026-09-20",
+    "review_due": "2028-09"
+  }
+]

@@ -57,7 +57,7 @@ const journey = [
   {
     step: "04",
     title: "Your plan for the years ahead",
-    body: "You leave knowing what looks good, what needs attention, what's worth monitoring, and the few actions that will make the most difference.",
+    body: "You leave knowing what looks good, what needs attention, what's worth monitoring, and the priorities most worth focusing on.",
   },
 ];
 
@@ -149,15 +149,15 @@ const faqs = [
   },
   {
     q: "What health checks should I have in my 40s?",
-    a: "Commonly a blood pressure and cardiovascular risk check, cholesterol and blood glucose, a review of cancer screening (such as cervical and, for some, bowel screening), a check that vaccinations are up to date, and a conversation about weight, sleep, alcohol and mental wellbeing. What's right for you depends on your history and risk factors, which is what the consultation works out.",
+    a: "Commonly a blood pressure and cardiovascular risk check, cholesterol and blood glucose, a review of cancer screening (such as cervical, and bowel screening which is available from 45), a check that vaccinations are up to date, and a conversation about weight, sleep, alcohol and mental wellbeing. What's right for you depends on your history and risk factors, which is what the consultation works out.",
   },
   {
     q: "What health checks should I have in my 50s?",
-    a: "The 40s checks continue, and a few things come into sharper focus: bowel cancer screening from 50, closer attention to cardiovascular and diabetes risk, bone health for some people, and menopause or prostate considerations where relevant. The point of the check is to tailor this to you rather than run a fixed list.",
+    a: "The 40s checks continue, and a few things come into sharper focus: bowel cancer screening (the national program covers ages 45 to 74), closer attention to cardiovascular and diabetes risk, bone health for some people, and menopause or prostate considerations where relevant. The point of the check is to tailor this to you rather than run a fixed list.",
   },
   {
     q: "What blood tests should I have at 40 or 50?",
-    a: "Often cholesterol and other lipids, blood glucose or HbA1c, kidney and liver function, and iron studies (to check for low iron), with others added depending on your history and symptoms. Blood tests are chosen for you rather than ordered as a set battery, and part of the value is knowing which tests you don't need.",
+    a: "It depends on your age, history and risk factors. Commonly considered are cholesterol and other lipids and blood glucose or HbA1c (for cardiovascular and diabetes risk), with selected tests such as kidney function, liver function or iron studies where they're clinically useful. Blood tests are chosen for you rather than ordered as a set battery, and part of the value is knowing which tests you don't need.",
   },
   {
     q: "Does a midlife health check include blood tests?",
@@ -173,7 +173,7 @@ const faqs = [
   },
   {
     q: "What cancer screening should I have in midlife?",
-    a: "In Australia this commonly includes cervical screening, bowel screening from 50 (earlier with a family history), and breast screening for women in the relevant age range. I'll check what's due for you and help arrange anything that's been missed.",
+    a: "In Australia this commonly includes cervical screening (ages 25 to 74), bowel cancer screening (the national program covers ages 45 to 74), and breast screening for women in the relevant age range. A family history or symptoms may mean you need earlier or different checks rather than routine screening. I'll check what's due for you and help arrange anything that's been missed.",
   },
   {
     q: "What health checks should women have after 40?",
@@ -185,7 +185,7 @@ const faqs = [
   },
   {
     q: "How often should I have a comprehensive health check?",
-    a: "For most people in midlife, every one to two years is reasonable, though it depends on your health and what we find. Some results are worth monitoring more often, and I'll tell you when it makes sense to check again.",
+    a: "How often a review is useful depends on your age, your risk factors, your previous results and which screening is due, rather than a fixed schedule for everyone. Some things are worth monitoring more often, and I'll tell you when it makes sense to check again.",
   },
   {
     q: "Can Dr Amanda coordinate all of my tests and results?",

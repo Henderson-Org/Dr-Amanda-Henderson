@@ -21,6 +21,19 @@ const OUT_JSON = path.join(ROOT, "data", "medical-claims-register.json");
 const OUT_MD = path.join(ROOT, "docs", "medical-claims-register.md");
 const RISK_ORDER = { HIGH: 0, MODERATE: 1, LOW: 2 };
 
+// Ordinal maps to spot claims whose WORDING is stronger than the underlying
+// EVIDENCE (the user's priority-review signal). Judgement-based, not a score.
+const WORDING_ORD = { cautious: 1, factual: 1, moderate: 2, strong: 3, absolute: 4 };
+const EVIDENCE_ORD = {
+  high: 4, "consensus-guideline": 4, consensus: 3, "moderate-high": 3,
+  moderate: 3, limited: 2, evolving: 2,
+};
+const wordingExceedsEvidence = (e) => {
+  const w = WORDING_ORD[e.wording_strength];
+  const v = EVIDENCE_ORD[e.evidence_strength];
+  return w != null && v != null && w > v;
+};
+
 const esc = (s) => String(s ?? "").replace(/\|/g, "\\|").replace(/\n+/g, " ").trim();
 const src = (s) =>
   s && s.org ? `${esc(s.org)}${s.url ? ` ([link](${s.url}))` : ""}${s.date ? ` — ${esc(s.date)}` : ""}` : "—";
@@ -61,6 +74,8 @@ async function main() {
   const changed = entries.filter((e) =>
     ["change_recommended", "changed"].includes(e.status),
   );
+  const oldOf = (e) => e.old_wording || e.claim_text;
+  const newOf = (e) => e.new_wording || e.recommended_wording;
   const review = entries.filter((e) => e.status === "needs_review");
   const totals = {
     generated: new Date().toISOString().slice(0, 10),
@@ -125,14 +140,43 @@ async function main() {
   L.push("");
   if (!changed.length) L.push("_None._");
   else {
-    L.push("| ID | Old wording | New wording | Why | Source |");
+    L.push("| ID | Page | Old wording | New wording | Source |");
     L.push("|---|---|---|---|---|");
     for (const e of changed)
       L.push(
-        `| ${e.id} | ${esc(e.claim_text)} | ${esc(e.recommended_wording)} | ${esc(e.reviewer_notes)} | ${src(e.primary_source)} |`,
+        `| ${e.id} | ${esc(e.page_url)} | ${esc(oldOf(e))} | ${esc(newOf(e))} | ${src(e.primary_source)} |`,
       );
   }
   L.push("");
+
+  L.push("## Wording stronger than evidence (priority review)");
+  L.push("");
+  const wgtE = entries.filter(wordingExceedsEvidence);
+  const wgtEopen = wgtE.filter((e) => !["changed", "removed"].includes(e.status));
+  L.push(
+    `${wgtE.length} claim(s) had wording stronger than the evidence; ${wgtEopen.length} remain open (the rest were changed).`,
+  );
+  L.push("");
+  if (wgtE.length) {
+    L.push("| ID | Claim | Wording | Evidence | Status |");
+    L.push("|---|---|---|---|---|");
+    for (const e of wgtE)
+      L.push(`| ${e.id} | ${esc(e.claim_text)} | ${esc(e.wording_strength)} | ${esc(e.evidence_strength)} | ${esc(e.status)} |`);
+    L.push("");
+  }
+
+  L.push("## Guidance-sensitive claims (scheduled review)");
+  L.push("");
+  const gs = entries.filter((e) => e.guidance_sensitive === true);
+  L.push(`${gs.length} claim(s) may go out of date even if currently correct (screening ages/intervals, immunisation & pregnancy-vaccine schedules, MHT, ADHD pathways, preventive recommendations).`);
+  L.push("");
+  if (gs.length) {
+    L.push("| ID | Page | Topic | Review due | Source date |");
+    L.push("|---|---|---|---|---|");
+    for (const e of gs.sort((a, b) => String(a.review_due).localeCompare(String(b.review_due))))
+      L.push(`| ${e.id} | ${esc(e.page_url)} | ${esc(e.category)} | ${esc(e.review_due)} | ${esc(e.primary_source?.date)} |`);
+    L.push("");
+  }
 
   L.push("## Needs specialist / legal review");
   L.push("");
@@ -152,8 +196,13 @@ async function main() {
     L.push(`### ${pg}`);
     L.push("");
     for (const e of entries.filter((x) => x.page_url === pg)) {
-      L.push(`- **${e.id}** _(${e.risk} · ${e.category} · ${e.status})_ — "${esc(e.claim_text)}"`);
-      if (e.recommended_wording) L.push(`  - → **Recommended:** "${esc(e.recommended_wording)}"`);
+      const strengths = [
+        e.wording_strength ? `wording:${e.wording_strength}` : null,
+        e.evidence_strength ? `evidence:${e.evidence_strength}` : null,
+        e.guidance_sensitive ? "guidance-sensitive" : null,
+      ].filter(Boolean).join(" · ");
+      L.push(`- **${e.id}** _(${e.risk} · ${e.category} · ${e.status}${strengths ? " · " + strengths : ""})_ — "${esc(e.claim_text || e.old_wording)}"`);
+      if (newOf(e)) L.push(`  - → **New/Recommended:** "${esc(newOf(e))}"`);
       L.push(`  - Source: ${src(e.primary_source)}${e.primary_source?.title ? ` — ${esc(e.primary_source.title)}` : ""}`);
       if (e.evidence_summary) L.push(`  - Evidence: ${esc(e.evidence_summary)}`);
       if (e.limitations) L.push(`  - Limitations/context: ${esc(e.limitations)}`);

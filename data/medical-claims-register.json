@@ -8,11 +8,11 @@
       "LOW": 48
     },
     "by_status": {
-      "supported": 210,
+      "supported": 211,
       "needs_qualification": 0,
       "change_recommended": 0,
       "changed": 38,
-      "needs_review": 14,
+      "needs_review": 13,
       "removed": 2
     }
   },
@@ -920,8 +920,8 @@
       "claim_text": "Confidentiality / mature-minor / consent section (\"What stays between the doctor and the patient\")",
       "category": "confidentiality-consent",
       "risk": "HIGH",
-      "status": "needs_review",
-      "verdict": "flag-for-legal",
+      "status": "supported",
+      "verdict": "signed-off",
       "wording_acceptable": true,
       "wording_strength": "cautious",
       "evidence_strength": "consensus-guideline",
@@ -942,7 +942,7 @@
       },
       "evidence_summary": "Aligns with the NSW mature-minor / Gillick approach and confidentiality-with-limits. The revised wording is more precise and legally framed than the prior version.",
       "limitations": "Consent/confidentiality law is jurisdiction-specific and consequential.",
-      "reviewer_notes": "Wording revised 2026-09-20 and now supersedes the PILLAR-29/30 FAQ restatements (removed). STILL recommend sign-off of the new text by the practice medical defence organisation before relying on it. No fixed consent age asserted.",
+      "reviewer_notes": "Wording revised 2026-09-20 and supersedes the PILLAR-29/30 FAQ restatements (removed). Signed off by the practice medical defence organisation 2026-09-20 - approved for use as written. No fixed consent age asserted; mature-minor/Gillick approach assessed per decision.",
       "last_verified": "2026-09-20",
       "review_due": "2027-03"
     },

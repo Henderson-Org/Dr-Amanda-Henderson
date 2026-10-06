@@ -16,7 +16,7 @@ export const site = {
   locale: "en_AU",
   tagline: "Thoughtful, thorough GP care for every stage of life.",
   description:
-    "Dr Amanda Henderson is a female family GP in Maroubra, Sydney, with a particular interest in women's health, pregnancy and preconception care, shared antenatal care, children's health and family medicine.",
+    "Dr Amanda Henderson is a female family GP (family doctor) in Maroubra, in Sydney's Eastern Suburbs, with a particular interest in women's health, pregnancy and preconception care, shared antenatal care, children's health and family medicine. She cares for patients from Maroubra and the surrounding Eastern Suburbs.",
 } as const;
 
 export const practice = {
@@ -113,7 +113,7 @@ export const qualifications = [
 
 export const credentials = [
   "Fellow of the Royal Australian College of General Practitioners (FRACGP)",
-  "Female family GP in Maroubra, Sydney",
+  "Female family GP in Maroubra, Sydney's Eastern Suburbs",
   "Registered shared antenatal care provider - Royal Hospital for Women, Randwick",
 ] as const;
 
@@ -754,15 +754,19 @@ export const practiceStatus: {
 export const locationFaqs: { q: string; a: string }[] = [
   {
     q: "Where is Dr Amanda Henderson's practice?",
-    a: `Dr Amanda Henderson consults at ${practice.name}, ${fullAddress} - in South Maroubra, in Sydney's eastern suburbs. Use the "Get directions" link on this page to open the exact location in Google Maps.`,
+    a: `Dr Amanda Henderson consults at ${practice.name}, ${fullAddress} - in South Maroubra, in Sydney's Eastern Suburbs. Use the "Get directions" link on this page to open the exact location in Google Maps.`,
+  },
+  {
+    q: "Is Maroubra in Sydney's Eastern Suburbs?",
+    a: "Yes. Maroubra - including South Maroubra, where the practice is based - is a suburb in Sydney's Eastern Suburbs, alongside neighbouring suburbs such as Randwick, Kingsford, Malabar, Matraville and Pagewood.",
   },
   {
     q: "Which suburbs does the practice serve?",
-    a: `The practice is based in South Maroubra and welcomes patients from across the eastern suburbs, including ${areasSentence()}.`,
+    a: `The practice is in South Maroubra, in Sydney's Eastern Suburbs, and welcomes patients from across the surrounding Eastern Suburbs, including ${areasSentence()}.`,
   },
   {
     q: "Can I see the GP if I live in Coogee, Randwick or Kingsford?",
-    a: `Yes. The practice is in South Maroubra and welcomes patients from neighbouring suburbs such as ${areasSentence(neighbouringAreas)} - most are only a short drive away.`,
+    a: `Yes. The practice is in South Maroubra and welcomes patients from neighbouring Eastern Suburbs such as ${areasSentence(neighbouringAreas)} - most are only a short drive away.`,
   },
   {
     q: "Can much of my pregnancy or ongoing care happen close to home?",

@@ -216,11 +216,11 @@ export default function ContactPage() {
         <div className="container-page py-14">
           <div className="max-w-3xl">
             <h2 className="font-serif text-2xl font-semibold sm:text-3xl">
-              Serving Maroubra &amp; the eastern suburbs
+              Serving Maroubra &amp; Sydney&rsquo;s Eastern Suburbs
             </h2>
             <p className="mt-4 leading-8 text-muted">
               The practice is based in <strong className="font-medium text-ink">South
-              Maroubra</strong>, in Sydney&rsquo;s eastern suburbs. Maroubra and
+              Maroubra</strong>, in Sydney&rsquo;s Eastern Suburbs. Maroubra and
               South Maroubra are home, and patients are also very welcome from
               neighbouring {areasSentence(neighbouringAreas)} - most are only a
               short drive away.

@@ -175,7 +175,8 @@ export function ServicePage({ slug }: { slug: string }) {
                 href="/about"
                 className="font-medium text-sage-700 hover:underline"
               >
-                Dr Amanda Henderson, a family GP (FRACGP) in Maroubra
+                Dr Amanda Henderson, a family GP (FRACGP) in Maroubra, in
+                Sydney&rsquo;s Eastern Suburbs
               </Link>
               .
             </p>

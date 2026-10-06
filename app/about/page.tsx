@@ -23,15 +23,15 @@ import {
 } from "@/lib/site";
 
 const description =
-  "Dr Amanda Henderson (MBBS, FRACGP) is a female family GP in Maroubra and a registered shared antenatal care provider with the Royal Hospital for Women.";
+  "Dr Amanda Henderson (MBBS, FRACGP) is a female family GP and family doctor in Maroubra, in Sydney's Eastern Suburbs, and a registered shared antenatal care provider with the Royal Hospital for Women.";
 
 export const metadata: Metadata = {
-  title: { absolute: "About Dr Amanda Henderson | Female Family GP, Maroubra" },
+  title: { absolute: "About Dr Amanda Henderson | GP, Maroubra & Eastern Suburbs" },
   description,
   alternates: { canonical: "/about" },
   openGraph: {
     type: "profile",
-    title: "About Dr Amanda Henderson | Female Family GP, Maroubra",
+    title: "About Dr Amanda Henderson | Female Family GP, Maroubra & Eastern Suburbs",
     description,
     url: `${site.url}/about`,
     images: ["/images/og-amanda.jpg"],
@@ -42,11 +42,11 @@ export const metadata: Metadata = {
 const aboutFaqs = [
   {
     q: "Who is Dr Amanda Henderson?",
-    a: "Dr Amanda Henderson is a female family GP (general practitioner) who consults at GP Maroubra in South Maroubra, in Sydney's eastern suburbs. She is a Fellow of the Royal Australian College of General Practitioners (FRACGP).",
+    a: "Dr Amanda Henderson is a female family GP (general practitioner) who consults at GP Maroubra in South Maroubra, in Sydney's Eastern Suburbs. She is a Fellow of the Royal Australian College of General Practitioners (FRACGP).",
   },
   {
     q: "What kind of doctor is Dr Amanda Henderson?",
-    a: "She is a general practitioner - a family GP who cares for patients of all ages, with particular experience and interest in women's health, pregnancy, children's health and general family medicine.",
+    a: "She is a general practitioner - a family GP, sometimes called a family doctor - who cares for patients of all ages, with particular experience and interest in women's health, pregnancy, children's health and general family medicine.",
   },
   {
     q: "What are Dr Amanda Henderson's qualifications?",
@@ -54,7 +54,7 @@ const aboutFaqs = [
   },
   {
     q: "Where does Dr Amanda Henderson practise?",
-    a: `She consults at ${practice.name}, ${fullAddress}, welcoming patients and families from across Sydney's eastern suburbs, including ${areasSentence()}.`,
+    a: `She consults at ${practice.name}, ${fullAddress}, welcoming patients and families from across Sydney's Eastern Suburbs, including ${areasSentence()}.`,
   },
   {
     q: "What does Dr Amanda Henderson particularly help with?",
@@ -64,7 +64,7 @@ const aboutFaqs = [
 
 // Key-facts block (machine-extractable, human-readable).
 const factRows = [
-  { label: "Role", value: "Female family GP (general practitioner)" },
+  { label: "Role", value: "Female family GP / family doctor (general practitioner)" },
   { label: "Qualifications", value: "MBBS · FRACGP" },
   { label: "Practice", value: practice.name },
   { label: "Location", value: fullAddress },
@@ -77,7 +77,7 @@ const factRows = [
     label: "Hospital program",
     value: "Shared antenatal care - Royal Hospital for Women, Randwick",
   },
-  { label: "Areas served", value: `${nearbyAreas.join(", ")} (Sydney's eastern suburbs)` },
+  { label: "Areas served", value: `${nearbyAreas.join(", ")} (Sydney's Eastern Suburbs)` },
 ];
 
 const crumbs = [
@@ -115,11 +115,12 @@ export default function AboutPage() {
             </h1>
             <div className="mt-6 space-y-4 text-lg leading-8 text-muted">
               <p>
-                I&rsquo;m Dr Amanda Henderson, a female family GP based in
-                Maroubra in Sydney&rsquo;s eastern suburbs. I chose general
-                practice because I love the breadth of it - and because it
-                lets me get to know people and their families over time, rather
-                than for a single problem.
+                I&rsquo;m Dr Amanda Henderson, a female family GP - a family
+                doctor - based in Maroubra, in Sydney&rsquo;s Eastern Suburbs,
+                and a Fellow of the Royal Australian College of General
+                Practitioners (FRACGP). I chose general practice because I love
+                the breadth of it - and because it lets me get to know people
+                and their families over time, rather than for a single problem.
               </p>
               <p>
                 My approach is thorough and unhurried. I&rsquo;d rather
@@ -153,8 +154,8 @@ export default function AboutPage() {
             {practice.name}, {fullAddress}. She cares for patients of all ages,
             with particular experience in women&rsquo;s health, pregnancy and
             preconception care, children&rsquo;s health and general family
-            medicine, and welcomes patients from across Sydney&rsquo;s eastern
-            suburbs.
+            medicine, and welcomes patients from across Sydney&rsquo;s Eastern
+            Suburbs.
           </p>
           <dl className="mt-6 grid gap-x-8 gap-y-4 sm:grid-cols-2">
             {factRows.map((row) => (

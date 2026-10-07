@@ -17,9 +17,9 @@ export const dynamic = "force-static";
 export function GET() {
   const u = site.url;
   const lines = [
-    "# Dr Amanda Henderson - Female Family GP, Maroubra, Sydney",
+    "# Dr Amanda Henderson - Female Family GP, Maroubra, Sydney's Eastern Suburbs",
     "",
-    `> Dr Amanda Henderson is a female family GP (general practitioner, FRACGP) who consults at ${practice.name}, ${fullAddress}, Australia. She cares for patients of all ages, with particular experience and interest in women's health, pregnancy and preconception care (including shared antenatal care with the Royal Hospital for Women, Randwick), children's health, general family medicine and preventative health. She welcomes patients from across Sydney's eastern suburbs.`,
+    `> Dr Amanda Henderson is a female family GP and family doctor (general practitioner, FRACGP) who consults at ${practice.name}, ${fullAddress}, Australia - in Maroubra, in Sydney's Eastern Suburbs. She cares for patients of all ages, with particular experience and interest in women's health, pregnancy and preconception care (including shared antenatal care with the Royal Hospital for Women, Randwick), children's health, general family medicine and preventative health. She welcomes patients from across Sydney's Eastern Suburbs.`,
     "",
     "## Key pages",
     `- [About Dr Amanda Henderson](${u}/about): who she is, qualifications (MBBS, FRACGP), approach and practice location`,
@@ -49,8 +49,8 @@ export function GET() {
           `- New patients: ${practiceStatus.acceptingNewPatients ? "accepting new patients" : "not currently accepting new patients"}`,
         ]
       : []),
-    `- Primary location: Maroubra / South Maroubra`,
-    `- Areas served: ${nearbyAreas.join(", ")} (Sydney's eastern suburbs)`,
+    `- Primary location: Maroubra (South Maroubra), in Sydney's Eastern Suburbs`,
+    `- Areas served: ${nearbyAreas.join(", ")} (Sydney's Eastern Suburbs)`,
     "",
   ];
   return new Response(lines.join("\n"), {

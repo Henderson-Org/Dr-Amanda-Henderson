@@ -292,8 +292,8 @@ export default function MidlifeHealthCheckPage() {
               >
                 Dr Amanda Henderson
               </Link>
-              , a GP in South Maroubra, caring for patients across Sydney&rsquo;s
-              Eastern Suburbs.
+              , a GP and family doctor in Maroubra, caring for patients across
+              Sydney&rsquo;s Eastern Suburbs.
             </p>
           </div>
           <div className="relative">
@@ -555,15 +555,16 @@ export default function MidlifeHealthCheckPage() {
               <div className="mt-5 space-y-4 text-lg leading-8 text-muted">
                 <p>
                   The Midlife Health Check is led by Dr Amanda Henderson, a
-                  family GP (FRACGP) based in South Maroubra. Amanda values
+                  family GP (FRACGP) based in Maroubra, in Sydney&rsquo;s Eastern
+                  Suburbs. Amanda values
                   continuity - the kind of care where one doctor knows your
                   history and follows it over time - and brings that same
                   thoroughness to a midlife review: unhurried, evidence-based,
                   and focused on what&rsquo;s genuinely useful for you.
                 </p>
                 <p>
-                  She cares for patients across Sydney&rsquo;s Eastern Suburbs,
-                  including {areasSentence(nearbyAreas.slice(2))}.
+                  She cares for patients from Maroubra and the surrounding
+                  suburbs, including {areasSentence(nearbyAreas.slice(2))}.
                 </p>
               </div>
               <div className="mt-7 flex flex-wrap gap-3">

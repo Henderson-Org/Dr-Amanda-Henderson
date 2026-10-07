@@ -20,16 +20,15 @@ import {
 import { getAllArticles } from "@/lib/articles";
 
 const description =
-  "Dr Amanda Henderson - a family GP in Maroubra who takes the time to listen, talk through your concerns, and help you make sense of what comes next.";
+  "Dr Amanda Henderson is a family GP and family doctor in Maroubra, in Sydney's Eastern Suburbs - taking the time to listen, talk through your concerns, and help you make sense of what comes next.";
 
 export const metadata: Metadata = {
-  // Homepage keeps the established, well-ranking title.
-  title: "Dr Amanda Henderson | Family GP, Maroubra Sydney",
+  title: "Dr Amanda Henderson | Family GP, Maroubra & Eastern Suburbs",
   description,
   alternates: { canonical: "/" },
   openGraph: {
     type: "website",
-    title: "Dr Amanda Henderson | Female Family GP, Maroubra Sydney",
+    title: "Dr Amanda Henderson | Female Family GP, Maroubra & Eastern Suburbs",
     description,
     url: site.url,
     images: ["/images/og-amanda.jpg"],
@@ -47,7 +46,7 @@ export default function HomePage() {
           webPageSchema({
             type: "WebPage",
             path: "/",
-            name: "Dr Amanda Henderson | Female Family GP, Maroubra",
+            name: "Dr Amanda Henderson - Female Family GP in Maroubra, Sydney's Eastern Suburbs",
             description,
             primaryImage: `${site.url}/images/dr-amanda-henderson-960.webp`,
             hasBreadcrumb: true,
@@ -59,14 +58,15 @@ export default function HomePage() {
       <section className="relative overflow-hidden">
         <div className="container-page grid items-center gap-10 py-14 md:py-20 lg:grid-cols-[1.1fr_0.9fr] lg:gap-16">
           <div className="animate-fade-up">
-            <p className="eyebrow">Female GP · Maroubra, Sydney</p>
+            <p className="eyebrow">Female GP · Maroubra · Sydney&rsquo;s Eastern Suburbs</p>
             <h1 className="mt-3 font-serif text-4xl font-semibold leading-[1.08] tracking-tight sm:text-5xl">
               Dr Amanda Henderson
             </h1>
             <p className="mt-6 max-w-xl text-lg leading-8 text-muted">
-              Hi, I&rsquo;m Amanda, a family GP in Maroubra. I take the time to
-              understand what&rsquo;s going on, talk through your concerns
-              properly, and help you make sense of what comes next.
+              Hi, I&rsquo;m Amanda, a family GP and family doctor in Maroubra, in
+              Sydney&rsquo;s Eastern Suburbs. I take the time to understand
+              what&rsquo;s going on, talk through your concerns properly, and
+              help you make sense of what comes next.
             </p>
             <div className="mt-8 flex flex-wrap items-center gap-3">
               <BookButton />
@@ -197,8 +197,9 @@ export default function HomePage() {
             <div className="mt-5 space-y-4 text-lg leading-8 text-muted">
               <p>
                 I&rsquo;m a Fellow of the Royal Australian College of General
-                Practitioners and a female family GP based in Maroubra. I look
-                after women through the different stages of life, care for
+                Practitioners and a female family GP based in Maroubra, in
+                Sydney&rsquo;s Eastern Suburbs. I look after women through the
+                different stages of life, care for
                 pregnancies as a shared antenatal care provider with the Royal
                 Hospital for Women, and enjoy the variety of caring for whole
                 families - from babies and children to their parents and
@@ -326,7 +327,7 @@ export default function HomePage() {
           </div>
           <div className="text-muted">
             <h3 className="font-serif text-lg font-semibold text-ink">
-              Serving Maroubra &amp; the eastern suburbs
+              Serving Maroubra &amp; Sydney&rsquo;s Eastern Suburbs
             </h3>
             <p className="mt-3 leading-7">
               Based in South Maroubra, in Sydney&rsquo;s Eastern Suburbs.

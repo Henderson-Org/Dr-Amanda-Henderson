@@ -10,15 +10,15 @@ export function Footer() {
             Dr Amanda Henderson
           </p>
           <p className="mt-1 text-sm text-muted">
-            Female family GP · {practice.suburb}, Sydney
+            GP and family doctor in Maroubra, Sydney&rsquo;s Eastern Suburbs
           </p>
           <p className="mt-4 max-w-sm text-sm leading-6 text-muted">
             Thoughtful, thorough general practice with a particular interest in
             women&rsquo;s health, pregnancy, children and family medicine.
           </p>
           <p className="mt-4 text-xs text-muted">
-            Serving {nearbyAreas.slice(0, 6).join(", ")} and the eastern
-            suburbs.
+            Serving {nearbyAreas.slice(0, 6).join(", ")} and the surrounding
+            Eastern Suburbs.
           </p>
         </div>
 
